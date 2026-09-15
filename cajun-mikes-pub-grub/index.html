@@ -1,58 +1,91 @@
 <!doctype html><html lang='en'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'>
-<meta name='robots' content='noindex,nofollow'><title>Cajun Mikes Pub &amp; Grub · Pub in New Orleans</title>
-<meta name='description' content='Cajun Mikes Pub &amp; Grub is a pub in Central Business District, known for dive bar, poboys, watching a game, gumbo and shrimp po boy.'>
-<link rel='preconnect' href='https://fonts.googleapis.com'><link href='https://fonts.googleapis.com/css2?family=Fraunces:wght@600;700&family=Inter:wght@400;600&family=Barlow+Condensed:wght@700&display=swap' rel='stylesheet'>
+<meta name='robots' content='noindex,nofollow'><title>Cajun Mikes Pub &amp; Grub · Pub · New Orleans</title>
+<meta name='description' content='Cold beer, a jukebox, a gator on the sign, and a kitchen that takes the sandwich seriously. Since 2000.'>
+<link rel='preconnect' href='https://fonts.googleapis.com'><link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
+<link href='https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600&display=swap' rel='stylesheet'>
 <style>
-:root{--bg:#14161a;--ink:#f3efe6;--acc:#e0a040;--acc2:#7aa38a;--card:#1e2127}
-*{box-sizing:border-box}html{scroll-behavior:smooth}
-body{margin:0;background:var(--bg);color:var(--ink);font-family:'Inter', system-ui, sans-serif;line-height:1.55}
-h1,h2,h3{font-family:'Fraunces', Georgia, serif;font-weight:700;letter-spacing:-.01em;margin:0 0 .4em}
-a{color:var(--acc)}
-.wrap{max-width:1100px;margin:0 auto;padding:0 20px}
-nav{display:flex;justify-content:space-between;align-items:center;padding:14px 0;font-size:.95rem}
-nav .brand{font-family:'Fraunces', Georgia, serif;font-size:1.25rem;font-weight:700;text-decoration:none;color:var(--ink)}
-nav .links a{margin-left:18px;text-decoration:none;color:var(--ink);opacity:.85}
-.hero{position:relative;min-height:72vh;display:grid;align-items:end;color:#fff;background:#333 center/cover no-repeat;background-image:linear-gradient(180deg,rgba(0,0,0,.15),rgba(0,0,0,.7)),url('img/01.jpg');}
-.hero .wrap{padding-bottom:48px;padding-top:120px}
-.hero h1{font-size:clamp(2.4rem,6vw,4.5rem);line-height:1.02;margin-bottom:.3em;text-shadow:0 2px 20px rgba(0,0,0,.4)}
-.hero p{font-size:1.15rem;max-width:620px;margin:0 0 1.2em;opacity:.95}
-.badge{display:inline-flex;gap:8px;align-items:center;background:rgba(255,255,255,.14);backdrop-filter:blur(6px);padding:6px 12px;border-radius:999px;font-size:.95rem;margin-bottom:14px}
-.btn{display:inline-block;padding:14px 22px;border-radius:10px;text-decoration:none;font-weight:600;margin:0 10px 10px 0}
-.btn.p{background:var(--acc);color:#fff}.btn.s{background:rgba(255,255,255,.92);color:#111}
-section{padding:64px 0}
-.grid2{display:grid;grid-template-columns:1.2fr .8fr;gap:40px;align-items:start}
-@media(max-width:800px){.grid2{grid-template-columns:1fr}.hero{min-height:60vh}}
-.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
-.chips span{background:var(--card);border:1px solid rgba(0,0,0,.08);padding:7px 12px;border-radius:999px;font-size:.92rem}
-.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));grid-auto-rows:200px;gap:10px}
-.gallery img{width:100%;height:100%;object-fit:cover;border-radius:10px;display:block}
-.gallery img:nth-child(1){grid-column:span 2;grid-row:span 2}
-.reviews{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px}
-.rev{background:var(--card);border-radius:14px;padding:22px;box-shadow:0 4px 24px rgba(0,0,0,.05)}
-.rev .stars{color:#e2a400;letter-spacing:2px}.rev p{margin:.6em 0}.rev small{opacity:.7}
-table{width:100%;border-collapse:collapse}td{padding:9px 0;border-bottom:1px solid rgba(0,0,0,.08)}td:last-child{text-align:right}
-.card{background:var(--card);border-radius:14px;padding:26px;box-shadow:0 4px 24px rgba(0,0,0,.05)}
-iframe{width:100%;height:340px;border:0;border-radius:14px}
-footer{padding:36px 0 60px;font-size:.92rem;opacity:.8}
-.preview{position:fixed;bottom:14px;right:14px;background:#111;color:#fff;padding:8px 12px;border-radius:8px;font-size:.8rem;opacity:.85;z-index:9}
+:root{--bg:#141312;--bg2:#1d1b19;--ink:#f4efe6;--muted:#b8b0a3;--acc:#e0562f;--acc2:#f2b632;--accink:#fff;--card:#211f1c;--r:6px}
+*{box-sizing:border-box}html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:'Inter', system-ui, sans-serif;line-height:1.6;font-size:17px}
+body:before{content:'';position:fixed;inset:0;pointer-events:none;z-index:0;opacity:.07;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+h1,h2,h3,.disp{font-family:'Bebas Neue', 'Barlow Condensed', Impact, sans-serif;margin:0;line-height:1.1}
+h1{font-size:clamp(2.6rem,6vw,5rem);font-weight:400;letter-spacing:.01em;line-height:.92}
+h2{font-size:clamp(1.9rem,3.6vw,2.9rem);font-weight:400;letter-spacing:-.01em;margin-bottom:.5em}
+h3{font-size:1.25rem;font-weight:600}
+p{margin:0 0 1em} a{color:var(--acc)} img{display:block;max-width:100%}
+.wrap{max-width:1180px;margin:0 auto;padding:0 24px;position:relative;z-index:1}
+.kicker{font-size:.8rem;letter-spacing:.14em;text-transform:uppercase;font-weight:600;color:var(--acc2)}
+.top{position:sticky;top:0;z-index:50;backdrop-filter:blur(10px);background:color-mix(in srgb,var(--bg) 82%,transparent);border-bottom:1px solid color-mix(in srgb,var(--ink) 10%,transparent)}
+.top .wrap{display:flex;justify-content:space-between;align-items:center;height:62px;gap:20px}
+.brand{font-family:'Bebas Neue', 'Barlow Condensed', Impact, sans-serif;font-size:1.35rem;font-weight:600;text-decoration:none;color:var(--ink);white-space:nowrap}
+.nav a{text-decoration:none;color:var(--ink);opacity:.8;margin-left:22px;font-size:.95rem;font-weight:500} .nav a:hover{opacity:1}
+.btn{display:inline-flex;align-items:center;gap:8px;padding:13px 20px;border-radius:var(--r);text-decoration:none;font-weight:600;font-size:.98rem;transition:transform .15s,box-shadow .15s}
+.btn:hover{transform:translateY(-1px)} .btn.p{background:var(--acc);color:var(--accink)} .btn.g{background:transparent;color:var(--ink);border:1.5px solid color-mix(in srgb,var(--ink) 30%,transparent)} .btn.w{background:#fff;color:#111}
+.hero{position:relative;min-height:min(92vh,900px);display:grid;align-items:end;color:#fff;isolation:isolate}
+.hero img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:-2}
+.hero:after{content:'';position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,rgba(0,0,0,.25) 0%,rgba(0,0,0,.1) 35%,rgba(0,0,0,.78) 100%)}
+.hero .wrap{padding:120px 24px 64px;max-width:1180px}
+.hero .kicker{color:#fff;opacity:.85}
+.hero h1{max-width:20ch;margin:.35em 0 .5em;text-shadow:0 2px 30px rgba(0,0,0,.35)}
+.hero p.sub{font-size:1.15rem;max-width:58ch;opacity:.92;margin-bottom:1.6em}
+.rating{display:inline-flex;margin-top:10px;align-items:center;gap:10px;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);backdrop-filter:blur(8px);padding:8px 14px;border-radius:999px;font-size:.92rem;margin-bottom:22px}
+.rating b{font-size:1.05rem} .stars{color:#ffc53d;letter-spacing:1px}
+.actions{display:flex;flex-wrap:wrap;gap:12px}
+section{padding:96px 0;position:relative} section.alt{background:var(--bg2);color:var(--ink)}
+.intro{display:grid;grid-template-columns:1.15fr .85fr;gap:64px;align-items:start}
+.intro .story p{font-size:1.08rem} .intro .story p:first-of-type:first-letter{font-family:'Bebas Neue', 'Barlow Condensed', Impact, sans-serif;font-size:3.4em;float:left;line-height:.85;padding:6px 10px 0 0;color:var(--acc)}
+.facts{background:var(--card);border-radius:var(--r);padding:30px;box-shadow:0 10px 40px rgba(0,0,0,.35);border:1px solid color-mix(in srgb,var(--ink) 8%,transparent)}
+.facts h3{margin-bottom:14px} .facts ul{list-style:none;padding:0;margin:0 0 18px} .facts li{padding:9px 0;border-bottom:1px solid color-mix(in srgb,var(--ink) 10%,transparent);display:flex;gap:10px;align-items:flex-start} .facts li:before{content:'';width:8px;height:8px;border-radius:50%;background:var(--acc2);margin-top:9px;flex:none}
+.facts .addr{font-weight:500} .facts .today{color:var(--muted);font-size:.95rem}
+.sig{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:22px;margin-top:40px}
+.sig article{background:var(--card);border-radius:var(--r);overflow:hidden;box-shadow:0 8px 30px rgba(0,0,0,.35);display:flex;flex-direction:column;transition:transform .2s} .sig article:hover{transform:translateY(-4px)}
+.sig img{width:100%;aspect-ratio:4/3;object-fit:cover} .sig .b{padding:20px 22px 24px} .sig h3{margin-bottom:6px} .sig p{color:var(--muted);margin:0;font-size:.97rem}
+.num{font-family:'Bebas Neue', 'Barlow Condensed', Impact, sans-serif;color:var(--acc);font-size:.95rem;letter-spacing:.08em;margin-bottom:6px;display:block;font-weight:600}
+.quoteband{display:grid;grid-template-columns:1fr 1fr;min-height:520px} .quoteband img{width:100%;height:100%;object-fit:cover;min-height:360px}
+.quoteband .q{padding:64px;display:flex;flex-direction:column;justify-content:center;background:var(--bg2);color:var(--ink)}
+.quoteband blockquote{margin:0;font-family:'Bebas Neue', 'Barlow Condensed', Impact, sans-serif;font-size:clamp(1.6rem,2.6vw,2.3rem);line-height:1.25;font-weight:400}
+.quoteband cite{display:block;margin-top:22px;font-style:normal;font-size:.9rem;opacity:.75;letter-spacing:.08em;text-transform:uppercase}
+.reviews{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:22px;margin-top:36px}
+.rev{background:var(--card);border-radius:var(--r);padding:28px;box-shadow:0 8px 30px rgba(0,0,0,.35)} .rev p{font-size:1.02rem;margin:.7em 0 .9em} .rev small{color:var(--muted)}
+.sumline{display:flex;align-items:center;gap:16px;flex-wrap:wrap;color:var(--muted)} .sumline b{font-family:'Bebas Neue', 'Barlow Condensed', Impact, sans-serif;font-size:3rem;color:var(--ink);line-height:1}
+.mosaic{display:grid;grid-template-columns:repeat(4,1fr);grid-auto-rows:240px;gap:12px;margin-top:36px}
+.mosaic img{width:100%;height:100%;object-fit:cover;border-radius:var(--r)} .mosaic img:nth-child(1){grid-column:span 2;grid-row:span 2} .mosaic img:nth-child(6){grid-column:span 2}
+.visit{display:grid;grid-template-columns:.9fr 1.1fr;gap:48px;align-items:start}
+table{width:100%;border-collapse:collapse;font-size:1rem} td{padding:10px 0;border-bottom:1px solid color-mix(in srgb,var(--ink) 10%,transparent)} td:last-child{text-align:right} tr.today td{font-weight:600;color:var(--acc)}
+iframe{width:100%;height:100%;min-height:420px;border:0;border-radius:var(--r);filter:invert(.9) hue-rotate(180deg)}
+.tip{margin-top:28px;padding:20px 24px;border-left:4px solid var(--acc2);background:color-mix(in srgb,var(--acc2) 10%,transparent);border-radius:0 var(--r) var(--r) 0} .tip b{display:block;font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--acc2);margin-bottom:6px}
+footer{padding:56px 0 110px;border-top:1px solid color-mix(in srgb,var(--ink) 10%,transparent);color:var(--muted);font-size:.95rem}
+footer .row{display:flex;justify-content:space-between;gap:24px;flex-wrap:wrap} footer a{color:var(--ink)}
+.mobilebar{display:none}
+.preview{position:fixed;top:70px;right:14px;background:#111;color:#fff;padding:6px 10px;border-radius:6px;font-size:.72rem;letter-spacing:.06em;opacity:.8;z-index:60}
+@media(max-width:900px){.intro,.visit,.quoteband{grid-template-columns:1fr} .mosaic{grid-template-columns:repeat(2,1fr);grid-auto-rows:170px} .mosaic img:nth-child(6){grid-column:span 1} .quoteband .q{padding:44px 24px} section{padding:64px 0} .nav{display:none} .hero{min-height:78vh} .hero .wrap{padding:100px 24px 48px}
+ .mobilebar{display:flex;position:fixed;bottom:0;left:0;right:0;z-index:70;background:var(--card);border-top:1px solid color-mix(in srgb,var(--ink) 12%,transparent);padding:10px 12px;gap:10px} .mobilebar a{flex:1;justify-content:center} iframe{min-height:300px}}
 </style></head><body>
-<header class='hero'><div class='wrap'><nav><a class='brand' href='#'>Cajun Mikes Pub &amp; Grub</a><div class='links'><a href='#about'>About</a><a href='#photos'>Photos</a><a href='#visit'>Hours</a><a href='tel:+15045660055'>Call</a></div></nav>
-<div class='badge'>★ 4.3 · 1091 Google reviews</div>
-<h1>Cajun Mikes Pub &amp; Grub</h1><p>Pub in Central Business District. Dive bar · Poboys · Watching a game</p>
-<div><a class='btn p' href='tel:+15045660055'>Call (504) 566-0055</a><a class='btn s' href='https://www.google.com/maps?cid=10086163825848937856' target='_blank' rel='noopener'>Directions</a></div></div></header>
+<div class='top'><div class='wrap'><a class='brand' href='#'>Cajun Mikes Pub &amp; Grub</a><nav class='nav'><a href='#story'>Story</a><a href='#menu'>What to order</a><a href='#photos'>Photos</a><a href='#visit'>Hours & map</a><a href='tel:+15045660055' style='opacity:1;color:var(--acc);font-weight:600'>(504) 566-0055</a></nav></div></div>
+<header class='hero'><img src='img/15.jpg' alt='Cajun Mikes Pub &amp; Grub' fetchpriority='high'><div class='wrap'>
+<div class='rating'><span class='stars'>★★★★☆</span><b>4.3</b><span>1,091 Google reviews</span></div>
+<div class='kicker'>Pub &amp; po&#x27;boy counter · 116 Baronne St, CBD</div>
+<h1>The dive bar a block off Canal that quietly makes one of the best roast beef po&#x27;boys downtown.</h1>
+<p class='sub'>Cold beer, a jukebox, a gator on the sign, and a kitchen that takes the sandwich seriously. Since 2000.</p>
+<div class='actions'><a class='btn p' href='tel:+15045660055'>Call (504) 566-0055</a><a class='btn w' href='https://www.google.com/maps?cid=10086163825848937856' target='_blank' rel='noopener'>Get directions</a></div></div></header>
 <main>
-<section id='about'><div class='wrap grid2'><div><h2>About</h2><p>Cajun Mikes Pub &amp; Grub is a pub in Central Business District, known for dive bar, poboys, watching a game, gumbo and shrimp po boy.</p><h3 style='margin-top:1.4em'>What people come for</h3><div class='chips'><span>dive bar</span><span>poboys</span><span>watching a game</span><span>gumbo</span><span>shrimp po boy</span><span>cochon de lait</span><span>red beans and rice</span><span>Boudin Balls</span></div></div>
-<div class='card'><h3>Find us</h3><p>116 Baronne St, New Orleans, LA 70112</p><p><a href='tel:+15045660055'>(504) 566-0055</a></p><p><a href='https://www.google.com/maps?cid=10086163825848937856' target='_blank' rel='noopener'>Open in Google Maps</a></p></div></div></section>
-<section id='photos'><div class='wrap'><h2>Photos</h2><div class='gallery'><img src='img/02.jpg' alt='Cajun Mikes Pub &amp; Grub' loading='lazy'><img src='img/03.jpg' alt='Cajun Mikes Pub &amp; Grub' loading='lazy'><img src='img/04.jpg' alt='Cajun Mikes Pub &amp; Grub' loading='lazy'><img src='img/05.jpg' alt='Cajun Mikes Pub &amp; Grub' loading='lazy'><img src='img/06.jpg' alt='Cajun Mikes Pub &amp; Grub' loading='lazy'><img src='img/07.jpg' alt='Cajun Mikes Pub &amp; Grub' loading='lazy'><img src='img/08.jpg' alt='Cajun Mikes Pub &amp; Grub' loading='lazy'><img src='img/09.jpg' alt='Cajun Mikes Pub &amp; Grub' loading='lazy'><img src='img/10.jpg' alt='Cajun Mikes Pub &amp; Grub' loading='lazy'><img src='img/11.jpg' alt='Cajun Mikes Pub &amp; Grub' loading='lazy'><img src='img/12.jpg' alt='Cajun Mikes Pub &amp; Grub' loading='lazy'></div></div></section>
-<section id='reviews'><div class='wrap'><h2>What people say</h2><div class='reviews'><div class='rev'><div class='stars'>★★★★★</div><p>“Cajun Mike’s Pub &amp; Grub is such a great little hidden gem! Don’t judge a book by its cover. once you step inside, it has so much character and a really fun, funky New Orleans vibe. I had the roast beef po’ boy and asked for extra spicy mustard, and it was abso…”</p><small>— BARAK WORLD</small></div><div class='rev'><div class='stars'>★★★★★</div><p>“Really great little spot in New Orleans. We both had the hot roast beef po’ boy, and it was excellent. It came with plenty of meat without being overly fatty, which is exactly how we like it. Everything tasted fresh, flavorful, and well prepared. The bartender…”</p><small>— Liam BM</small></div><div class='rev'><div class='stars'>★★★★★</div><p>“Solid food and beer for a good price. Fun atmosphere and got a lot of good recomendations from the locals on where to go for the rest of our vacation.”</p><small>— Bennett Lange</small></div></div></div></section>
-<section id='visit'><div class='wrap grid2'><div class='card'><h2>Hours</h2><table><tr><td>Monday</td><td>11 AM – 3 AM</td></tr>
-<tr><td>Tuesday</td><td>11 AM – 3 AM</td></tr>
-<tr><td>Wednesday</td><td>11 AM – 3 AM</td></tr>
-<tr><td>Thursday</td><td>11 AM – 3 AM</td></tr>
-<tr><td>Friday</td><td>11 AM – 3 AM</td></tr>
-<tr><td>Saturday</td><td>11 AM – 3 AM</td></tr>
-<tr><td>Sunday</td><td>11 AM – 3 AM</td></tr></table></div><div><h2>Location</h2><iframe loading='lazy' src='https://maps.google.com/maps?q=29.9538618,-90.0712923&z=16&output=embed' title='Map'></iframe></div></div></section>
+<section id='story'><div class='wrap intro'><div class='story'><div class='kicker'>Est. 2000</div><h2>Cajun Mikes Pub &amp; Grub</h2><p>Cajun Mike&#x27;s has been on Baronne Street since 2000, which in this part of the CBD makes it an elder. It is a bar first: sixteen-ish stools, a long wood top, TVs for the game, and bartenders who refill before you ask. Regulars call it a hole in the wall and mean it as the highest compliment.</p><p>The kitchen is the surprise. The hot roast beef po&#x27;boy comes out dripping the way it should, the cochon de lait is slow roasted pork piled on Leidenheimer bread, and the gumbo is the real dark-roux kind. It is the spot locals send visitors when they want the sandwich without the Bourbon Street markup.</p></div>
+<aside class='facts'><h3>Good to know</h3><ul><li>Full bar, 16 taps, happy hour food and drinks</li><li>Kitchen open late, dine in or takeout</li><li>Sports on every screen</li><li>Outdoor seating out front</li><li>Cash and cards, no reservations needed</li></ul><p class='addr'>116 Baronne St, New Orleans, LA 70112</p><p class='today'>Today: 11am – 3am</p><p><a class='btn p' href='tel:+15045660055'>Call (504) 566-0055</a></p><p><a href='https://www.google.com/maps?cid=10086163825848937856' target='_blank' rel='noopener'>Open in Google Maps</a></p></aside></div></section>
+<section id='menu' class='alt'><div class='wrap'><div class='kicker'>What to order</div><h2>The regulars' list</h2><div class='sig'><article><img src='img/32.jpg' alt='Hot Roast Beef Po&#x27;boy'><div class='b'><span class='num'>No. 01</span><h3>Hot Roast Beef Po&#x27;boy</h3><p>Dressed, gravy soaking through the bread. Ask for extra spicy mustard.</p></div></article><article><img src='img/07.jpg' alt='Cochon de Lait'><div class='b'><span class='num'>No. 02</span><h3>Cochon de Lait</h3><p>Slow roasted pork, on a po&#x27;boy or over fries when you cannot decide.</p></div></article><article><img src='img/03.jpg' alt='Boudin Balls'><div class='b'><span class='num'>No. 03</span><h3>Boudin Balls</h3><p>Fried crisp with remoulade. The right thing to order with the first beer.</p></div></article><article><img src='img/11.jpg' alt='Gator Sausage Sandwich'><div class='b'><span class='num'>No. 04</span><h3>Gator Sausage Sandwich</h3><p>Alligator sausage, grilled onions, hot sauce. Tourists hesitate, then order a second.</p></div></article></div></div></section>
+<div class='quoteband'><img src='img/18.jpg' alt=''><div class='q'><blockquote>“Don&#x27;t judge a book by its cover. Once you step inside it has so much character and a really fun, funky New Orleans vibe.”</blockquote><cite>Google review · 4.3 stars from 1,091 reviews</cite></div></div>
+<section id='reviews'><div class='wrap'><div class='sumline'><b>4.3</b><div><div class='stars' style='font-size:1.2rem'>★★★★☆</div>1,091 public Google reviews</div></div><div class='reviews'><div class='rev'><div class='stars'>★★★★★</div><p>“Cajun Mike’s Pub &amp; Grub is such a great little hidden gem! Don’t judge a book by its cover. once you step inside, it has so much character and a really fun, funky New Orleans vibe. I had the roast beef po’ boy and asked for extra spicy mustard, and it was absolutely awesome. The roast beef was flavo…”</p><small>BARAK WORLD · Google</small></div><div class='rev'><div class='stars'>★★★★★</div><p>“Really great little spot in New Orleans. We both had the hot roast beef po’ boy, and it was excellent. It came with plenty of meat without being overly fatty, which is exactly how we like it. Everything tasted fresh, flavorful, and well prepared. The bartender who took our order was also really frie…”</p><small>Liam BM · Google</small></div><div class='rev'><div class='stars'>★★★★★</div><p>“Hell yeah great dive bar awesome food!! Was unsure based on other reviews, but I think those people just haven’t been to a dive bar😂
+
+Cheap drinks, bartender (Troy?) was the best and refills appeared without asking. The pork sandwich is insane, great onion wings”</p><small>Abby Wheeler · Google</small></div></div></div></section>
+<section id='photos' class='alt'><div class='wrap'><div class='kicker'>Photos</div><h2>Around the place</h2><div class='mosaic'><img src='img/08.jpg' alt='Cajun Mikes Pub &amp; Grub'><img src='img/18.jpg' alt='Cajun Mikes Pub &amp; Grub'><img src='img/25.jpg' alt='Cajun Mikes Pub &amp; Grub'><img src='img/10.jpg' alt='Cajun Mikes Pub &amp; Grub'><img src='img/12.jpg' alt='Cajun Mikes Pub &amp; Grub'><img src='img/14.jpg' alt='Cajun Mikes Pub &amp; Grub'><img src='img/04.jpg' alt='Cajun Mikes Pub &amp; Grub'></div></div></section>
+<section id='visit'><div class='wrap visit'><div><div class='kicker'>Visit</div><h2>Hours & location</h2><table><tr><td>Mon</td><td>11am – 3am</td></tr>
+<tr class=today><td>Tue</td><td>11am – 3am</td></tr>
+<tr><td>Wed</td><td>11am – 3am</td></tr>
+<tr><td>Thu</td><td>11am – 3am</td></tr>
+<tr><td>Fri</td><td>11am – 3am</td></tr>
+<tr><td>Sat</td><td>11am – 3am</td></tr>
+<tr><td>Sun</td><td>11am – 3am</td></tr></table><p style='margin-top:18px' class='addr'>116 Baronne St, New Orleans, LA 70112<br><a href='tel:+15045660055'>(504) 566-0055</a></p><div class='tip'><b>Local tip</b>Two blocks from the Roosevelt and the Saenger. Perfect pre-show, and it is where the bartenders from the fancy places drink after.</div></div><div><iframe loading='lazy' src='https://maps.google.com/maps?q=29.9538618,-90.0712923&z=16&output=embed' title='Map to Cajun Mikes Pub &amp; Grub'></iframe></div></div></section>
 </main>
-<footer><div class='wrap'>© 2026 Cajun Mikes Pub &amp; Grub · 116 Baronne St, New Orleans, LA 70112 · <a href='tel:+15045660055'>(504) 566-0055</a><br><small>Photos and reviews from the business's public Google profile.</small></div></footer>
-<div class='preview'>Preview · not live</div>
+<footer><div class='wrap row'><div><strong style='color:var(--ink)'>Cajun Mikes Pub &amp; Grub</strong><br>116 Baronne St, New Orleans, LA 70112<br><a href='tel:+15045660055'>(504) 566-0055</a></div><div style='text-align:right'><br><small>© 2026 Cajun Mikes Pub &amp; Grub. Photos and reviews from the business's public Google profile.</small></div></div></footer>
+<div class='mobilebar'><a class='btn p' href='tel:+15045660055'>Call</a><a class='btn g' href='https://www.google.com/maps?cid=10086163825848937856' target='_blank' rel='noopener'>Directions</a></div>
+<div class='preview'>PREVIEW · NOT LIVE</div>
 </body></html>
