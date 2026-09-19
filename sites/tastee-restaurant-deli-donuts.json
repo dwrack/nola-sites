@@ -1,0 +1,551 @@
+{
+ "slug": "tastee-restaurant-deli-donuts",
+ "theme": {
+  "colors": {
+   "--bg": "#f5efe3",
+   "--bg2": "#ebe2d1",
+   "--ink": "#22190f",
+   "--muted": "#6a5d4b",
+   "--acc": "#9c2a1e",
+   "--acc2": "#1f3a5f",
+   "--accink": "#fff",
+   "--card": "#fffaf1",
+   "--r": "3px",
+   "--band-ink": "var(--ink)"
+  },
+  "font_link": "Libre+Caslon+Text:ital,wght@0,400;0,700;1,400",
+  "font_stack": "'Libre Caslon Text', Georgia, serif",
+  "h1": "font-size:clamp(2.4rem,5.2vw,4.3rem);font-weight:700;letter-spacing:-.015em;line-height:1.05",
+  "h2_weight": "700",
+  "h3_weight": "700",
+  "brand_weight": "700",
+  "stat_weight": "700",
+  "num_weight": "600",
+  "quote_weight": "700",
+  "big_weight": "700",
+  "cloud_weight": "700",
+  "dark": false,
+  "alt_dark": false
+ },
+ "theme_from": "mother-s-restaurant",
+ "title": "Tastee Restaurant Deli-Donuts · Donuts & Kastleburgers · New Orleans",
+ "description": "Kastleburgers off the griddle, poboys on bun or toast, and a donut case that is already full at five in the morning.",
+ "icon": {
+  "bg": "#9c2a1e",
+  "fg": "#fff",
+  "initials": "TR"
+ },
+ "schema_type": "Restaurant",
+ "name": "Tastee",
+ "phone_e164": "+15049498690",
+ "phone_schema": "+1504-949-8690",
+ "address": {
+  "streetAddress": "2549 Esplanade Ave",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70119"
+ },
+ "geo": {
+  "lat": 29.9759727,
+  "lng": -90.0778522
+ },
+ "hero_img": "img/01.jpg",
+ "category": "Donut shop",
+ "rating": 4.2,
+ "review_count": 461,
+ "cid": "11829163144844145247",
+ "place_id": "ChIJA6djvFWvIIYRX_KT5jShKaQ",
+ "phone_display": "(504) 949-8690",
+ "seal": {
+  "tag": "Seventh Ward",
+  "center": "TR",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "Donuts, Kastleburgers & breakfast · 2549 Esplanade Ave, Seventh Ward",
+  "headline": "A donut case already full at five in the morning, and a griddle going right beside it.",
+  "sub": "The pink building on Esplanade with the yellow bollards out front and a neon HAMBURGER sign in the window. Donuts and fritters on one side of the counter, burgers and poboys off the griddle on the other.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "461",
+   "label": "Google reviews"
+  },
+  {
+   "count": "4.2",
+   "label": "stars on Google"
+  },
+  {
+   "count": "279",
+   "label": "five-star reviews"
+  },
+  {
+   "count": "5am",
+   "label": "doors open, every day"
+  }
+ ],
+ "story": {
+  "kicker": "Seventh Ward",
+  "h2": "Tastee Restaurant Deli-Donuts",
+  "paragraphs": [
+   "Tastee is the pink building on Esplanade with the brown metal roof and a row of yellow bollards planted along the front. A neon HAMBURGER sign burns in one window. In the other there is a paper sign taped to the glass that spells the whole operation out: Mon to Sat 5am to 5pm, Sunday 5am to 1pm. Inside it is red tile floor, a counter with stools, and glass racks of donuts running the length of it.",
+   "The donuts are the headline. Glazed at ninety-two cents, filled and cake a little over a dollar, apple fritters and cinnamon rolls in their own trays, and the shoesole, a long flat glazed pastry that is the one regulars reach for. A dozen glazed is $8.49. The board behind the counter has held those numbers long enough that people quote them."
+  ]
+ },
+ "facts": [
+  "Dine in at the counter, takeout, or delivery",
+  "Breakfast from 5am Monday to Saturday, 5am to 1pm Sunday",
+  "Great coffee, flagged on the Google profile, Community out of the machine",
+  "Free parking lot out front and free street parking on Esplanade",
+  "Credit cards, debit and tap to pay; wheelchair accessible entrance and lot"
+ ],
+ "address_display": "2549 Esplanade Ave, New Orleans, LA 70119",
+ "instagram": null,
+ "order": [
+  {
+   "img": "img/06.jpg",
+   "name": "Kastleburgers",
+   "blurb": "Square patty, chopped onion, a slice of American, soft bun, wrapped in white paper. Order them by the sack rather than one at a time."
+  },
+  {
+   "img": "img/09.jpg",
+   "name": "A Dozen Glazed",
+   "blurb": "$8.49 for twelve off the board, $4.49 for six. Get there early enough and they are still warm in the box."
+  },
+  {
+   "img": "img/15.jpg",
+   "name": "The Breakfast Plate",
+   "blurb": "Bacon, scrambled eggs, cheese and toast in a foam box. Out the door before six if you want it."
+  },
+  {
+   "img": "img/18.jpg",
+   "name": "Apple Fritters",
+   "blurb": "Craggy and glazed at $2.29, sitting in the tray beside the cinnamon rolls. The thing to add when somebody says just get me a coffee."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "Specials",
+    "items": [
+     {
+      "name": "Half-dozen glazed",
+      "price": "4.49"
+     },
+     {
+      "name": "Dozen glazed",
+      "price": "8.49"
+     },
+     {
+      "name": "Half-dozen mixed",
+      "price": "5.09"
+     },
+     {
+      "name": "Dozen mixed",
+      "price": "9.49"
+     },
+     {
+      "name": "Half-dozen fancies",
+      "price": "11.00"
+     }
+    ]
+   },
+   {
+    "h3": "Pastries",
+    "items": [
+     {
+      "name": "Glazed",
+      "price": "0.92"
+     },
+     {
+      "name": "Filled or cake",
+      "price": "1.14"
+     },
+     {
+      "name": "Twists",
+      "price": "1.38"
+     },
+     {
+      "name": "Honeymoons",
+      "price": "1.38"
+     },
+     {
+      "name": "Apple fritters",
+      "price": "2.29"
+     },
+     {
+      "name": "Honey buns",
+      "price": "2.29"
+     },
+     {
+      "name": "Cinnamon rolls",
+      "price": "2.29"
+     },
+     {
+      "name": "Turnovers",
+      "price": "2.29"
+     },
+     {
+      "name": "Muffins",
+      "price": "1.79"
+     },
+     {
+      "name": "Shoesole",
+      "price": "2.59"
+     }
+    ]
+   },
+   {
+    "h3": "Beverages & the Griddle",
+    "items": [
+     {
+      "name": "Coffee, small / large",
+      "price": "1.38 · 1.83"
+     },
+     {
+      "name": "Hot chocolate or cappuccino",
+      "price": "1.83 · 2.29"
+     },
+     {
+      "name": "Fountain drinks",
+      "price": "1.83 · 2.29"
+     },
+     {
+      "name": "Community iced latte",
+      "price": "3.00"
+     },
+     {
+      "name": "Kastleburgers, poboys, breakfast plates",
+      "price": ""
+     }
+    ]
+   }
+  ],
+  "note": "Donut and drink prices are read off the board in the store. The griddle side, burgers, poboys and breakfast plates, is not on that board, so ask at the counter. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "img/16.jpg",
+  "text": "“Grabbed a burger and fries and can of soda right after I got here and it was SO GOOD. The burger had more flavor in the first bite than most burgers have as a whole.”",
+  "cite": "Google review · 4.2 stars from 461 reviews"
+ },
+ "review_count_display": "461",
+ "breakdown": [
+  279,
+  89,
+  47,
+  17,
+  29
+ ],
+ "cloud": [],
+ "cloud_h3": "What 461 people keep mentioning",
+ "reviews": [
+  {
+   "stars": "★★★★★",
+   "text": "“Grabbed a burger and fries and can of soda right after I got here and it was SO GOOD. The burger had more flavor in the first bite than most burgers have as a whole. Hand to bible. I left with 2 donuts for dessert and I couldn’t love them …”",
+   "who": "V. C. (Valerie) · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“Burgers were okay, but the donuts were out of the world delicious. Would highly recommend. The super meals and whatnot are an excellent value. Stop in and order some food, use good manners and be quick with your order. …”",
+   "who": "Brandon Shepard · Google"
+  }
+ ],
+ "gallery": [
+  "img/10.jpg",
+  "img/17.jpg",
+  "img/20.jpg",
+  "img/22.jpg",
+  "img/19.jpg",
+  "img/02.jpg",
+  "img/12.jpg",
+  "img/21.jpg"
+ ],
+ "hours_display": [
+  "5am – 5pm",
+  "5am – 5pm",
+  "5am – 5pm",
+  "5am – 5pm",
+  "5am – 5pm",
+  "5am – 5pm",
+  "5am – 1pm"
+ ],
+ "hours": [
+  [
+   [
+    300,
+    1020
+   ]
+  ],
+  [
+   [
+    300,
+    1020
+   ]
+  ],
+  [
+   [
+    300,
+    1020
+   ]
+  ],
+  [
+   [
+    300,
+    1020
+   ]
+  ],
+  [
+   [
+    300,
+    1020
+   ]
+  ],
+  [
+   [
+    300,
+    1020
+   ]
+  ],
+  [
+   [
+    300,
+    780
+   ]
+  ]
+ ],
+ "popular_times": {},
+ "tip": {
+  "b": "Local tip",
+  "text": "The counter moves fast and they like it that way. Know what you want before you get to the register, and say glazed or mixed up front if you are buying a dozen."
+ },
+ "getting_here": [
+  "2549 Esplanade Ave in the Seventh Ward, on the run out toward Bayou St John",
+  "Free lot out front and free street parking on Esplanade"
+ ],
+ "cta_h2": "Open at five. The case is already full.",
+ "cta_dir_btn": "g",
+ "_source": {
+  "website": null,
+  "maps": "https://maps.google.com/?cid=11829163144844145247",
+  "status": "OPERATIONAL",
+  "price": null,
+  "summary": null,
+  "photos": [
+   {
+    "file": "img/01.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmINZHSlk5rh5qTeXdgp2-ydOpw4OAAYzr65IKoUVAe41-VigfowZb_MVQhiSuC-WrynalqqBieUgy241XsnVZJNpbuHPPhuvgprM4Yu2c29BU3EMkIHL5aJ_kZjQ2nuj4nPrs",
+    "by": ""
+   },
+   {
+    "file": "img/02.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl2OWnHH1vX0-f5-v2v4mHRrRfoKMWbNsaVmwqC_L5F4F1efuiyzSzMCZMusglXyuAD1uDLhA4L6KRGD3f7AaK2hefoxcl57mRO8A1-df8p40Ir5S88aJvKp_XOrOPvCHEr3iVh",
+    "by": ""
+   },
+   {
+    "file": "img/03.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmvKg-W8viGHNfrXhd2h6w14FT5G07BcwtDlBCdNMr2wjJtwY_N6xnvjd6RCjNtrl__1haUhP6lZPb4Sb_Cf6SQ541tKm6VGBxVGNlEvaizkVd81jV13DcoRvuKelcs5jixGYXaeTVoW4aS",
+    "by": ""
+   },
+   {
+    "file": "img/04.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkLFuBthvjityWi-hEglQwnw8NvGxdRsndlPHVtGZmuGhzZ_A3I7sW2HCQZUH97QZfLychXoPDnqwTAx1X2hY_zdXk_CpBUN3eMgjx9h8E1NQz0kNoqOqwyPaLrEv7hW-TrccI8BOifQIo",
+    "by": ""
+   },
+   {
+    "file": "img/05.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk8lgeYIIUhfgrTqVCw5l9UuJON3vKkTli78CyQGv1CefbVoYNgkWNAJ-NIlbqINLqqNFVPjkGEf2YxZeVpiwQKPNYHqzwnStFseK1GscDPRAahveyV6fSYw4gJcDPV7bg-Sdt9rA",
+    "by": ""
+   },
+   {
+    "file": "img/06.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnabJ_69y2_-YriRHty1FDoP0iNfd_neAEkXNwL_l0KI0Sjy2Lor4YZCnb3kj-u_MP2YLugIZPwBcT14jiAMB8LSact2MXjea8mH4vrUjnBchcRHtIq4Sgb6202SmpgbCRkOHngZZXpvHiy",
+    "by": ""
+   },
+   {
+    "file": "img/07.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmwv_uoLaVSPKs-1sPcE3_IuEzlhEdM4uiH1Lrn6G5dRIukxKZdjjUsTqgOA78tCPaWU0hmB9SfvkbJyhRTgfHWbmIZ0hJDjnBqUCvFE6J-NqGTrtbsnlKEKkzgPltrysoZPsYJ",
+    "by": ""
+   },
+   {
+    "file": "img/08.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWka7gN3CoWhmcM2jjCn3a7xM94DWewHvy5noQ7_U00-qpNUoIM6LgbgG9z7ezadBxxreFHHjq_NrmnLCqLx290zsKAqTfB-TlaLAgYiL7NEqlqCeXiWMR88bN-0aHosC9KV460B",
+    "by": ""
+   },
+   {
+    "file": "img/09.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn19vhPGb42txkI55DE18Qckl1hsccVLljBmLE8hHNzcKM6eCnvO4tAKMp1oN8di9oZQIs2VoOc5uZrJ2AFq9yQGuUd2Nc6w9W6DWRrH2VswujadjQhqOuFj21TIyzuuC1QPWI",
+    "by": ""
+   },
+   {
+    "file": "img/10.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmx4UTuCpk8JxlPM1YGnxaxWA79Wp_DZ87Kl1NQ99KN3ye0URsK8Op87wY2fAfOcY3zBb150g2jX3LT6o8_Naw0ex9IOWX7XwW_a8IztMmQ5XhM8xAmwSsaX4Zm2ELq7WDZ1DyA",
+    "by": ""
+   },
+   {
+    "file": "img/11.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmr_pn22TkUuhYCi4oC8UaC15O8tD_8_lYOdPBIpu9fT3kIEsgNY_x2T1yxHUF2Lu128D9Qy9lcK1hc6fZNH7Nd9kaX4cHvM2ev6_A_BeC8Xh-PpD6zB8lMIho0IfqHj9583FPdUFasAAQp",
+    "by": ""
+   },
+   {
+    "file": "img/12.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmI-35SPsd0LARdnoLGq963Zf5FOXJXKepFEw7SxnlfmicvC0iD6rCIJflldzIQeSE2XQoK_IazrclQuYH5DepO6HmvOnYaBjePdh8uvuNK8loni0fxc1eee6DMpBESsjal1a6Y",
+    "by": ""
+   },
+   {
+    "file": "img/13.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmZtVWQfEBn8WZ-mvfUCnh5XBDwf5Dzi55z0BN3VEcJHna41uwvNrm4SWtYcCj55xiBTS6Lj25zgKcngQ9LX7t_Pcn4mbLnLaTjiyTSuEqcBIQ2DBCGIzkqrUoDlooE4grWo3I",
+    "by": ""
+   },
+   {
+    "file": "img/14.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmxQFtbR4kHX4F5jh0wmJuzZiifWKHMJgsxz2odPcR8QT5tQLuSPl96SvsongQbkNL6JnJyWWHKGv6i3bU-pusQ4jbb_pZ8EZ9F-zivHTNPT8MGpwDtkCRKfB3hCSNrlSxn_PclpQ",
+    "by": ""
+   },
+   {
+    "file": "img/15.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkXVTVFMLp44HApr6Wx4BAiJf-2QFqPIpSlNVkCo3ZQTuyeRzJtTaDbtYMkMCECymANjYThUg5fNAdvliAjyyv0UhUh1vrdPBEcpJ-vfo26r1kQVWXxs6NmSEgElqUO_NNUm-XZZw=w1600-h1200-k-no",
+    "by": ""
+   },
+   {
+    "file": "img/16.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkPt8duvFVuV7i3Vk6AVbPw0v1tOEwLtQci5etJ4NG71y2F7IClkTKQ80W7zLTgBgV01gJTeeCojmCpEtqnIR_5yfNF9aY5n62QFBX_YgotMFwGkj5hkCIjDbjXv5AsP7qvk4fO=w1600-h1200-k-no",
+    "by": ""
+   },
+   {
+    "file": "img/17.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkO7MlCDsWGcDC823pxGYHNcFT9Us2O68MumcB16gZMtjXi21DTFsbvOXMSahVommjoBzRerDBwQo2gRObZ9Y9qIgt1SKtMTsPx35PA1fiyNU-7wXnivQF5Fbo54asuIWmlELCxtw=w1600-h1200-k-no",
+    "by": ""
+   },
+   {
+    "file": "img/18.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlrlsyRJC6Yt3igQR-3SUJg1UyJfVzMhoH1P3syJG_b3KrnlvOqN2uFeqLTKYIUJb0tcq6pkhEfFPJZfVgME1ljhpsJ-SZnvc6xU-YjPyiqa5ZAcSgUFKe2VzztZ16V6XYGOrggjw=w1600-h1200-k-no",
+    "by": ""
+   },
+   {
+    "file": "img/19.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmYsyKqwggaIxMqJ7SfftEIVfz_nVWHfzA-YaFlfdHHTC9Q1WK33DFJBk3DSOTgV0Ay2u6zAXtweVQapLM84GL3xu9MqQCayfj_xOcEbwD_Suj-ciSx1kvFzikAlGaRUg5y6aw=w1600-h1200-k-no",
+    "by": ""
+   },
+   {
+    "file": "img/20.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk-wtqYWmQLQvuIkytW38i-ZUzZnEr7MjSQmpSe82Exp4PPOVhwbuCeE6PhuEphfvtldJa7ftPKvMNW7nNZdOwaFaya_ZcJZuo5UCQxT6JbdpePGTXuuK8KVqoX-DPkn8r1nFo=w1600-h1200-k-no",
+    "by": ""
+   },
+   {
+    "file": "img/21.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkXrhAPZXhrpta6mc6c-UO5lBB79I6jY4YSfrIHweSjpR_0EJHwgQr5tTS98UVbNhQ0N8lyE4zLYT0b-e5XWW7RSaaJdhJgR6oH4GmNIqfAq_0hXCB9knX6658GTDWfLSHHVb6Z=w1600-h1200-k-no",
+    "by": ""
+   },
+   {
+    "file": "img/22.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnp1bNIcWsdTrJnhlA8CY6FnPFPKpKgJv_iXqLrEN4noEBdxWKZW102hntaStV0uKpqJRqoekllHl3aYQooOw8zqBuTd8chZewuwI0LPGzZswt-pY0XPWb-l1ihk76SB32Kpxfajw=w1600-h1200-k-no",
+    "by": ""
+   }
+  ],
+  "fetched": "2026-09-19",
+  "attributes": [
+   {
+    "head": "Accessibility",
+    "items": [
+     "Wheelchair accessible entrance",
+     "Wheelchair accessible parking lot"
+    ]
+   },
+   {
+    "head": "Service options",
+    "items": [
+     "Onsite services",
+     "Takeout",
+     "Dine-in",
+     "Delivery"
+    ]
+   },
+   {
+    "head": "Highlights",
+    "items": [
+     "Great coffee"
+    ]
+   },
+   {
+    "head": "Popular for",
+    "items": [
+     "Solo dining"
+    ]
+   },
+   {
+    "head": "Offerings",
+    "items": [
+     "Coffee"
+    ]
+   },
+   {
+    "head": "Dining options",
+    "items": [
+     "Breakfast",
+     "Counter service",
+     "Dessert",
+     "Table service"
+    ]
+   },
+   {
+    "head": "Amenities",
+    "items": [
+     "Restroom"
+    ]
+   },
+   {
+    "head": "Atmosphere",
+    "items": [
+     "Casual"
+    ]
+   },
+   {
+    "head": "Planning",
+    "items": [
+     "Quick visit"
+    ]
+   },
+   {
+    "head": "Payments",
+    "items": [
+     "Credit cards",
+     "Debit cards",
+     "NFC mobile payments"
+    ]
+   },
+   {
+    "head": "Parking",
+    "items": [
+     "Free parking lot",
+     "Free street parking"
+    ]
+   }
+  ],
+  "scraped_from": "https://www.google.com/maps/place/Tastee+Restaurant+Deli-Donuts/@29.9759727,-90.0778522,17z/data=!3m1!4b1!4m6!3m5!1s0x8620af55bc63a703:0xa429a134e693f25f!8m2!3d29.9759727!4d-90.0778522!16s%2Fg%2F1tdvq2qq?hl=en&entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+  "method": "maps page scrape (Places API New not enabled)"
+ }
+}
