@@ -36,8 +36,8 @@ async function scrollPane(p, times, px) {
 async function scrollAll(p, times, px) {
   for (let i = 0; i < times; i++) {
     await p.evaluate((d) => {
-      document.querySelectorAll('div[role="main"], .m6QErb, div').forEach(e => {
-        if (e.scrollHeight > e.clientHeight + 150 && e.clientHeight > 250) e.scrollTop += d;
+      document.querySelectorAll('div[role="main"], .m6QErb').forEach(e => {
+        if (e.scrollHeight > e.clientHeight + 150) e.scrollTop += d;
       });
     }, px);
     await sleep(650);
@@ -117,7 +117,7 @@ async function scrape(url) {
   });
 
   // ---- breakdown + popular times load only once the panel is scrolled
-  await scrollPane(p, 10, 900);
+  await scrollPane(p, 7, 900);
   const late = await p.evaluate(() => {
     const cl = (s) => (s || '').replace(/[\ue000-\uf8ff]/g, '').replace(/\s+/g, ' ').trim();
     const bd = [], pop = [];
@@ -156,7 +156,7 @@ async function scrape(url) {
     if (rb) {
       await rb.click();
       await sleep(3500);
-      await scrollAll(p, 16, 1300);
+      await scrollAll(p, 12, 1400);
       // expand truncated review bodies
       for (const m of (await p.$$('button[aria-label="See more"], button[jsaction*="review.expandReview"]')).slice(0, 40)) {
         await m.click().catch(() => {});
@@ -223,7 +223,7 @@ async function scrape(url) {
     if (sp) {
       await sp.click();
       await sleep(5000);
-      await scrollAll(p, 18, 1400);
+      await scrollAll(p, 14, 1500);
       const raw = await p.evaluate(() => {
         const s = new Set();
         const ok = (u) => u && /googleusercontent|ggpht/.test(u) && !/-rp-mo|br100|\/a\/|\/a-\//.test(u);

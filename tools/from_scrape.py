@@ -171,11 +171,11 @@ def main():
     if row.get("cid"): site_json["cid"] = row["cid"]
 
     # the three blocks the Places API never had
+    # build.py wants a flat 5..1 count list
     bd = {s: c for s, c in d.get("breakdown", [])}
     if bd:
-        total = sum(bd.values()) or 1
-        site_json["breakdown"] = [{"stars": s, "count": bd.get(s, 0),
-                                   "pct": round(100 * bd.get(s, 0) / total)} for s in (5, 4, 3, 2, 1)]
+        site_json["breakdown"] = [bd.get(s, 0) for s in (5, 4, 3, 2, 1)]
+    # ...and popular_times keyed "0".."6" with [hour, pct] pairs
     pop = d.get("popular") or []
     if pop:
         site_json["_scraped_popular"] = pop
