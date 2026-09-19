@@ -1,0 +1,356 @@
+{
+ "slug": "small-mart-cafe",
+ "theme": {
+  "colors": {
+   "--bg": "#f5efe3",
+   "--bg2": "#ebe2d1",
+   "--ink": "#22190f",
+   "--muted": "#6a5d4b",
+   "--acc": "#9c2a1e",
+   "--acc2": "#1f3a5f",
+   "--accink": "#fff",
+   "--card": "#fffaf1",
+   "--r": "3px",
+   "--band-ink": "var(--ink)"
+  },
+  "font_link": "Libre+Caslon+Text:ital,wght@0,400;0,700;1,400",
+  "font_stack": "'Libre Caslon Text', Georgia, serif",
+  "h1": "font-size:clamp(2.4rem,5.2vw,4.3rem);font-weight:700;letter-spacing:-.015em;line-height:1.05",
+  "h2_weight": "700",
+  "h3_weight": "700",
+  "brand_weight": "700",
+  "stat_weight": "700",
+  "num_weight": "600",
+  "quote_weight": "700",
+  "big_weight": "700",
+  "cloud_weight": "700",
+  "dark": false,
+  "alt_dark": false
+ },
+ "theme_from": "mother-s-restaurant",
+ "title": "Small Mart Cafe · Bagels, coffee & vegan breakfast · New Orleans",
+ "description": "A corner store on Chartres turned cafe. Bagels from 8am, real latte art, and a vegan breakfast sandwich people rave about.",
+ "icon": {
+  "bg": "#9c2a1e",
+  "fg": "#fff",
+  "initials": "SM"
+ },
+ "schema_type": "CafeOrCoffeeShop",
+ "name": "Small Mart Cafe",
+ "phone_e164": "+15047668740",
+ "phone_schema": "+1504-766-8740",
+ "address": {
+  "streetAddress": "2700 Chartres St",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70117"
+ },
+ "geo": {
+  "lat": 29.9635018,
+  "lng": -90.050696
+ },
+ "hero_img": "img/01.jpg",
+ "category": "Vegetarian restaurant",
+ "rating": 4.8,
+ "review_count": 293,
+ "cid": "10318325183535408495",
+ "place_id": "ChIJybfNcBemIIYRb2WY6RUOMo8",
+ "phone_display": "(504) 766-8740",
+ "seal": {
+  "tag": "Marigny",
+  "center": "SM",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "Corner cafe, bagels & coffee · 2700 Chartres St, Marigny",
+  "headline": "A corner store on Chartres that turned into the best vegan breakfast in the neighbourhood.",
+  "sub": "Bagels and pastries from eight in the morning, coffee that comes out with latte art, and a vegan breakfast sandwich that reviewers keep calling the best they have had. Closed Mondays.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "4.8",
+   "label": "stars on Google"
+  },
+  {
+   "count": "293",
+   "label": "Google reviews"
+  },
+  {
+   "count": "263",
+   "label": "of them five stars"
+  },
+  {
+   "count": "8am",
+   "label": "doors open, Tue to Sun"
+  }
+ ],
+ "story": {
+  "kicker": "Marigny",
+  "h2": "Small Mart Cafe",
+  "paragraphs": [
+   "Small Mart is the corner store idea done properly: a white Creole building on Chartres with a balcony over the sidewalk and a round sign hanging off the corner. Inside there is a pastry case, a rack of bagels and croissants, a chalkboard, and string lights over a handful of tables. Doors at eight, closed Mondays, which is about the only thing anybody complains about.",
+   "The kitchen is where the ninety percent five-star rating comes from. Vegan is not a token section of the menu here, it is most of the reason people write reviews at all: tofu with avocado and vegan cream cheese on an everything bagel, a vegan breakfast sandwich more than one person calls the best they have ever eaten, sandwiches packed with pickled carrot and greens. The coffee arrives with art on it. Reviewers bring up the owner by way of explaining why the room feels good to sit in."
+  ]
+ },
+ "facts": [
+  "Open 8am Tuesday to Sunday, closed Mondays",
+  "Bagels, croissants, donuts and pastries from open",
+  "Vegan options right across the menu, not a side section",
+  "Espresso drinks, drip coffee, juice and lemonade",
+  "Tables inside under the string lights, or take it out"
+ ],
+ "address_display": "2700 Chartres St, New Orleans, LA 70117",
+ "instagram": "https://www.instagram.com/smallmart/",
+ "order": [
+  {
+   "img": "img/02.jpg",
+   "name": "Everything Bagel, Loaded",
+   "blurb": "Avocado, tofu, vegan cream cheese. Reviewers use the word filling, which for a bagel is exactly the point."
+  },
+  {
+   "img": "img/04.jpg",
+   "name": "The Loaded Sandwich",
+   "blurb": "Pickled carrot, greens and something fried, wrapped in paper and handed across. Two hands required."
+  },
+  {
+   "img": "img/07.jpg",
+   "name": "Latte",
+   "blurb": "Poured with art on top, in a Small Mart cup. Order one with whatever you are eating and take a table."
+  },
+  {
+   "img": "img/05.jpg",
+   "name": "Straight Off the Rack",
+   "blurb": "Bagels and croissants stacked up before eight. On a weekend get there early, because the doors shut at 1:30."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "From the Case",
+    "items": [
+     {
+      "name": "Bagels",
+      "price": ""
+     },
+     {
+      "name": "Croissants",
+      "price": ""
+     },
+     {
+      "name": "Donuts and pastries",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "Breakfast",
+    "items": [
+     {
+      "name": "Vegan breakfast sandwich",
+      "price": ""
+     },
+     {
+      "name": "Tofu, avocado and vegan cream cheese bagel",
+      "price": ""
+     },
+     {
+      "name": "Loaded sandwiches",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "To Drink",
+    "items": [
+     {
+      "name": "Lattes and espresso",
+      "price": ""
+     },
+     {
+      "name": "Drip coffee",
+      "price": ""
+     },
+     {
+      "name": "Orange juice, lemonade",
+      "price": ""
+     }
+    ]
+   }
+  ],
+  "note": "Small Mart does not post a menu online. This is what the case, the chalkboard and the review photos show. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "img/08.jpg",
+  "text": "“Small Mart is my favorite place to eat in New Orleans. The owner and all the staff are absolutely lovely, kind humans who make all feel welcome and create a place that always feels good to be.”",
+  "cite": "Google review · 4.8 stars from 293 reviews"
+ },
+ "review_count_display": "293",
+ "breakdown": [
+  263,
+  19,
+  3,
+  3,
+  5
+ ],
+ "cloud": [],
+ "cloud_h3": "What 293 people keep mentioning",
+ "reviews": [
+  {
+   "stars": "★★★★★",
+   "text": "“Really loved this place, it is a small traditional spot, went for breakfast for the bagels. They had vegan options and got a tofu, avocado and vegan cream cheese it was really good and filling! Would recommend and the coffee from inside the … More”",
+   "who": "Chelle Riley · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“Love this place! Staff is so friendly and the food is incredible. The vegan breakfast sandwich is without a doubt the best I’ve ever had. It’s insane. … More”",
+   "who": "Adam Croce´ · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“Small Mart is my favorite place to eat in New Orleans. The owner and all the staff are absolutely lovely, kind humans who make all feel welcome and create a place that always feels good to be. We're vegan and have so many options, it's … More”",
+   "who": "Rebeckah Ledger · Google"
+  }
+ ],
+ "gallery": [
+  "img/03.jpg",
+  "img/09.jpg",
+  "img/10.jpg",
+  "img/06.jpg",
+  "img/05.jpg",
+  "img/02.jpg",
+  "img/07.jpg"
+ ],
+ "hours_display": [
+  "Closed",
+  "8am – 5:30pm",
+  "8am – 5:30pm",
+  "8am – 5:30pm",
+  "8am – 5:30pm",
+  "8am – 1:30pm",
+  "8am – 1:30pm"
+ ],
+ "hours": [
+  [],
+  [
+   [
+    480,
+    1050
+   ]
+  ],
+  [
+   [
+    480,
+    1050
+   ]
+  ],
+  [
+   [
+    480,
+    1050
+   ]
+  ],
+  [
+   [
+    480,
+    1050
+   ]
+  ],
+  [
+   [
+    480,
+    810
+   ]
+  ],
+  [
+   [
+    480,
+    810
+   ]
+  ]
+ ],
+ "popular_times": {},
+ "tip": {
+  "b": "Local tip",
+  "text": "Weekends close at 1:30 in the afternoon and the bagels go well before that. If you want the vegan breakfast sandwich on a Saturday, be there by eleven. Monday is the one day they are shut."
+ },
+ "getting_here": [
+  "2700 Chartres St, on the corner down at the Marigny end",
+  "Free street parking on the surrounding blocks, and a flat walk from anywhere in the Bywater"
+ ],
+ "cta_h2": "Open at eight, Tuesday through Sunday.",
+ "cta_dir_btn": "g",
+ "_source": {
+  "website": null,
+  "maps": "https://maps.google.com/?cid=10318325183535408495",
+  "status": "OPERATIONAL",
+  "price": null,
+  "summary": null,
+  "photos": [
+   {
+    "file": "img/01.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnDCycw_hpTwIAZvbVEm5IvSjC6GFe3yByyyoUFSFmoqY0V6zI6xPyZ4Orm0nlcHRfOqrcuCC0J4QZmrlCrnCYA0h3B4TeQPbm4F54TUTHP--ZyqKQY_g1Q56RzL6fHTT0_d_mZ4pAkyARJ",
+    "by": ""
+   },
+   {
+    "file": "img/02.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmxoxBGXcaVu8uEfvKGUMcIXLl8iaZMoQGYetEvfapjRADqz5EqPLdbA-WU2pet7wo_eahq2u_8p1bLz3QIhmTTdn0swGhjBN3EBVxJpnEZzzezWmw4mBzJ732UbOQSWZ9DA_0BPmIB9fPc",
+    "by": ""
+   },
+   {
+    "file": "img/03.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmDc_wllRSO6NrykQWfduex8t0SPztI_VkRRBFimfq1xQvuxa0N7wALxH7i7EL227_Ap8DCsYcVIOJw-zm__TJJqGUGesnliYzzSaM-b6BlmmNnBus57UCxyeKEpi3WMrGwC0IeTENhw47A",
+    "by": ""
+   },
+   {
+    "file": "img/04.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmBf6yOQiRO9CUJQByKai-PVPPUZ2tXrWIvwQ7ye4Eiwvahx5ylMvCOEGSohFFrtpAwj9hPO70MuJ01bDk4U7kr8MYAKYa5buteXSWrhXs53qHfZfwm77Hd1_waCZ2TN71OeCa90ub3Fphk",
+    "by": ""
+   },
+   {
+    "file": "img/05.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlK-OgQPqf7VQOXgrKoDvaYQ-74OrDaGjOWoUf42OTV2XNnvebATQSj0m8RnkldP0-N2t-4gqbdiTxWs8AnsM31LXABO9GKuoRA0Hnx7PVQtSH7XPgRhuYWpK_nDqwxYkQHbOZpOCswes8M",
+    "by": ""
+   },
+   {
+    "file": "img/06.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmIc16CISeNFsmGBZXwrfbrh3OUn3Gh2ihnizsslidRfahmnJtiItMXHDzbmHcweRfej05_zETncTs0fv7AW1Bd17Ndt3vl18T8qsSZfuU5d3klUtUZQNmBJ-JdQXQMJfVnUBYRPnMz30Dy",
+    "by": ""
+   },
+   {
+    "file": "img/07.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmMWRt6c1ANxki4Ph5YdzA05qU6y20OgnCrcOUhxhzmTMnt0GKBNGcmP6xwtIsLiZcLnWEKhXOrzbVb3u-l9wKYqJZ0KMlKwuuyECo6JS4DBHn_wH0vkGDy9eQOIZJbaQF797iSN62OgQQ",
+    "by": ""
+   },
+   {
+    "file": "img/08.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmyomPxdA76BUQ4VppHK1nmoQMNAp66aWFEurm1_DpkKRkW9RKqEkookRP20PCLo1PmREFmjk6W6ZFCU85duDfMFtq48R9OAYHUfyMzwn7OJNuEsWXjZC0ziPQqPMdSlNYKfsB2BkVU-4Re",
+    "by": ""
+   },
+   {
+    "file": "img/09.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmv_JrL14NYzUhK6sah6hh7Gkj_RKeGKPmGcZxmHvJ-Njk3CZau2_D0-lrIApoA__VjAHK1Rm4uJKGf4dOPWSABO2cvnBnyNIl3fFeFrBOis-h07jJBhvE-il-2i33RrFnA7Uzh",
+    "by": ""
+   },
+   {
+    "file": "img/10.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnqp-ctHXz2ZaQsX25SbUU8DPyfo7rVe6YM1WsRDnGEOGO2-sEdESqwnhRyNo0Y9WIsIwcdwITqzeshf7K6fJehT5ZTrfd11A1JlvZPkmIzpEemYxfjELbmz_s0GK4IOVhfis0N",
+    "by": ""
+   }
+  ],
+  "fetched": "2026-09-19",
+  "scraped_from": "https://www.google.com/maps/place/Small+Mart+Cafe/@29.9635018,-90.050696,17z/data=!3m1!4b1!4m6!3m5!1s0x8620a61770cdb7c9:0x8f320e15e998656f!8m2!3d29.9635018!4d-90.050696!16s%2Fg%2F11bxdt4nx6?hl=en&entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+  "method": "maps page scrape (Places API New not enabled)"
+ }
+}
