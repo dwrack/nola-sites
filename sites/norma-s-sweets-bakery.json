@@ -1,0 +1,374 @@
+{
+ "slug": "norma-s-sweets-bakery",
+ "theme": {
+  "colors": {
+   "--bg": "#fbf6f1",
+   "--bg2": "#f3e6dd",
+   "--ink": "#2b1f1c",
+   "--muted": "#7a6a64",
+   "--acc": "#b5485a",
+   "--acc2": "#3f5d4c",
+   "--accink": "#fff",
+   "--card": "#ffffff",
+   "--r": "18px",
+   "--band-ink": "var(--ink)"
+  },
+  "font_link": "Cormorant+Garamond:ital,wght@0,600;0,700;1,600",
+  "font_stack": "'Cormorant Garamond', Georgia, serif",
+  "h1": "font-size:clamp(2.8rem,6.2vw,5.4rem);font-weight:600;letter-spacing:-.01em;line-height:1.02",
+  "h2_weight": "600",
+  "h3_weight": "600",
+  "brand_weight": "600",
+  "stat_weight": "600",
+  "num_weight": "600",
+  "quote_weight": "600",
+  "big_weight": "600",
+  "cloud_weight": "600",
+  "dark": false,
+  "alt_dark": false
+ },
+ "theme_from": "chez-pierre-bakery-lakeview",
+ "title": "Norma's Sweets Bakery · Honduran bakery & grocery · New Orleans",
+ "description": "Conchas, cemitas, Cuban sandwiches, baleadas and a guava cream cheese king cake, all in one room on Bienville.",
+ "icon": {
+  "bg": "#b5485a",
+  "fg": "#fff",
+  "initials": "NS"
+ },
+ "schema_type": "Bakery",
+ "name": "Norma's Sweets Bakery",
+ "phone_e164": "+15043095401",
+ "phone_schema": "+1504-309-5401",
+ "address": {
+  "streetAddress": "2925 Bienville St",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70119"
+ },
+ "geo": {
+  "lat": 29.9693313,
+  "lng": -90.0885117
+ },
+ "hero_img": "img/04.jpg",
+ "category": "Bakery",
+ "rating": 4.3,
+ "review_count": 536,
+ "cid": "4186319242771503510",
+ "place_id": "ChIJaeRKofalIIYRlhnH1SvLGDo",
+ "phone_display": "(504) 309-5401",
+ "seal": {
+  "tag": "Mid-City",
+  "center": "NS",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "Bakery, sandwich counter & grocery · 2925 Bienville St, Mid-City",
+  "headline": "A Honduran bakery, a Cuban sandwich counter and a grocery, all in the one room on Bienville.",
+  "sub": "Conchas and cemitas in the case, baleadas and Cuban sandwiches at the counter, hot plates on the steam table and produce down the far aisle. The guava and cream cheese king cake is what people cross town for.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "536",
+   "label": "Google reviews"
+  },
+  {
+   "count": "4.3",
+   "label": "stars on Google"
+  },
+  {
+   "count": "340",
+   "label": "five-star reviews"
+  },
+  {
+   "count": "7am",
+   "label": "open, six days a week"
+  }
+ ],
+ "story": {
+  "kicker": "Mid-City",
+  "h2": "Norma's Sweets Bakery",
+  "paragraphs": [
+   "Norma's is three businesses sharing one room on Bienville. The awning says CUBAN SANDWICH and BALEADAS, the sign above it says GROCERY and BAKERY, and every bit of that is true at the same time. The case by the door holds conchas and cemitas with their names written out on little green cards. Past that there is a steam table with rice and stewed meat, and past that a produce aisle.",
+   "The bakery is what people write reviews about. One regular walks two miles to get there and makes a point of saying that the ladies in the back actually make the pastry themselves. In carnival season there is a guava and cream cheese king cake on a light brioche dough that people drive across town for, and the useful thing to know is that you can get the same guava and cheese in a pan the rest of the year."
+  ]
+ },
+ "facts": [
+  "Bakery, sandwich counter, hot plates and grocery in one room",
+  "Honduran and Cuban: baleadas, Cuban sandwiches, conchas, cemitas",
+  "Guava and cream cheese king cake through carnival season",
+  "Hot plates off the steam table at lunch",
+  "Open 7am to 7pm Monday to Saturday, 8am to 3pm Sunday"
+ ],
+ "address_display": "2925 Bienville St, New Orleans, LA 70119",
+ "instagram": "https://www.instagram.com/normassweetsbakery/",
+ "order": [
+  {
+   "img": "img/03.jpg",
+   "name": "Guava and Cream Cheese King Cake",
+   "blurb": "Light brioche, guava and cheese through the middle, purple green and gold over the top. Carnival season only."
+  },
+  {
+   "img": "img/02.jpg",
+   "name": "Conchas and Cemitas",
+   "blurb": "Names written on little green cards in the case. Point at two you have not had before and let them bag it."
+  },
+  {
+   "img": "img/06.jpg",
+   "name": "A Hot Plate",
+   "blurb": "Rice, stewed meat, whatever is in the pans at lunch. Order at the counter and eat it right there."
+  },
+  {
+   "img": "img/07.jpg",
+   "name": "Cuban Sandwich or Baleadas",
+   "blurb": "Both are painted on the awning outside. The baleadas are the Honduran half and the reason to come back."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "From the Case",
+    "items": [
+     {
+      "name": "Conchas",
+      "price": ""
+     },
+     {
+      "name": "Cemitas",
+      "price": ""
+     },
+     {
+      "name": "Pan dulce",
+      "price": ""
+     },
+     {
+      "name": "Guava and cheese pan",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "Carnival",
+    "items": [
+     {
+      "name": "Guava and cream cheese king cake",
+      "price": ""
+     },
+     {
+      "name": "Traditional king cake",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "At the Counter",
+    "items": [
+     {
+      "name": "Cuban sandwich",
+      "price": ""
+     },
+     {
+      "name": "Baleadas",
+      "price": ""
+     },
+     {
+      "name": "Hot plates",
+      "price": ""
+     }
+    ]
+   }
+  ],
+  "note": "Norma's does not post a menu. This is what the case, the counter and the review photos show. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "img/08.jpg",
+  "text": "“I walk about two miles from my house to visit this wonderful spot. A great old-school bakery, where the ladies in the back actually make the pastry.”",
+  "cite": "Google review · 4.3 stars from 536 reviews"
+ },
+ "review_count_display": "536",
+ "breakdown": [
+  340,
+  98,
+  48,
+  18,
+  32
+ ],
+ "cloud": [],
+ "cloud_h3": "What 536 people keep mentioning",
+ "reviews": [
+  {
+   "stars": "★★★★★",
+   "text": "“I walk about two miles from my house to visit this wonderful spot. Norma’s Sweet Bakery is a great old-school bakery, where the ladies in the back actually make the pastry. I love their pastry and the people in the store are super. They … More”",
+   "who": "Louis and Elaine · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“What a sweet bakery, sandwich shop, and grocery store. The guava cream cheese King Cake has a light and fluffy brioche dough and is absolutely delicious. I could not resist biting into the pastries (both savory and sweet) on my walk. … More”",
+   "who": "Anandi Premlall · Google"
+  },
+  {
+   "stars": "★★★★☆",
+   "text": "“Everyone is always friendly when I pop into Normas. The guava and cheese king cake during Mardi gras season is amazing but you can get guava and cheese pan which is the same tasty thing. More”",
+   "who": "Captain Blood · Google"
+  }
+ ],
+ "gallery": [
+  "img/01.jpg",
+  "img/05.jpg",
+  "img/09.jpg",
+  "img/10.jpg",
+  "img/07.jpg",
+  "img/02.jpg",
+  "img/08.jpg"
+ ],
+ "hours_display": [
+  "7am – 7pm",
+  "7am – 7pm",
+  "7am – 7pm",
+  "7am – 7pm",
+  "7am – 8am, 9am – 7pm",
+  "7am – 7pm",
+  "8am – 3pm"
+ ],
+ "hours": [
+  [
+   [
+    420,
+    1140
+   ]
+  ],
+  [
+   [
+    420,
+    1140
+   ]
+  ],
+  [
+   [
+    420,
+    1140
+   ]
+  ],
+  [
+   [
+    420,
+    1140
+   ]
+  ],
+  [
+   [
+    420,
+    480
+   ],
+   [
+    540,
+    1140
+   ]
+  ],
+  [
+   [
+    420,
+    1140
+   ]
+  ],
+  [
+   [
+    480,
+    900
+   ]
+  ]
+ ],
+ "popular_times": {},
+ "tip": {
+  "b": "Local tip",
+  "text": "If it is not king cake season, ask for the guava and cheese pan instead. Reviewers say it is the same filling and the same dough, just not in a ring."
+ },
+ "getting_here": [
+  "2925 Bienville St in Mid-City, with the lot out front",
+  "Free parking on site and on the surrounding streets"
+ ],
+ "cta_h2": "Bakery, counter and grocery. Open at seven.",
+ "cta_dir_btn": "g",
+ "_source": {
+  "website": null,
+  "maps": "https://maps.google.com/?cid=4186319242771503510",
+  "status": "OPERATIONAL",
+  "price": null,
+  "summary": null,
+  "photos": [
+   {
+    "file": "img/01.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl54PVuUsGuX3ycOl7rPb7ePKjkCOnvnZ0vr1oQHoEs_KlKl0KSYBu6vO0RgyMUvK9EM1c7ZLXv-18_k-krXeP_lwI5HogLWJ9mdnArXtHmR4LOWmcxvYJs7CdED22x1J0JySM",
+    "by": ""
+   },
+   {
+    "file": "img/02.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWllBFdNQ3gX5SmifcxZe-bPRCgxK4RIOi4Jtdwdj_nfZMDLWK7VTOJXG4XRIAkmZYJCCbVgCHBPCiCBUeA6Kqacb_m2ye5hySBDsvBGv8kiuDT4IMvF6zJ8Ijap0cgxxW7wN-1iJg",
+    "by": ""
+   },
+   {
+    "file": "img/03.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnVXQaL13thImUDJrBx8_nDBYKtIBhh36fSi_w-_p1YPxGIFcnaPZNNtAyxB5h1GlWelrgnQjn6QaZyYkOpcCdnl37D61TiMRMvWdYefAapaO4axlxWKcUMLx3X-1z7hnnYlPN2",
+    "by": ""
+   },
+   {
+    "file": "img/04.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlPTwfskmiiw-p0XH0Oc7Od90Sk0NcwOfWPtGXY9tqtNsoe2yuBySJoklcpp9Ho9H4B_lBaVhVe5-nqZj22iYytLkjYof1nw7jL0TikPqCLGSPQovAKN4STLaae-E3xfZsMvZY8",
+    "by": ""
+   },
+   {
+    "file": "img/05.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkk712nb_PwYKa0XULJTndIIm9ERC_YqVDE3m10kIlyK8Rrv2I0qmGEuLkTrb1ni_ZtwVKwKIrW89fnhc5MqIUfqpZm0t3epK3zODdos0k4S3uzT4UtDJq2bTpFC3tNpuPkKbI",
+    "by": ""
+   },
+   {
+    "file": "img/06.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWljM0rSVFUHVqdrH6we7gBxkoCTWjHfJwUl67ydKHW-_Nv8OxaafpO47V8GDfJW89-xRR_tQct6XlYuIvP3UuhdmvmQ83FWHAlowufGHYV3yx36bbtNQnnAxwgsOgcRmmsxjBaE",
+    "by": ""
+   },
+   {
+    "file": "img/07.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmlx3N4-gl5DgxGZhKlRkJE2WziHiMg30RLqergC_TEEy0zBt3jODwTyiWDVZwJkv9k-g5o3yoUWFcpRsQF2ZhOkrecuXsd7fkOjXT5F55h3RbvWIknbL4UT0tHnAM9d3c6Ko4",
+    "by": ""
+   },
+   {
+    "file": "img/08.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkOfMR035iNBfqKJ6ocDBIncs79AEltdj-ftx8eE0QSXdHXP2pEHAMxDHSzyZEm7ur-902-XVnj5yTHYc90cIvQFv7eqrqiABrnMW6UBFn9eENU0JwPEb80H6i2CEoav6Czq0XhmQ",
+    "by": ""
+   },
+   {
+    "file": "img/09.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnMsulxnvsJs5upR9nPktPNvbDS3X212vCH9X3U317hnYuF0qT-Iny9Q3cZF3syfQqJuSIzLCD6VvDTq3owV0SLj1T2ZeeELTZKtPglHuJ6jOjxZASYCFe7cxJvbHnzQKiOvmE",
+    "by": ""
+   },
+   {
+    "file": "img/10.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn5xzejW7zEWnzwZwp7W1GpU6GVyyr9PCjPBLfHBJvsbwtLSXSPUVBUbTwGazabWQeCibz9WC-g77itaXR8ENxby7VgWHJqPIE6Zxgky3-UOseIXQi5eYflCZCIQRNJejCMywUMVQ",
+    "by": ""
+   }
+  ],
+  "fetched": "2026-09-19",
+  "attributes": [
+   {
+    "head": "Accessibility",
+    "items": [
+     "Wheelchair accessible entrance",
+     "Wheelchair accessible parking lot"
+    ]
+   }
+  ],
+  "scraped_from": "https://www.google.com/maps/place/Norma's+Sweets+Bakery/@29.9693313,-90.0885117,17z/data=!3m1!4b1!4m6!3m5!1s0x8620a5f6a14ae469:0x3a18cb2bd5c71996!8m2!3d29.9693313!4d-90.0885117!16s%2Fg%2F1tgfdqvy?hl=en&entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+  "method": "maps page scrape (Places API New not enabled)"
+ }
+}
