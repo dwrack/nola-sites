@@ -1,0 +1,489 @@
+{
+ "slug": "two-sisters-soul-food-in-treme",
+ "theme": {
+  "colors": {
+   "--bg": "#f5efe3",
+   "--bg2": "#ebe2d1",
+   "--ink": "#22190f",
+   "--muted": "#6a5d4b",
+   "--acc": "#9c2a1e",
+   "--acc2": "#1f3a5f",
+   "--accink": "#fff",
+   "--card": "#fffaf1",
+   "--r": "3px",
+   "--band-ink": "var(--ink)"
+  },
+  "font_link": "Libre+Caslon+Text:ital,wght@0,400;0,700;1,400",
+  "font_stack": "'Libre Caslon Text', Georgia, serif",
+  "h1": "font-size:clamp(2.4rem,5.2vw,4.3rem);font-weight:700;letter-spacing:-.015em;line-height:1.05",
+  "h2_weight": "700",
+  "h3_weight": "700",
+  "brand_weight": "700",
+  "stat_weight": "700",
+  "num_weight": "600",
+  "quote_weight": "700",
+  "big_weight": "700",
+  "cloud_weight": "700",
+  "dark": false,
+  "alt_dark": false
+ },
+ "theme_from": "mother-s-restaurant",
+ "title": "Two Sisters Soul Food in Treme · Soul food on Basin St · New Orleans",
+ "description": "Smothered turkey necks, stewed oxtails and gumbo on Basin Street. Every plate comes with rice, gravy and vegetables.",
+ "icon": {
+  "bg": "#9c2a1e",
+  "fg": "#fff",
+  "initials": "TS"
+ },
+ "schema_type": "Restaurant",
+ "name": "Two Sisters",
+ "phone_e164": "+15043022400",
+ "phone_schema": "+1504-302-2400",
+ "address": {
+  "streetAddress": "1610 Basin St",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70116"
+ },
+ "geo": {
+  "lat": 29.9637405,
+  "lng": -90.072636
+ },
+ "hero_img": "img/09.jpg",
+ "category": "Soul food restaurant",
+ "rating": 4.2,
+ "review_count": 629,
+ "cid": "13474455342148048429",
+ "place_id": "ChIJ-0-JRPgCnogRLVaZMr7h_ro",
+ "phone_display": "(504) 302-2400",
+ "seal": {
+  "tag": "Tremé",
+  "center": "TS",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "Soul food restaurant · 1610 Basin St, Tremé",
+  "headline": "Soul food on Basin Street where every plate comes with rice, gravy and a vegetable.",
+  "sub": "Smothered turkey necks, stewed oxtails, fried catfish and gumbo, served at a table with a checkered cloth on it rather than over a counter. Black-owned, and there is always parking.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "629",
+   "label": "Google reviews"
+  },
+  {
+   "count": "4.2",
+   "label": "stars on Google"
+  },
+  {
+   "count": "$15.50",
+   "label": "most dinner plates"
+  },
+  {
+   "count": "Free",
+   "label": "lot out front"
+  }
+ ],
+ "story": {
+  "kicker": "Tremé",
+  "h2": "Two Sisters Soul Food in Treme",
+  "paragraphs": [
+   "Two Sisters sits on Basin Street at the Tremé edge, in a low building with SOUL FOOD painted down the side of it in red. Inside is a proper dining room rather than a takeout counter: yellow checkered cloths, red walls, chairs pulled up to tables set for people who intend to sit a while. Somebody comes and takes the order at the table.",
+   "The menu is short and it is the real thing. Smothered turkey wings and necks, stewed hen, stuffed bell peppers, fried catfish, BBQ chicken, and gumbo that comes with potato salad in it. Stewed oxtails and chitterlings cost seven dollars more than everything else and are the two dishes people arrange their week around. Every plate comes with rice and gravy and vegetables, which is printed at the bottom of the menu in case anybody was unsure."
+  ]
+ },
+ "facts": [
+  "Dine in at the table, takeout, or delivery",
+  "Every plate comes with rice and gravy and vegetables",
+  "Black-owned, per the Google profile",
+  "Catering available",
+  "Free lot out front and free street parking around it"
+ ],
+ "address_display": "1610 Basin St, New Orleans, LA 70116",
+ "instagram": null,
+ "order": [
+  {
+   "img": "img/02.jpg",
+   "name": "Smothered or Fried Chicken Dinner",
+   "blurb": "$15.50, with rice and gravy and a vegetable, same as everything else on the sheet. The plate to start with."
+  },
+  {
+   "img": "img/08.jpg",
+   "name": "Crabs in Gravy",
+   "blurb": "Not on the Sunday sheet, so ask which day it runs. Over rice, and worth building the trip around."
+  },
+  {
+   "img": "img/06.jpg",
+   "name": "Wings and Red Beans",
+   "blurb": "Fried hard, beans alongside with sausage run through them. The order for when you cannot decide."
+  },
+  {
+   "img": "img/04.jpg",
+   "name": "Cornbread",
+   "blurb": "Two squares in a paper-lined basket, and it lands before you have got your coat off."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "Dinners",
+    "items": [
+     {
+      "name": "Gumbo with potato salad",
+      "price": "15.00"
+     },
+     {
+      "name": "Shrimp & Okra",
+      "price": "15.50"
+     },
+     {
+      "name": "Shrimp & Okra w/ choice of meat",
+      "price": "16.50"
+     },
+     {
+      "name": "Stewed Hen Dinner",
+      "price": "15.50"
+     },
+     {
+      "name": "Fried Catfish Dinner",
+      "price": "15.50"
+     },
+     {
+      "name": "BBQ Chicken Dinner",
+      "price": "15.50"
+     }
+    ]
+   },
+   {
+    "h3": "Smothered & Fried",
+    "items": [
+     {
+      "name": "Stuffed Bell Pepper Dinner",
+      "price": "15.50"
+     },
+     {
+      "name": "Smothered Turkey Wing Dinner",
+      "price": "15.50"
+     },
+     {
+      "name": "Smothered Turkey Neck Dinner",
+      "price": "15.50"
+     },
+     {
+      "name": "Smothered or Fried Chicken Dinner",
+      "price": "15.50"
+     },
+     {
+      "name": "Smothered or Fried Pork Chop Dinner",
+      "price": "15.50"
+     },
+     {
+      "name": "Stewed Oxtails",
+      "price": "22.50"
+     },
+     {
+      "name": "Chitterlings",
+      "price": "22.50"
+     }
+    ]
+   },
+   {
+    "h3": "Drinks & Dessert",
+    "items": [
+     {
+      "name": "Coke, Diet Coke, Sprite, Root Beer, Dr Pepper",
+      "price": "2.50"
+     },
+     {
+      "name": "Bottled water",
+      "price": "2.00"
+     },
+     {
+      "name": "Tea & lemonade",
+      "price": "3.50"
+     },
+     {
+      "name": "Dessert",
+      "price": "4.00"
+     }
+    ]
+   }
+  ],
+  "note": "From the Sunday menu, photographed on the table. All plates served with rice and gravy and vegetables. Other days run a different sheet. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "",
+  "text": "",
+  "cite": ""
+ },
+ "review_count_display": "629",
+ "breakdown": [],
+ "cloud": [],
+ "cloud_h3": "What 629 people keep mentioning",
+ "reviews": [],
+ "gallery": [
+  "img/05.jpg",
+  "img/01.jpg",
+  "img/07.jpg",
+  "img/12.jpg",
+  "img/10.jpg",
+  "img/13.jpg",
+  "img/14.jpg"
+ ],
+ "hours_display": [
+  "11am – 5pm",
+  "11am – 5pm",
+  "11am – 5pm",
+  "11am – 5pm",
+  "11am – 5pm",
+  "Closed",
+  "11am – 5pm"
+ ],
+ "hours": [
+  [
+   [
+    660,
+    1020
+   ]
+  ],
+  [
+   [
+    660,
+    1020
+   ]
+  ],
+  [
+   [
+    660,
+    1020
+   ]
+  ],
+  [
+   [
+    660,
+    1020
+   ]
+  ],
+  [
+   [
+    660,
+    1020
+   ]
+  ],
+  [],
+  [
+   [
+    660,
+    1020
+   ]
+  ]
+ ],
+ "popular_times": {},
+ "tip": {
+  "b": "Local tip",
+  "text": "Everything arrives with rice, gravy and a vegetable, so do not order sides you will not get through. If the oxtails are on that day, that is the day to go."
+ },
+ "getting_here": [
+  "1610 Basin St in Tremé, up by Louis Armstrong Park",
+  "Free lot out front, and free street parking on the blocks around it"
+ ],
+ "cta_h2": "Rice, gravy and a vegetable with every plate.",
+ "cta_dir_btn": "g",
+ "_source": {
+  "website": null,
+  "maps": "https://maps.google.com/?cid=13474455342148048429",
+  "status": "OPERATIONAL",
+  "price": null,
+  "summary": null,
+  "photos": [
+   {
+    "file": "img/01.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmwpC4GsqNtaelTKlMW5xlZJrdgh8HX6LqHv_BWIJ6uJI0qUyj3WmN3Axu_knI8se0SvdyzLBUZZxyGi3R8wMovvaVrC_58lLammxyrBYUG0-CeXKhqBCAvxrf2UYOxQ57XnJarYg",
+    "by": ""
+   },
+   {
+    "file": "img/02.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnB-knpV8ejRoLMCJ0BXtrdpQTfShmexWbVi7LXmxnsjbzmysmXAO3GgQ7ViPibJzDaFXHW5SX2batuRN0iB_IhIvy21q6SxVWn7ky4l8nxfd5fjdRCItSfu02c2RgILLvLEy2UFjQMpNNm",
+    "by": ""
+   },
+   {
+    "file": "img/03.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnHw1KJBqGEQecN1H5kJiW-8vIyLPE6aOZmEhMaBibnKgm6RBWCAy2oAnT8IHHCYy6vEMJ5tTzvTF0Dkdzv_m3_ye-Rc9V64YlWfEvyzPw1WPWP3FcztwNH3RMcFtKgrhLJg_xBp59DlxZi",
+    "by": ""
+   },
+   {
+    "file": "img/04.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWltO2arSgFWi-MVyy_d61Re5d8N25ifekTwyM8GtgUWAeEYyj5eb-tXzX6ZL36_5nfZ6EUuwiBs5jMA0SBYz2q2_hv--eCgXMnn4dVVrUGKNw2wDuoxZ4jNmjFmFAXSlgIempo",
+    "by": ""
+   },
+   {
+    "file": "img/05.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnQA5rmaDBTMEf-Ib_X8MvXTbw2FN9skB2AtMcyUDi35h33YuvJPwQlJOXI1GrBnAPrNAeR-OrfOyUUf9tarhwHXu_PXaNfFoe5YuBYmy1W1DcGjOoul3CowT3FoHrbY_xRzpur8Q",
+    "by": ""
+   },
+   {
+    "file": "img/06.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmaK8N_rMDzA4vh3n8YeZFc7wbVVI86yJUP66FCs-ea-k_iHnQi0AsPrXvJfl22NIzQrOAgGj7oom-NMkwg3Ge00tU3A70qtVVYXzSczf0TSxYGYqOFwtWj2gkYgzIB-Cjq3W0xTA",
+    "by": ""
+   },
+   {
+    "file": "img/07.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkB1PyHxdQXg4jjNXCdJya9JAE0OrCzhasT-iebbZC6Cb_wH5oaBrOTnOr2XZ3JSGefjP7orjrwz-0d1xNbm2dV7jp_aC9jadsvAr-c-JdkW7knKHsLibL00gUDQAN6mWrk2v3_6X2cdsEp",
+    "by": ""
+   },
+   {
+    "file": "img/08.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkDH2C05IXrmT3j5tF9HQsfCfPCt2g7q-p2aGrYTB6BEvZbG1q4G41zLhxfLlUmPFO3JHd4mM4l8exwaxP9uo6D4uBXsff4vTTBEuI67dSroLbUoG6p1wG438ySc2NwjxszBtBP6Q",
+    "by": ""
+   },
+   {
+    "file": "img/09.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk9i-JiraoNJbZ_0SIRJsZykBCflC7Rx2pxZcnZULKSx1Q4e6qASflX886mHrxuVrPFIiarldJTfA1x7U3yXAeAK-J10RRK7HfLOCh35lA_QAI4df_u-uFxqxYZDHDgvo93hjA2",
+    "by": ""
+   },
+   {
+    "file": "img/10.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnUpoT5AgKkedkbFwApebGCs10GkJT7Rs2Lvght3UAUmpDXJEiq4viibR-e-6gfG3tGuVYRvHqQVSRy7uZCswFjcauNw1b5zGffl4wZGDbOAM8BB3AaQ_w0jByykP2TqZT0QUg-ng",
+    "by": ""
+   },
+   {
+    "file": "img/11.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmHNh_GzYHuz-CKZM5xpZQT6dXirNKT36x1KrMFeoKav8PeLBLCva3aRosk2jaETzSyMkR-8ypsKvYBOACLqyRSYR6vSRS1DXTG_gA7uo7kDNoUX84R-96zQCaHk0uZEFVUKqUH",
+    "by": ""
+   },
+   {
+    "file": "img/12.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm1wNQRA0rlf_cFFqaVhcWQWkH3iVgTgVT0nt8ngKhbD08HwYVbSZ_itwfjvv_0jMicsv2pMnJCRHKpMJioa_1HnGS4ZBus11MxV0eSz7XJzazwc5NwDlY3HncJM4Pt3bgLVKj4",
+    "by": ""
+   },
+   {
+    "file": "img/13.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkzZPJZ5DZ4susy8edvW9Qgf6eTdFdkk09TiLw31R5Ulnx2iPBtilDAenrPdK0F1vEcOlKxivtLXSNVok2T-bAgXyVQ06XMOn8MwbOu9uA37aVHfuQoSMWUPLnHO3yhlFrvsNa3bQ",
+    "by": ""
+   },
+   {
+    "file": "img/14.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnaToKjAz27ka-I9FwSgB251Z9FqrF9OS67fOE5QiaVPdhCaOsSTQgNBWOnWIHs1FoM0Bz-bHQmYrmLw9OgsjN4ri2vzr0dpFt8FJ_vYa9QM4U9VE0MzS-0REjJWBt06boko9GtFA",
+    "by": ""
+   }
+  ],
+  "fetched": "2026-09-19",
+  "attributes": [
+   {
+    "head": "Accessibility",
+    "items": [
+     "Wheelchair accessible entrance",
+     "Wheelchair accessible parking lot",
+     "Wheelchair accessible seating"
+    ]
+   },
+   {
+    "head": "From the business",
+    "items": [
+     "Identifies as Black-owned"
+    ]
+   },
+   {
+    "head": "Service options",
+    "items": [
+     "Takeout",
+     "Dine-in",
+     "Delivery",
+     "Onsite services"
+    ]
+   },
+   {
+    "head": "Highlights",
+    "items": [
+     "Fast service",
+     "Serves local specialty"
+    ]
+   },
+   {
+    "head": "Popular for",
+    "items": [
+     "Lunch",
+     "Dinner",
+     "Solo dining"
+    ]
+   },
+   {
+    "head": "Offerings",
+    "items": [
+     "Quick bite"
+    ]
+   },
+   {
+    "head": "Dining options",
+    "items": [
+     "Lunch",
+     "Dinner",
+     "Catering",
+     "Dessert",
+     "Seating",
+     "Table service"
+    ]
+   },
+   {
+    "head": "Amenities",
+    "items": [
+     "Restroom"
+    ]
+   },
+   {
+    "head": "Atmosphere",
+    "items": [
+     "Casual",
+     "Cozy"
+    ]
+   },
+   {
+    "head": "Crowd",
+    "items": [
+     "Groups",
+     "Tourists"
+    ]
+   },
+   {
+    "head": "Payments",
+    "items": [
+     "Credit cards",
+     "Debit cards",
+     "NFC mobile payments"
+    ]
+   },
+   {
+    "head": "Children",
+    "items": [
+     "Good for kids"
+    ]
+   },
+   {
+    "head": "Parking",
+    "items": [
+     "Free parking lot",
+     "Free street parking",
+     "Usually plenty of parking"
+    ]
+   }
+  ],
+  "scraped_from": "https://www.google.com/maps/place/Two+Sisters+Soul+Food+in+Treme/@29.9637405,-90.072636,17z/data=!3m1!4b1!4m6!3m5!1s0x889e02f844894ffb:0xbafee1be3299562d!8m2!3d29.9637405!4d-90.072636!16s%2Fg%2F1tkp0krj?hl=en&entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+  "method": "maps page scrape (Places API New not enabled)"
+ }
+}
