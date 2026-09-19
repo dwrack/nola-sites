@@ -1,0 +1,365 @@
+{
+ "slug": "little-bar-on-gravier",
+ "theme": {
+  "colors": {
+   "--bg": "#0f1a14",
+   "--bg2": "#15241c",
+   "--ink": "#f1ecdd",
+   "--muted": "#a8b3a5",
+   "--acc": "#d9a441",
+   "--acc2": "#8fb996",
+   "--accink": "#0f1a14",
+   "--card": "#1a2b22",
+   "--r": "4px",
+   "--band-ink": "var(--ink)"
+  },
+  "font_link": "Playfair+Display:ital,wght@0,600;0,700;1,600",
+  "font_stack": "'Playfair Display', Georgia, serif",
+  "h1": "font-size:clamp(2.4rem,5.6vw,4.6rem);font-weight:600;letter-spacing:-.01em;line-height:1.05",
+  "h2_weight": "600",
+  "h3_weight": "600",
+  "brand_weight": "600",
+  "stat_weight": "600",
+  "num_weight": "600",
+  "quote_weight": "600",
+  "big_weight": "600",
+  "cloud_weight": "600",
+  "dark": true,
+  "alt_dark": false
+ },
+ "theme_from": "ryan-s-irish-pub-inc",
+ "title": "little bar on gravier · CBD neighborhood bar · New Orleans",
+ "description": "PBR on tap, video poker in the back, and a dog at the end of the bar. Open from 11am on a quiet CBD block.",
+ "icon": {
+  "bg": "#d9a441",
+  "fg": "#0f1a14",
+  "initials": "LB"
+ },
+ "schema_type": "BarOrPub",
+ "name": "little bar on gravier",
+ "phone_e164": "+15043336665",
+ "phone_schema": "+1504-333-6665",
+ "address": {
+  "streetAddress": "510 Gravier St",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70130"
+ },
+ "geo": {
+  "lat": 29.9505308,
+  "lng": -90.0680551
+ },
+ "hero_img": "img/04.jpg",
+ "category": "Bar",
+ "rating": 4.8,
+ "review_count": 415,
+ "cid": "8886745612695476133",
+ "place_id": "ChIJTT_ySMKnIIYRpZf5_QwQVHs",
+ "phone_display": "(504) 333-6665",
+ "seal": {
+  "tag": "CBD",
+  "center": "LB",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "Neighborhood bar · 510 Gravier St, CBD",
+  "headline": "A CBD bar with PBR on tap, video poker in the back, and a dog at the end of the bar.",
+  "sub": "Open from eleven in the morning until two, three on weekends, on a block of Gravier that empties out after five. Reviewers remember the bartenders by name, which tells you what kind of room it is.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "4.8",
+   "label": "stars on Google"
+  },
+  {
+   "count": "415",
+   "label": "Google reviews"
+  },
+  {
+   "count": "348",
+   "label": "of them five stars"
+  },
+  {
+   "count": "11am",
+   "label": "doors open, every day"
+  }
+ ],
+ "story": {
+  "kicker": "Central Business District",
+  "h2": "little bar on gravier",
+  "paragraphs": [
+   "little bar on gravier writes its own name in lowercase on the awning, which is about the right amount of fuss for the place. It is a narrow room on a CBD block that clears out after the office crowd goes home: long bar down one side, checkerboard floor, brick at the back with a Saints banner on it, and a back bar covered in stickers and photographs that have obviously been accumulating for years.",
+   "Doors open at eleven in the morning, which downtown is a real service. There is PBR on tap, cocktails that reviewers rate well above what the room would suggest, TVs showing whatever tournament is running, and video poker in the back. There is also, according to more than one review, a dog who holds down the end of the bar and never says a word to anybody."
+  ]
+ },
+ "facts": [
+  "Open 11am to 2am, and to 3am Friday and Saturday",
+  "PBR on tap, full bar, cocktails better than the room lets on",
+  "Video poker in the back",
+  "Sidewalk stools out front under the awning",
+  "Sports on the TVs, Saints banner on the brick wall"
+ ],
+ "address_display": "510 Gravier St, New Orleans, LA 70130",
+ "instagram": "https://www.instagram.com/littlebarongravier/",
+ "order": [
+  {
+   "img": "img/09.jpg",
+   "name": "A Proper Cocktail",
+   "blurb": "Tall, limed, built behind a bar nobody expects it from. This is the thing reviewers keep being surprised by."
+  },
+  {
+   "img": "img/08.jpg",
+   "name": "Two, Out on the Sidewalk",
+   "blurb": "Go-cups under the string lights at the stools out front. The correct way to spend a warm afternoon on Gravier."
+  },
+  {
+   "img": "img/02.jpg",
+   "name": "Off the Shelf",
+   "blurb": "The back bar is deeper than the room suggests. Say what you are in the mood for and let them pick."
+  },
+  {
+   "img": "img/01.jpg",
+   "name": "PBR On Tap",
+   "blurb": "On draft, not in a can, which one reviewer called out specifically as a good thing. He is right."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "On Tap",
+    "items": [
+     {
+      "name": "PBR",
+      "price": ""
+     },
+     {
+      "name": "Rotating draft",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "Cocktails",
+    "items": [
+     {
+      "name": "Bartender's call",
+      "price": ""
+     },
+     {
+      "name": "Classics",
+      "price": ""
+     },
+     {
+      "name": "Highballs",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "Cold and Quick",
+    "items": [
+     {
+      "name": "Domestic cans",
+      "price": ""
+     },
+     {
+      "name": "Shot and a beer",
+      "price": ""
+     },
+     {
+      "name": "Go-cups",
+      "price": ""
+     }
+    ]
+   }
+  ],
+  "note": "little bar does not post a menu. This is what the bar and the review photos show. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "img/05.jpg",
+  "text": "“Just a real good, low-key neighborhood dive bar. Bartender was great. They have PBR on tap, and for me, that's a good thing.”",
+  "cite": "Google review · 4.8 stars from 415 reviews"
+ },
+ "review_count_display": "415",
+ "breakdown": [
+  348,
+  48,
+  10,
+  4,
+  5
+ ],
+ "cloud": [],
+ "cloud_h3": "What 415 people keep mentioning",
+ "reviews": [
+  {
+   "stars": "★★★★★",
+   "text": "“Favorite district bar! Shannon is amazing and makes you feel right at home immediately! Great cocktails & a fun time! More”",
+   "who": "Amy Houston · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“Just a real good, low-key neighborhood dive bar. Bartender was great, however I didn't get her name. They have PBR on tap, and for me, that's a good thing! They also had the World Cup on a few of their TVs. We'll be back. More”",
+   "who": "Gregory MacDonald · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“Had a beer and good conversation with the bartender. 20 bucks in the slot machine in the back and hit max bet 1 time, paid 80 bucks... The guard dawg was cool at the end of the bar and never said a mumbling word ! More”",
+   "who": "T T · Google"
+  }
+ ],
+ "gallery": [
+  "img/01.jpg",
+  "img/03.jpg",
+  "img/05.jpg",
+  "img/10.jpg",
+  "img/02.jpg",
+  "img/08.jpg",
+  "img/07.jpg"
+ ],
+ "hours_display": [
+  "11am – 2am",
+  "11am – 2am",
+  "11am – 2am",
+  "11am – 2am",
+  "11am – 3am",
+  "11am – 3am",
+  "11am – 2am"
+ ],
+ "hours": [
+  [
+   [
+    660,
+    1560
+   ]
+  ],
+  [
+   [
+    660,
+    1560
+   ]
+  ],
+  [
+   [
+    660,
+    1560
+   ]
+  ],
+  [
+   [
+    660,
+    1560
+   ]
+  ],
+  [
+   [
+    660,
+    1620
+   ]
+  ],
+  [
+   [
+    660,
+    1620
+   ]
+  ],
+  [
+   [
+    660,
+    1560
+   ]
+  ]
+ ],
+ "popular_times": {},
+ "tip": {
+  "b": "Local tip",
+  "text": "Come at eleven when it opens and take a stool on the sidewalk under the awning. The block is dead until the offices let out at five, which is exactly the appeal."
+ },
+ "getting_here": [
+  "510 Gravier St in the CBD, walking distance from the Canal Street hotels",
+  "Street parking loosens up after 6pm, and there is a garage within a couple of blocks"
+ ],
+ "cta_h2": "Open at eleven. The dog is already there.",
+ "cta_dir_btn": "g",
+ "_source": {
+  "website": null,
+  "maps": "https://maps.google.com/?cid=8886745612695476133",
+  "status": "OPERATIONAL",
+  "price": null,
+  "summary": null,
+  "photos": [
+   {
+    "file": "img/01.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm7RdMWgRKxF49cdgNc2i0ylT8GHBjUIxlsAJdl5vxbx6jJ0pQTF9mwYwhdUcHI_xnytA8fPHD84o_JEvhLlFW8t7OwR8ufmh35mkPY5mZTuK3S9Ue0XV_Mk04ahOX0uB3CxzvOXw",
+    "by": ""
+   },
+   {
+    "file": "img/02.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm8BN1JEgLdzFkhp4smZothKqiofcRNlQSpVG23RwTlsp1L8UWUMHk7cue_T6wJkT6L9txifswqiqOJzYDx1p0ZRALQB0eDkAGu2_0ietm6t-Wzb6Pl60Knsz2QRoeIpCaRTAmN",
+    "by": ""
+   },
+   {
+    "file": "img/03.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn4orFvBKL2RpMYwj80UdJOiFIu7oidV4w3I_CCb1BxHoFmf0ftyI0aPYoXbBXQzmGX2EKCOuUcVc9H6MzE12J0nbyN63PLIwhfF6Hc2fuDYAbPRqOo0VHzk6AGCQt_Oq99-cdI",
+    "by": ""
+   },
+   {
+    "file": "img/04.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnQPCr_JV8Zu0vyW1FluGLMiVlnmweWYdtTICjoBX99--wfoUkoPNMOFEW72ZCTfB3g0n5xyqqoCGlBih9YuMfFVxVvlRz9wIukMA6wevEQVd80U17Mr3PUPttZ_ei57rmBw9fG",
+    "by": ""
+   },
+   {
+    "file": "img/05.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlJqZmVOMObCz16jIqvs_LWffMszrwfMjAnIEZqTQuyyn8WqofqL6qWQ-raC-ypQ_lYkGNK2gm5SGM6hBsYpGU6S08xuuyx8wrpxWLFS6ARLfJU5okzv43avw3tJihh4V8GRYUs",
+    "by": ""
+   },
+   {
+    "file": "img/06.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmx0QfKq7XLUkuUeIp-1X-EgD4KE46syIbQTmlDSc_iE0QcXhaDEk18O63nQYsLuULJmwTYjvxdWIFT3-y-_SWUHeKUpe_t3haRwCCiXi1PbHSx46PM2eUYv6bJVrM1B1up--O4hSMrttGk",
+    "by": ""
+   },
+   {
+    "file": "img/07.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmLP4ZqFoX-tn2-L5UZGQ7RTuYfbFgi7PMoG9X7SI47Z0zjzdDqXh1jgVBvrfPfgqoa1BhkfxEBFvbCVoRZTlgFVE7XEKCh4CjqAb4iSznuOola1KQjH40rb5zY5Cu0BDFZx5_IlA",
+    "by": ""
+   },
+   {
+    "file": "img/08.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnL7-hlJ5A66VNvsvhIhDjQk0xHHrVl_4CxiJiTzd5ww4Nr2n4cujQUhRb40lI6PZ9-8BMDJ2dsytTfM55H0C-96yagaxXSLONhPQk6rEx3w0jPJeUYN24hGWaMnbmCFZBHV3qoAQ",
+    "by": ""
+   },
+   {
+    "file": "img/09.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmAP_dUzDmMS2uSq9vbU4iz0EjML29wOWF8nX2YlKlsbI1m4ToVwdoyNMyl1wW6rDBRm8VR4xBWUnTTWAiKHUjs-pTt08OCtdAdQOs2g5jnDTmaHJzgqFmDktxh5iRpXbqnh_j8om2Aa0tD",
+    "by": ""
+   },
+   {
+    "file": "img/10.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmXANLwupigA3MDerjPDVflWBq4lx1010GJDW-8dmrK6IG7dK4ACpA2w3FIK03-50XRwLblvZflPKvd1QkV2nne44ov1id1X7hSW79ULQYjuKEUNyhB0ZijlSvYPHrUiDpe2z8fZg",
+    "by": ""
+   }
+  ],
+  "fetched": "2026-09-19",
+  "attributes": [
+   {
+    "head": "Accessibility",
+    "items": [
+     "Wheelchair accessible entrance"
+    ]
+   }
+  ],
+  "scraped_from": "https://www.google.com/maps/place/little+bar+on+gravier/@29.9505308,-90.0680551,17z/data=!3m1!4b1!4m6!3m5!1s0x8620a7c248f23f4d:0x7b54100cfdf997a5!8m2!3d29.9505308!4d-90.0680551!16s%2Fg%2F11g2xs1p7s?hl=en&entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+  "method": "maps page scrape (Places API New not enabled)"
+ }
+}
