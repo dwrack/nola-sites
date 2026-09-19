@@ -182,15 +182,37 @@
   "note": "Don Leoncio does not post a menu or a cigar list online. This is what the humidor, the bar and the review photos show. Prices as posted and subject to change."
  },
  "quote": {
-  "img": "",
-  "text": "",
-  "cite": ""
+  "img": "img/03.jpg",
+  "text": "“Super nice knowledgeable people with huge selection of top notch cigars paired with upper echelon spirits. Comfortable atmosphere owned by an established family.”",
+  "cite": "Google review · 4.4 stars from 602 reviews"
  },
  "review_count_display": "602",
- "breakdown": [],
+ "breakdown": [
+  386,
+  132,
+  46,
+  16,
+  22
+ ],
  "cloud": [],
  "cloud_h3": "What 602 people keep mentioning",
- "reviews": [],
+ "reviews": [
+  {
+   "stars": "★★★★★",
+   "text": "“This is a great and convenient cigar bar right off of Canal Street walking distance from lots of hotels on the edge of the French Quarter. They have a great selection of liquor at reasonable prices. The cigar selection is not huge, but they … More”",
+   "who": "Todd Schaefer · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“Thirty-plus years in business together. That’s not hype 🤩 that’s legacy. In a city like New Orleans, where culture runs deep and standards are high, this … More”",
+   "who": "Tiffany Love Lives Amplified · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“Super nice knowledgeable people with huge selection of top notch cigars paired with upper echelon spirits! Comfortable atmosphere owned by an established family -check it out! Thank you!”",
+   "who": "Ann Sherman · Google"
+  }
+ ],
  "gallery": [
   "img/02.jpg",
   "img/08.jpg",
@@ -201,10 +223,10 @@
   "img/04.jpg"
  ],
  "hours_display": [
-  "12pm – 11pm",
-  "12pm – 11pm",
-  "12pm – 11pm",
-  "12pm – 11pm",
+  "12pm – 10pm",
+  "12pm – 10pm",
+  "12pm – 10pm",
+  "12pm – 10pm",
   "12pm – 12am",
   "12pm – 12am",
   "12pm – 8pm"
@@ -213,25 +235,25 @@
   [
    [
     720,
-    1380
+    1320
    ]
   ],
   [
    [
     720,
-    1380
+    1320
    ]
   ],
   [
    [
     720,
-    1380
+    1320
    ]
   ],
   [
    [
     720,
-    1380
+    1320
    ]
   ],
   [

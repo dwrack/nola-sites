@@ -49,7 +49,7 @@
   "lat": 29.9637405,
   "lng": -90.072636
  },
- "hero_img": "img/09.jpg",
+ "hero_img": "img/05.jpg",
  "category": "Soul food restaurant",
  "rating": 4.2,
  "review_count": 629,
@@ -214,27 +214,49 @@
   "note": "From the Sunday menu, photographed on the table. All plates served with rice and gravy and vegetables. Other days run a different sheet. Prices as posted and subject to change."
  },
  "quote": {
-  "img": "",
-  "text": "",
-  "cite": ""
+  "img": "img/12.jpg",
+  "text": "“The absolute best soul food I’ve ever had in this country! I’ve eaten soul food all over the United States, from Chicago to Atlanta to New Orleans, and nothing has come close to what I experienced at Two Sisters.”",
+  "cite": "Google review · 4.2 stars from 629 reviews"
  },
  "review_count_display": "629",
- "breakdown": [],
+ "breakdown": [
+  406,
+  101,
+  45,
+  23,
+  54
+ ],
  "cloud": [],
  "cloud_h3": "What 629 people keep mentioning",
- "reviews": [],
+ "reviews": [
+  {
+   "stars": "★★★★★",
+   "text": "“The absolute best soul food I’ve ever had in this country! I’ve eaten soul food all over the United States, from Chicago to Atlanta to New Orleans, and nothing has come close to what I experienced at Two Sisters … More”",
+   "who": "davie gold · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“Great food, I got the oxtail plate with macaroni, collard greens, candied yams and some homemade cornbread, best soul food I’ve ever had, they just relocated so give em some grace, try there food and you’ll be happy ya’ll went More”",
+   "who": "Khaleb Tucker · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“We got a chicken dinner and split it between two people and still couldn't finish it, it comes with so much food. … More”",
+   "who": "Naomi Tingler · Google"
+  }
+ ],
  "gallery": [
-  "img/05.jpg",
-  "img/01.jpg",
+  "img/03.jpg",
   "img/07.jpg",
-  "img/12.jpg",
   "img/10.jpg",
-  "img/13.jpg",
-  "img/14.jpg"
+  "img/12.jpg",
+  "img/11.jpg",
+  "img/04.jpg",
+  "img/13.jpg"
  ],
  "hours_display": [
   "11am – 5pm",
-  "11am – 5pm",
+  "Closed",
   "11am – 5pm",
   "11am – 5pm",
   "11am – 5pm",
@@ -248,12 +270,7 @@
     1020
    ]
   ],
-  [
-   [
-    660,
-    1020
-   ]
-  ],
+  [],
   [
    [
     660,
