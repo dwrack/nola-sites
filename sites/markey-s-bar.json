@@ -1,0 +1,374 @@
+{
+ "slug": "markey-s-bar",
+ "theme": {
+  "colors": {
+   "--bg": "#0f1a14",
+   "--bg2": "#15241c",
+   "--ink": "#f1ecdd",
+   "--muted": "#a8b3a5",
+   "--acc": "#d9a441",
+   "--acc2": "#8fb996",
+   "--accink": "#0f1a14",
+   "--card": "#1a2b22",
+   "--r": "4px",
+   "--band-ink": "var(--ink)"
+  },
+  "font_link": "Playfair+Display:ital,wght@0,600;0,700;1,600",
+  "font_stack": "'Playfair Display', Georgia, serif",
+  "h1": "font-size:clamp(2.4rem,5.6vw,4.6rem);font-weight:600;letter-spacing:-.01em;line-height:1.05",
+  "h2_weight": "600",
+  "h3_weight": "600",
+  "brand_weight": "600",
+  "stat_weight": "600",
+  "num_weight": "600",
+  "quote_weight": "600",
+  "big_weight": "600",
+  "cloud_weight": "600",
+  "dark": true,
+  "alt_dark": false
+ },
+ "theme_from": "ryan-s-irish-pub-inc",
+ "title": "Markey's Bar · Bywater corner bar · New Orleans",
+ "description": "The Bywater corner bar: long tap wall, every game on, shuffleboard and darts in the back room. Open till 2am.",
+ "icon": {
+  "bg": "#d9a441",
+  "fg": "#0f1a14",
+  "initials": "MS"
+ },
+ "schema_type": "BarOrPub",
+ "name": "Markey's Bar",
+ "phone_e164": "+15049430785",
+ "phone_schema": "+1504-943-0785",
+ "address": {
+  "streetAddress": "640 Louisa St",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70117"
+ },
+ "geo": {
+  "lat": 29.9630516,
+  "lng": -90.0438454
+ },
+ "hero_img": "img/04.jpg",
+ "category": "Bar",
+ "rating": 4.5,
+ "review_count": 490,
+ "cid": "11289249334413817094",
+ "place_id": "ChIJZc-4LS6mIIYRBvWM5nR4q5w",
+ "phone_display": "(504) 943-0785",
+ "seal": {
+  "tag": "Bywater",
+  "center": "MS",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "Corner bar, shuffleboard & every game on · 640 Louisa St, Bywater",
+  "headline": "The Bywater corner bar where the beer is cold, every game is on, and the shuffleboard settles it.",
+  "sub": "A proper neighborhood dive on Louisa Street: long tap wall, screens on every side, tables out on the sidewalk when the weather is decent. Regulars come for the shuffleboard and stay because nobody rushes you out.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "490",
+   "label": "Google reviews"
+  },
+  {
+   "count": "4.5",
+   "label": "stars on Google"
+  },
+  {
+   "count": "340",
+   "label": "of them five stars"
+  },
+  {
+   "count": "2am",
+   "label": "last call, 7 nights"
+  }
+ ],
+ "story": {
+  "kicker": "Bywater",
+  "h2": "Markey's Bar",
+  "paragraphs": [
+   "Markey's has been the corner bar on Louisa Street long enough that there is a scanned snapshot of regulars out front under an old 7UP sign, everybody in high-waisted jeans. The building is still red, the sign still says MARKEY'S BAR in plain black letters, and the room behind it is still a bar first: long wood top, stools down the length of it, a wall of screens showing whatever is on.",
+   "The back room is where it gets serious. Shuffleboard table, dart boards, checkerboard floor, and a row of New Orleans Shuffleboard League plaques on the green wall, which tells you how winter Tuesdays go around here. The kitchen sends out wings, and trays of boiled crawfish when it is the season for it. Reviewers keep landing on the phrase good old dive bar, and they mean it as a compliment."
+  ]
+ },
+ "facts": [
+  "Full bar, long tap wall, craft and domestic",
+  "Shuffleboard, darts and league nights in the back room",
+  "Every game on: NFL, NBA, college, whatever is running",
+  "Sidewalk tables out front, free street parking on the surrounding blocks",
+  "Wheelchair accessible entrance and restroom"
+ ],
+ "address_display": "640 Louisa St, New Orleans, LA 70117",
+ "instagram": "https://www.instagram.com/markeysbar/",
+ "order": [
+  {
+   "img": "img/05.jpg",
+   "name": "A Pint of Guinness",
+   "blurb": "Poured, settled, set down on a napkin under the wall of screens. Order it first, then read the taps."
+  },
+  {
+   "img": "img/08.jpg",
+   "name": "Buffalo Wings",
+   "blurb": "Fried hard and sauced, celery and ranch in the basket. The right thing to order at halftime."
+  },
+  {
+   "img": "img/02.jpg",
+   "name": "Boiled Crawfish",
+   "blurb": "In season, by the tray, eaten at the bar. Corn in the pile and no ceremony about any of it."
+  },
+  {
+   "img": "img/07.jpg",
+   "name": "Bloody Mary",
+   "blurb": "Pickled green beans and an olive, carried out to the sidewalk table. Good for a slow afternoon."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "On Tap",
+    "items": [
+     {
+      "name": "Guinness",
+      "price": ""
+     },
+     {
+      "name": "Yuengling",
+      "price": ""
+     },
+     {
+      "name": "Rotating local craft",
+      "price": ""
+     },
+     {
+      "name": "Domestic cans and bottles",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "From the Kitchen",
+    "items": [
+     {
+      "name": "Buffalo wings",
+      "price": ""
+     },
+     {
+      "name": "Boiled crawfish, in season",
+      "price": ""
+     },
+     {
+      "name": "Baskets and bar snacks",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "Behind the Bar",
+    "items": [
+     {
+      "name": "Bloody Mary",
+      "price": ""
+     },
+     {
+      "name": "Well cocktails",
+      "price": ""
+     },
+     {
+      "name": "Shot and a beer back",
+      "price": ""
+     }
+    ]
+   }
+  ],
+  "note": "Markey's does not post a menu online. This is what the bar and the review photos show; ask for the current list when you get there. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "img/03.jpg",
+  "text": "“Good old dive bar with some good craft beers on. Good for all sports, staff very friendly.”",
+  "cite": "Google review · 4.5 stars from 490 reviews"
+ },
+ "review_count_display": "490",
+ "breakdown": [
+  340,
+  101,
+  31,
+  9,
+  9
+ ],
+ "cloud": [],
+ "cloud_h3": "What 490 people keep mentioning",
+ "reviews": [
+  {
+   "stars": "★★★★★",
+   "text": "“Good old dive bar with some good craft beers on. Good for all sports, staff very friendly Price per p… More”",
+   "who": "david franklin · Google"
+  },
+  {
+   "stars": "★★★★☆",
+   "text": "“Casual local corner bar serving the Bywater area with several beers on tap and many tables inside and out to enjoy them. Their roommates building also has shuffleboard in the back. It's a fun place to stop along with nearby businesses. There is free parking on surrounding streets. More”",
+   "who": "Josh · Google"
+  },
+  {
+   "stars": "★★★★☆",
+   "text": "“Watched the NFL Play Offs there while staying in the Bywater Neighborhood. Beer is cold. People are friendly. A great vibe for out-of-Towners to experience. Had a fun winning at shuffle board. More”",
+   "who": "Diana Robinson · Google"
+  }
+ ],
+ "gallery": [
+  "img/01.jpg",
+  "img/06.jpg",
+  "img/03.jpg",
+  "img/10.jpg",
+  "img/02.jpg",
+  "img/05.jpg",
+  "img/07.jpg"
+ ],
+ "hours_display": [
+  "2pm – 2am",
+  "2pm – 2am",
+  "2pm – 2am",
+  "2pm – 2am",
+  "2pm – 2am",
+  "1pm – 2am",
+  "1pm – 2am"
+ ],
+ "hours": [
+  [
+   [
+    840,
+    1560
+   ]
+  ],
+  [
+   [
+    840,
+    1560
+   ]
+  ],
+  [
+   [
+    840,
+    1560
+   ]
+  ],
+  [
+   [
+    840,
+    1560
+   ]
+  ],
+  [
+   [
+    840,
+    1560
+   ]
+  ],
+  [
+   [
+    780,
+    1560
+   ]
+  ],
+  [
+   [
+    780,
+    1560
+   ]
+  ]
+ ],
+ "popular_times": {},
+ "tip": {
+  "b": "Local tip",
+  "text": "Come on a weekday right when it opens at two. The shuffleboard is free, the sidewalk tables are in the shade, and you get the bar to yourself for about an hour."
+ },
+ "getting_here": [
+  "640 Louisa St, deep Bywater, a few blocks off St Claude Ave",
+  "Free street parking on the surrounding blocks, which reviewers make a point of mentioning"
+ ],
+ "cta_h2": "Cold beer, the game on, shuffleboard in the back.",
+ "cta_dir_btn": "g",
+ "_source": {
+  "website": null,
+  "maps": "https://maps.google.com/?cid=11289249334413817094",
+  "status": "OPERATIONAL",
+  "price": null,
+  "summary": null,
+  "photos": [
+   {
+    "file": "img/01.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmeHn5jt0Ul6sW2Yh18GIZZTp9v235i_Xtu7v_S0v920kIN6dE2PhvABxnhra7IvyisMUXXc2581yidsrpyo1ejVOJDTtb2ZDNUpaAr019x4P2_4e3lx5r2AEPOVB-IGiLmcCH9",
+    "by": ""
+   },
+   {
+    "file": "img/02.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnveJJDNbYOjObAIY1E9qjcFK2QoAdPfi49KcfrvF-dR7L8sf6528SXczG4DCMk2A5PEXpB_9R-dbXZVbyrWhdZxRTOnPMPqHhtId8qU54Ikdk72KubEpoWh9i25BvUnZdqN2Wgmg",
+    "by": ""
+   },
+   {
+    "file": "img/03.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkBWB4EZohpW6K8HQFlTHYMMwCu87R1xzJOo6cWnd2aCqmHwRStnZiTCEYdxcNx6D5mggDa9x_wjsdHTWOU8cT2CRaEqxD58MnnHofcrRWdExonEavksDxZRvwV5HtIQzsgPo2JHRoX7gRV",
+    "by": ""
+   },
+   {
+    "file": "img/04.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmmLAHURbSCkGEM2hS8VEsroDWqTs6XbDnaCv-rpe7V8_xPE-EoLOzFNaHFsedYwdLceaTGlHqaIOAcIby1grK8Feziym7BZieMeZJ33S2LPYux2NIBF-JYXN0lJMDNf6CjzjpggwLRhIEm",
+    "by": ""
+   },
+   {
+    "file": "img/05.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkmBaByc3rvONeGfH41DVWHcVSfRqYdkTvoThENyy49JwJyZ1N-DhhTdiWfntgeHM-ok6W0l4f6wHrQhpTmibMzOzebJIrRoR2FrlU08a74wZ-ieXRsZotTHJdsbXJzncc7VIpb_LUPJSa-",
+    "by": ""
+   },
+   {
+    "file": "img/06.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmWD5tjR2uymXyTguUIHARAFwoT5gQoOjUR2-e29SEd1HWEUifOMLQr6mOjY-90tteOmfwTfG760Hb7Bcl2XLm1-Ri4AOFxToAQc1qNw_gw8leXzX8NRj8zKCq5JBUeBw5E1TmMOiYAGuJt",
+    "by": ""
+   },
+   {
+    "file": "img/07.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkRcmRnZJT5xzW0UHiGJsKc1yj-v0GglpBzG1DsxGP5ZfOoYxGxN5t_09kSqD6NdCwa-BlJHcYV2MzHnCukCFLHqtsAOtX98tc8ydyoCOWXM7XDrSVaH0W6NROB9BllD8kpxnnFPQ",
+    "by": ""
+   },
+   {
+    "file": "img/08.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnvzYxdcENRaOJcYRVLIFJ92SlclwPLkJM4a_6e-PuYePxEnjeEC7FHQwozJi-WQPfpp-neXIe48_3-wvE-nW14QX0Tf2iU-ErUBh6g6LKeEM-fbnQrGgMSi7h6ug363Uv0U1xw",
+    "by": ""
+   },
+   {
+    "file": "img/09.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlxtRAdBHeUw0BaZYvYpJlmJ18er1IaH7Ye18p1QOLbMUwROHjcRlkO5b8IDSCKtac2fOek797ovN6F6JiWNCpvtaWZU5mMTwqpAixioQRCg9CO7PvbM88RYZFlnI6E09tLW3w",
+    "by": ""
+   },
+   {
+    "file": "img/10.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnkytTZGNbCRhV0i5oRaEj6znQdlT9krj7yo7PaG70qxbfPZRrNMIXJyFBQrF32VFV1EGom_phD6bR_NOdZhe_uW9Jbi_uUw9i3uCzQPVhl36ICy_PWtqXJyW3_MDiqRkOU27JVSw",
+    "by": ""
+   }
+  ],
+  "fetched": "2026-09-19",
+  "attributes": [
+   {
+    "head": "Accessibility",
+    "items": [
+     "Wheelchair accessible entrance",
+     "Wheelchair accessible restroom"
+    ]
+   }
+  ],
+  "scraped_from": "https://www.google.com/maps/place/Markey's+Bar/@29.9630516,-90.0438454,17z/data=!3m1!4b1!4m6!3m5!1s0x8620a62e2db8cf65:0x9cab7874e68cf506!8m2!3d29.9630516!4d-90.0438454!16s%2Fg%2F1v7pyvbs?hl=en&entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+  "method": "maps page scrape (Places API New not enabled)"
+ }
+}
