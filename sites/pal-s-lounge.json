@@ -1,0 +1,375 @@
+{
+ "slug": "pal-s-lounge",
+ "theme": {
+  "colors": {
+   "--bg": "#0f1a14",
+   "--bg2": "#15241c",
+   "--ink": "#f1ecdd",
+   "--muted": "#a8b3a5",
+   "--acc": "#d9a441",
+   "--acc2": "#8fb996",
+   "--accink": "#0f1a14",
+   "--card": "#1a2b22",
+   "--r": "4px",
+   "--band-ink": "var(--ink)"
+  },
+  "font_link": "Playfair+Display:ital,wght@0,600;0,700;1,600",
+  "font_stack": "'Playfair Display', Georgia, serif",
+  "h1": "font-size:clamp(2.4rem,5.6vw,4.6rem);font-weight:600;letter-spacing:-.01em;line-height:1.05",
+  "h2_weight": "600",
+  "h3_weight": "600",
+  "brand_weight": "600",
+  "stat_weight": "600",
+  "num_weight": "600",
+  "quote_weight": "600",
+  "big_weight": "600",
+  "cloud_weight": "600",
+  "dark": true,
+  "alt_dark": false
+ },
+ "theme_from": "ryan-s-irish-pub-inc",
+ "title": "Pal's Lounge · Bayou St. John corner bar · New Orleans",
+ "description": "Bayou St. John corner bar. Named shot-and-beer combos, a patio that takes dogs, and nothing closes before 3am.",
+ "icon": {
+  "bg": "#d9a441",
+  "fg": "#0f1a14",
+  "initials": "PS"
+ },
+ "schema_type": "BarOrPub",
+ "name": "Pal's Lounge",
+ "phone_e164": "+15044887257",
+ "phone_schema": "+1504-488-7257",
+ "address": {
+  "streetAddress": "949 N Rendon",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70119"
+ },
+ "geo": {
+  "lat": 29.9767795,
+  "lng": -90.0863844
+ },
+ "hero_img": "img/01.jpg",
+ "category": "Bar",
+ "rating": 4.6,
+ "review_count": 709,
+ "cid": "15489332774993295258",
+ "place_id": "ChIJU9mY_1ivIIYRmndKxRcq9dY",
+ "phone_display": "(504) 488-7257",
+ "seal": {
+  "tag": "Bayou St. John",
+  "center": "PS",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "Neighborhood bar & patio · 949 N Rendon St, Bayou St. John",
+  "headline": "A Bayou St. John corner bar with named shot-and-beer combos and no last call before three.",
+  "sub": "Open 3pm to 3am every day of the year, women-owned, and priced so nobody studies the tab. The patio takes dogs and the bartenders will happily explain what the Nightman is.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "3am",
+   "label": "last call, every night"
+  },
+  {
+   "count": "709",
+   "label": "Google reviews"
+  },
+  {
+   "count": "4.6",
+   "label": "stars on Google"
+  },
+  {
+   "count": "530",
+   "label": "five-star reviews"
+  }
+ ],
+ "story": {
+  "kicker": "Bayou St. John",
+  "h2": "Pal's Lounge",
+  "paragraphs": [
+   "Pal's sits on the corner of N Rendon in Bayou St. John, a low building with a patio out front that fills up first on a warm night. Inside it is dark, the bar runs long, the bottles stack up behind it, and the crowd is mostly people who live within a few blocks. Reviewers call it a top tier dive and then immediately clarify that it is nicer than that.",
+   "The drinks are the reason. There is a list of named shot-and-beer pairings, one of them the Nightman, and the bartenders will set a Louisiana milk porter next to an amaro and be completely right about it. Price is the other reason. Water bowls go out for the dogs, somebody is usually cooking under a tent in the yard, and nothing closes before three in the morning."
+  ]
+ },
+ "facts": [
+  "Open 3pm to 3am, seven days a week",
+  "Named shot-and-beer pairings, Louisiana beer, a real amaro shelf",
+  "Patio out front, dogs welcome, water bowls go out for them",
+  "Women-owned and LGBTQ+ friendly, per the Google profile",
+  "Wheelchair accessible seating, restroom and parking lot"
+ ],
+ "address_display": "949 N Rendon, New Orleans, LA 70119",
+ "instagram": "https://www.instagram.com/palsloungenola/",
+ "order": [
+  {
+   "img": "img/05.jpg",
+   "name": "A Shot and a Beer",
+   "blurb": "Handed over in a Pal's koozie and carried to the patio. Ask for one of the named pairings if you want it picked for you."
+  },
+  {
+   "img": "img/10.jpg",
+   "name": "Bartender's Call",
+   "blurb": "Stirred on the bar, cherry on a pick. Tell them roughly what you like and stop talking."
+  },
+  {
+   "img": "img/07.jpg",
+   "name": "Fried Chicken Sandwich",
+   "blurb": "From whoever is cooking in the yard that night. Hot, on a soft bun, which after midnight is the entire ask."
+  },
+  {
+   "img": "img/06.jpg",
+   "name": "Cheese Bread",
+   "blurb": "Comes out of the foil still bubbling. Built for sharing across a patio table."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "The Pairings",
+    "items": [
+     {
+      "name": "Named shot-and-beer combos",
+      "price": ""
+     },
+     {
+      "name": "The Nightman",
+      "price": ""
+     },
+     {
+      "name": "Bartender's call",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "Behind the Bar",
+    "items": [
+     {
+      "name": "Amaro and bitters shelf",
+      "price": ""
+     },
+     {
+      "name": "Louisiana beer, draft and can",
+      "price": ""
+     },
+     {
+      "name": "Well and call cocktails",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "From the Yard",
+    "items": [
+     {
+      "name": "Fried chicken sandwich",
+      "price": ""
+     },
+     {
+      "name": "Burger",
+      "price": ""
+     },
+     {
+      "name": "Cheese bread",
+      "price": ""
+     },
+     {
+      "name": "Nachos",
+      "price": ""
+     }
+    ]
+   }
+  ],
+  "note": "Pal's does not post a menu. This is what the bar and the review photos show, and the food depends on who is cooking in the yard that night. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "img/03.jpg",
+  "text": "“More of a nice neighborhood bar. Drink prices are very affordable. Bartenders are friendly. Nice outdoor seating also available. They put out water for dogs too.”",
+  "cite": "Google review · 4.6 stars from 709 reviews"
+ },
+ "review_count_display": "709",
+ "breakdown": [
+  530,
+  121,
+  19,
+  12,
+  27
+ ],
+ "cloud": [],
+ "cloud_h3": "What 709 people keep mentioning",
+ "reviews": [
+  {
+   "stars": "★★★★★",
+   "text": "“The best spot to stop in for a shot and beer. Love the creative names. Think it was the Nightman that we had. Great pairing of See the Elephant Amaro and Gnarly Barley Korova Milk Porter. Definitely will be back. More”",
+   "who": "Kyle Harder · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“Top tier dive. A bit a nicer bar than usual dives. More of a nice neighborhood bar. Drink prices are very affordable. Bar tenders are friendly. Nice Outdoor seating also available. They put out water for dogs too 🥰 … More”",
+   "who": "Sedonia Perrier · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“T'was beneath occult moons, mayhaps 10 years to the day, I entered the nest of pleasures at Pal's Lounge. Greeted by the ache of lingering regret, beverages were summoned and a table bore the weight of our expectations. … More”",
+   "who": "THE MOUTH · Google"
+  }
+ ],
+ "gallery": [
+  "img/04.jpg",
+  "img/09.jpg",
+  "img/03.jpg",
+  "img/02.jpg",
+  "img/08.jpg",
+  "img/01.jpg",
+  "img/10.jpg"
+ ],
+ "hours_display": [
+  "3pm – 3am",
+  "3pm – 3am",
+  "3pm – 3am",
+  "3pm – 3am",
+  "3pm – 3am",
+  "3pm – 3am",
+  "3pm – 3am"
+ ],
+ "hours": [
+  [
+   [
+    900,
+    1620
+   ]
+  ],
+  [
+   [
+    900,
+    1620
+   ]
+  ],
+  [
+   [
+    900,
+    1620
+   ]
+  ],
+  [
+   [
+    900,
+    1620
+   ]
+  ],
+  [
+   [
+    900,
+    1620
+   ]
+  ],
+  [
+   [
+    900,
+    1620
+   ]
+  ],
+  [
+   [
+    900,
+    1620
+   ]
+  ]
+ ],
+ "popular_times": {},
+ "tip": {
+  "b": "Local tip",
+  "text": "Get there at three when the doors open and take the corner table on the patio. By nine this is the busiest bar in Bayou St. John and that table is long gone."
+ },
+ "getting_here": [
+  "949 N Rendon St, Bayou St. John, walking distance from the bayou itself",
+  "Free street parking on the surrounding blocks, and a wheelchair accessible lot"
+ ],
+ "cta_h2": "Open till three. Bring the dog.",
+ "cta_dir_btn": "g",
+ "_source": {
+  "website": null,
+  "maps": "https://maps.google.com/?cid=15489332774993295258",
+  "status": "OPERATIONAL",
+  "price": null,
+  "summary": null,
+  "photos": [
+   {
+    "file": "img/01.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnAjL7BPJPBBpELcwl_0e9elWXrUCTh7ZDlDyYeurBD3jzWxRzsmCJaeXcwa7UZrSGR2yAChfEj110mhEPhvMlow6DUmR332JZZRVqJBD_e3J5Q2T9Vrc0JLO0xCx1BWOApyOTc-tuwHHK4",
+    "by": ""
+   },
+   {
+    "file": "img/02.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnta2WkHTIBomGLyYOzgRlZOZLFyvB9BZqB_ginyyqTCqxDd8tuuPt2bIT7SeD1I6BFfgHJ7gZ5Dh5woA0JwOojVUnz_9ZHF80pKayJ1LMp89fDZEe-kctn7rI-IwphHGmsi_7b",
+    "by": ""
+   },
+   {
+    "file": "img/03.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm1umknHxe-exIQx7FNyNc0lopG12GTB1yF4BMMJL7IQcfdrfMRBvlLXJA667Gz5mV19c17dS946FuVDQuaNsyS1UiKRvBwTjNNM8TniF3TexOBgUvS19eBKiQoASu29SybceG8kJWHtEZn",
+    "by": ""
+   },
+   {
+    "file": "img/04.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlOPigQRdatoYGuUvrqrkEsCddldXiHb6iPs4BsaC3fyvrp4L_zQYyTMsPTn5sqGH7HDRm0swC60hpMTonhBOEen_ijd4ZJhw5d4n0qO7coHhRc-oruwAr8SXUiUCY-Tp1hk6bQXQ",
+    "by": ""
+   },
+   {
+    "file": "img/05.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnFIlQTWtc25MYsJCHjdxogS9a4RJHoK2KjKbRAd9wio2zwYWfxSaQ0HBd8SNxtrOehgV5qGw7pZuRHWZseAlSZw_OL9QdZO9d1YV81znaRWqiwr6-3lApx25oRF_EXxluqA5w",
+    "by": ""
+   },
+   {
+    "file": "img/06.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk7kMtIFi2U0J5jeM4LcNcDJGNW5BntyFXo0XTjZ3ZkiRtEEvVSC5BNvBY6AARiq6SlpBcn7q7gjcJGnEE-Ae62Q0_CNNZL_wZrGIvqHPK7Dp16nXF3N_fX0ow3Vrh8fMfAzoaoL-hsOQN7",
+    "by": ""
+   },
+   {
+    "file": "img/07.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkSTUm0M9hL_i6IRuBiBcmrJu07K_I69Yhb9vt11I8JMEZIXU0zDhKK2yPHrFcrVMNYed5lwh88uA1JHtP38t42NfDb0sDrc3RAxrqrkF5VhjGAaMaoez3Klry1AOsQsTJt8sT8Yg",
+    "by": ""
+   },
+   {
+    "file": "img/08.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmqEcj4ok3Ksia_P6ti11yFirBXVakn32OJNiXzd3MsRkB-ygh8PUOsYblEwDXHvZ4lNLc-f_TfK_BNeKkhuNfCAzrGoBsJSRVWbxRovlx7nlPvSXAiP_yAC6bgZhgPfk7xVbg",
+    "by": ""
+   },
+   {
+    "file": "img/09.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn9GnRwHIpN6667QhZpxhjUWk1NNHGKH6iXoeCARA6dW5m_w0KWVOKJui2fkLWozAmT-7lqdccJIR-zwG0XmcqZWBGnpOaiF_ltu0jsCKl0fKuoXfnJbGrTfxYJ9F3pgxlxNJHuZQ",
+    "by": ""
+   },
+   {
+    "file": "img/10.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkK2lEogGMJvXCLVLaZBUWAXakGLa0roFvV4or1Bw2_Rz4klHU_Iq0V8KqrOjnd8sGgP2GUeGMEm8m9i_O3mmYm8oJ3HJVfOOiLGQ8cujdwfMadrjJhn9E3mZBeByZaQyC4SbyW",
+    "by": ""
+   }
+  ],
+  "fetched": "2026-09-19",
+  "attributes": [
+   {
+    "head": "Accessibility",
+    "items": [
+     "Wheelchair accessible restroom",
+     "Wheelchair accessible seating",
+     "Wheelchair accessible parking lot"
+    ]
+   }
+  ],
+  "scraped_from": "https://www.google.com/maps/place/Pal's+Lounge/@29.9767795,-90.0863844,17z/data=!3m1!4b1!4m6!3m5!1s0x8620af58ff98d953:0xd6f52a17c54a779a!8m2!3d29.9767795!4d-90.0863844!16s%2Fg%2F1tffzw40?hl=en&entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+  "method": "maps page scrape (Places API New not enabled)"
+ }
+}
