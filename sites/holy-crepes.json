@@ -1,0 +1,368 @@
+{
+ "slug": "holy-crepes",
+ "theme": {
+  "colors": {
+   "--bg": "#f5efe3",
+   "--bg2": "#ebe2d1",
+   "--ink": "#22190f",
+   "--muted": "#6a5d4b",
+   "--acc": "#9c2a1e",
+   "--acc2": "#1f3a5f",
+   "--accink": "#fff",
+   "--card": "#fffaf1",
+   "--r": "3px",
+   "--band-ink": "var(--ink)"
+  },
+  "font_link": "Libre+Caslon+Text:ital,wght@0,400;0,700;1,400",
+  "font_stack": "'Libre Caslon Text', Georgia, serif",
+  "h1": "font-size:clamp(2.4rem,5.2vw,4.3rem);font-weight:700;letter-spacing:-.015em;line-height:1.05",
+  "h2_weight": "700",
+  "h3_weight": "700",
+  "brand_weight": "700",
+  "stat_weight": "700",
+  "num_weight": "600",
+  "quote_weight": "700",
+  "big_weight": "700",
+  "cloud_weight": "700",
+  "dark": false,
+  "alt_dark": false
+ },
+ "theme_from": "mother-s-restaurant",
+ "title": "Holy Crepes! · French Market crepe cart · New Orleans",
+ "description": "Bay 23 in the French Market since 2017. Sweet and savory crepes made to order, gluten free and dairy free done properly.",
+ "icon": {
+  "bg": "#9c2a1e",
+  "fg": "#fff",
+  "initials": "HC"
+ },
+ "schema_type": "Restaurant",
+ "name": "Holy Crepes!",
+ "phone_e164": "+15043703790",
+ "phone_schema": "+1504-370-3790",
+ "address": {
+  "streetAddress": "1100 N Peters St Stall 23",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70116"
+ },
+ "geo": {
+  "lat": 29.9602918,
+  "lng": -90.0588587
+ },
+ "hero_img": "img/01.jpg",
+ "category": "Creperie",
+ "rating": 4.7,
+ "review_count": 295,
+ "cid": "14865451748631571826",
+ "place_id": "ChIJzTYEOLanIIYRcu3k1pqxTM4",
+ "phone_display": "(504) 370-3790",
+ "seal": {
+  "tag": "French Market",
+  "center": "HC",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "Crepe cart, Bay 23 · 1100 N Peters St, French Market",
+  "headline": "A crepe cart in the French Market since 2017, folded into a sleeve so you can keep walking.",
+  "sub": "Sweet on one chalkboard, savory on the other, made to order on a single griddle while you stand there. Gluten free and dairy free are handled properly here rather than grudgingly.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "4.7",
+   "label": "stars on Google"
+  },
+  {
+   "count": "295",
+   "label": "Google reviews"
+  },
+  {
+   "count": "255",
+   "label": "of them five stars"
+  },
+  {
+   "count": "2017",
+   "label": "at Bay 23 since"
+  }
+ ],
+ "story": {
+  "kicker": "French Market",
+  "h2": "Holy Crepes!",
+  "paragraphs": [
+   "Holy Crepes has been parked at Bay 23 in the French Market since July 2017, which the side of the cart will tell you if you look. It is a cart in the real sense: chalkboards bolted to the front, sweet listed on one and savory on the other, a griddle behind them, and a line that forms and clears in about the time it takes to make four crepes.",
+   "Al and Misho run it, and reviewers name them, which almost never happens with a market stall. The Crep Club is the savory one people come back for. There is a Monte Cristo, a Nutella with strawberry and banana, and a frozen basil lemonade that gets mentioned nearly as often as the food. Gluten free and dairy free are not an afterthought either. More than one review is somebody with an allergy writing in relief."
+  ]
+ },
+ "facts": [
+  "Bay 23 in the French Market, open seven days a week",
+  "Sweet and savory crepes, made to order on the griddle",
+  "Gluten free and dairy free options, allergies taken seriously",
+  "Served in a paper sleeve, built for eating while you walk the market",
+  "Wheelchair accessible entrance, seating and restroom"
+ ],
+ "address_display": "1100 N Peters St Stall 23, New Orleans, LA 70116",
+ "instagram": null,
+ "order": [
+  {
+   "img": "img/09.jpg",
+   "name": "The Crep Club",
+   "blurb": "The savory one people come back for, folded into a sleeve with the name written on the side in marker."
+  },
+  {
+   "img": "img/03.jpg",
+   "name": "Nutella, Strawberry and Banana",
+   "blurb": "Nutella piped across the top in script, fruit laid out underneath. It looks like the photo. That is rarer than it should be."
+  },
+  {
+   "img": "img/05.jpg",
+   "name": "One Sweet, One Savory",
+   "blurb": "The move if there are two of you. Order one of each, trade halfway, argue about it after."
+  },
+  {
+   "img": "img/10.jpg",
+   "name": "Straight Off the Griddle",
+   "blurb": "Batter poured, banana sliced, folded in front of you. The whole thing takes about four minutes."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "Savory",
+    "items": [
+     {
+      "name": "The Crep Club",
+      "price": ""
+     },
+     {
+      "name": "Monte Cristo",
+      "price": ""
+     },
+     {
+      "name": "Daily savory list, on the board",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "Sweet",
+    "items": [
+     {
+      "name": "Nutella, strawberry and banana",
+      "price": ""
+     },
+     {
+      "name": "Nutella and banana",
+      "price": ""
+     },
+     {
+      "name": "Daily sweet list, on the board",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "To Drink",
+    "items": [
+     {
+      "name": "Frozen basil lemonade",
+      "price": ""
+     },
+     {
+      "name": "Cold drinks",
+      "price": ""
+     }
+    ]
+   }
+  ],
+  "note": "The full list lives on the chalkboards at Bay 23 and it changes. These are the ones reviewers ask for by name. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "img/06.jpg",
+  "text": "“Al and Misho are not only incredible crepe makers, they are divine to speak with. The monte cristo crepe transcended me thru space and time.”",
+  "cite": "Google review · 4.7 stars from 295 reviews"
+ },
+ "review_count_display": "295",
+ "breakdown": [
+  255,
+  17,
+  12,
+  2,
+  9
+ ],
+ "cloud": [],
+ "cloud_h3": "What 295 people keep mentioning",
+ "reviews": [
+  {
+   "stars": "★★★★★",
+   "text": "“Incredible, highly recommend. Crepes were delicious, fresh, and served in a to go sleeve perfect for the market. … More”",
+   "who": "Katrina · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“THIS IS THE BEST GLUTEN AND DAIRY FREE CHOICE IN THE FRENCH QUARTER!!! I got the Crep Club and the chef was highly knowledgeable in food allergies! It was AMAZING!!!! … More”",
+   "who": "Debbie Wagener · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“Al and Misho are not only incredible crepe makers, they are divine to speak with. If you get the opportunity to go here, don’t hesitate. This is a heavenly experience. The monte cristo crepe transcended me thru space & time! & the frozen basil lemonade is a special treat in itself. I’m so lucky to h…”",
+   "who": "Caitlyn Turner · Google"
+  }
+ ],
+ "gallery": [
+  "img/01.jpg",
+  "img/06.jpg",
+  "img/04.jpg",
+  "img/07.jpg",
+  "img/10.jpg",
+  "img/05.jpg",
+  "img/03.jpg"
+ ],
+ "hours_display": [
+  "10am – 4:30pm",
+  "10am – 4:30pm",
+  "10am – 4:30pm",
+  "10am – 4:30pm",
+  "10am – 5pm",
+  "10am – 5pm",
+  "10am – 5pm"
+ ],
+ "hours": [
+  [
+   [
+    600,
+    990
+   ]
+  ],
+  [
+   [
+    600,
+    990
+   ]
+  ],
+  [
+   [
+    600,
+    990
+   ]
+  ],
+  [
+   [
+    600,
+    990
+   ]
+  ],
+  [
+   [
+    600,
+    1020
+   ]
+  ],
+  [
+   [
+    600,
+    1020
+   ]
+  ],
+  [
+   [
+    600,
+    1020
+   ]
+  ]
+ ],
+ "popular_times": {},
+ "tip": {
+  "b": "Local tip",
+  "text": "Come before noon. The market fills up after lunch and this is a one-griddle operation, so a four-person line is a fifteen-minute wait. Ask about gluten free before you order, not after."
+ },
+ "getting_here": [
+  "Bay 23 in the French Market, 1100 N Peters St, down at the Esplanade end of the Quarter",
+  "Riverfront streetcar stops at the market, and it is a short walk down from Jackson Square"
+ ],
+ "cta_h2": "Bay 23, French Market. Come find the cart.",
+ "cta_dir_btn": "g",
+ "_source": {
+  "website": null,
+  "maps": "https://maps.google.com/?cid=14865451748631571826",
+  "status": "OPERATIONAL",
+  "price": null,
+  "summary": null,
+  "photos": [
+   {
+    "file": "img/01.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWklSS0iZIFrweUQ_eVigsI4tTpTq9iIpIrfOolSlHD71Mx4bXHm9xvyBg39EIpEC_ZDL_eDq6ZtFxcrYs2I8utVTpcHU9U_80jUzRd6JKcUyrWEU0Y_vcsy17QmOhyyuho55Z2o",
+    "by": ""
+   },
+   {
+    "file": "img/02.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmVP_KEWZazNOFT80AlfhsYW6Pkbd1PC5QHku5NTxLS38e4i_DJv_i6tp7LmkeWipKjdmrG3K40zMTewVxe1n-RC6Zd8UsAL_swA4mvh3CnLwf0JCpMZWQl0SptCGCr7kkEARqYkLSyI9SM",
+    "by": ""
+   },
+   {
+    "file": "img/03.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkSlV3mAXNMblJuBF3n_j1C1mH-pWOJs7Qq1KVbg7bjtVpfFrgTy2c2GOyO2A3eAc--w3YU5H_tHgL4MEGr488F2ifSgzzPfVEqjnlzFse43jL1jmGJPCDGUft9LR_yhzkL_1uy0A",
+    "by": ""
+   },
+   {
+    "file": "img/04.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmnl0aIiL7ftT3Ky1raznxRwdyDhRMmShP9_pxKyH7T5NVu3Pqk8OBpAuqESTaplOrgRH_TbzXkLW5__yu56HTv1bKIxM231wdTE6AHbrPbGQfSR0BAnbrbIZ6Q-J9wd0UaKsjAjjvYyVrB",
+    "by": ""
+   },
+   {
+    "file": "img/05.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl_EScqXeRPEzbdr-m4VXZNR7h2Xml4KxbDzlTOyhYM9sxqVzyqvzuawAPDRmobfsqDw8lHzvzwph3qPbY1EKRQ0zcBexJ0rpri1Akek3qAanp00mluBdlUfHgvURflqMyrhUZR2FMkj6W9",
+    "by": ""
+   },
+   {
+    "file": "img/06.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlnxijia3Da7ItE-ecB1-gN56L5YvU8SdMZe7QX2VbonBRplQ4j_G8IpldV-Z9bLvDCPhSjX1N2p9hXqrdSAEg20Dq7VKtcjbggjutOHX9pfhAsaBpsNTcrlQihm13uoqvg6hhiiACywN-C",
+    "by": ""
+   },
+   {
+    "file": "img/07.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkyyhfNcO1wnH7MYlp-QrMP2lK0Znnm7Y2qYgl21P9hDe2B2ryms9JNrMKSwBTktOvPg1aQtEMbSsz-Ec_9isOGY5WHLoAOGjk1LyhG12fekslMfBrqoJ0MyqYLaa30DjHvh8N6bP6Yx5M",
+    "by": ""
+   },
+   {
+    "file": "img/08.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWll3MTW1oh3K6pAignq6zCRtjtxcZtX6pi_yuxmh1JPls5Lq-azPuc7RKvndh5HVh0uzaNEKLLc_Khld01Xe9yp5n9SivjGRTtJCU21-I6rduGaZ3wimgr9BDtCx_PSgCE7iPZu",
+    "by": ""
+   },
+   {
+    "file": "img/09.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlleWSCgAE_35IiIkUNBi_nSPswi0B1KwljblRU4fD1dPooecIK6DfZRfkYbsrtqUh5SJY6bqZn6_IQnlFUScEDuyepMlER-XURLtpT6e0Ls2kElhFRHblQX_n-Y5nDLnMdnglrNFxv9W4d",
+    "by": ""
+   },
+   {
+    "file": "img/10.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkGBGlKluBEQr1GtxIFTJee2JFag3wcmk3eAKBf1eysSA_0-td37821MxZO1wlpGTvTOX8fibJpIuVKSLX_3NeFfJI1Jk7A6V47NmJhWwwKJJEoly1AakjfcttnVxbGJEFJssiM",
+    "by": ""
+   }
+  ],
+  "fetched": "2026-09-19",
+  "attributes": [
+   {
+    "head": "Accessibility",
+    "items": [
+     "Wheelchair accessible entrance",
+     "Wheelchair accessible restroom",
+     "Wheelchair accessible seating"
+    ]
+   }
+  ],
+  "scraped_from": "https://www.google.com/maps/place/Holy+Crepes!/@29.9602918,-90.0588587,17z/data=!3m1!4b1!4m6!3m5!1s0x8620a7b6380436cd:0xce4cb19ad6e4ed72!8m2!3d29.9602918!4d-90.0588587!16s%2Fg%2F11h493p14y?hl=en&entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+  "method": "maps page scrape (Places API New not enabled)"
+ },
+ "founding": "2017"
+}
