@@ -1,0 +1,909 @@
+{
+ "slug": "mother-s-restaurant",
+ "theme": {
+  "colors": {
+   "--bg": "#f5efe3",
+   "--bg2": "#ebe2d1",
+   "--ink": "#22190f",
+   "--muted": "#6a5d4b",
+   "--acc": "#9c2a1e",
+   "--acc2": "#1f3a5f",
+   "--accink": "#fff",
+   "--card": "#fffaf1",
+   "--r": "3px",
+   "--band-ink": "var(--ink)"
+  },
+  "font_link": "Libre+Caslon+Text:ital,wght@0,400;0,700;1,400",
+  "font_stack": "'Libre Caslon Text', Georgia, serif",
+  "h1": "font-size:clamp(2.4rem,5.2vw,4.3rem);font-weight:700;letter-spacing:-.015em;line-height:1.05",
+  "h2_weight": "700",
+  "h3_weight": "700",
+  "brand_weight": "700",
+  "stat_weight": "700",
+  "num_weight": "600",
+  "quote_weight": "700",
+  "big_weight": "700",
+  "cloud_weight": "700",
+  "dark": false,
+  "alt_dark": false
+ },
+ "title": "Mother's Restaurant · Po’ boys restaurant · New Orleans",
+ "description": "Cafeteria-style, cash or card, breakfast all day. Mother's is the New Orleans restaurant other New Orleans restaurants send you to.",
+ "icon": {
+  "bg": "#9c2a1e",
+  "fg": "#fff",
+  "initials": "MS"
+ },
+ "schema_type": "Restaurant",
+ "name": "Mother's Restaurant",
+ "phone_e164": "+15045239656",
+ "phone_schema": "+1504-523-9656",
+ "address": {
+  "streetAddress": "401 Poydras St",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70130"
+ },
+ "geo": {
+  "lat": 29.9489846,
+  "lng": -90.0670016
+ },
+ "hero_img": "img/22.jpg",
+ "category": "Po’ boys restaurant",
+ "rating": 4.2,
+ "review_count": 17396,
+ "cid": "2279995583957645892",
+ "founding": "1938",
+ "place_id": "ChIJfV2h73KmIIYRRDpBV-crpB8",
+ "phone_display": "(504) 523-9656",
+ "seal": {
+  "tag": "Est. 1938",
+  "center": "1938",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "Po'boys, breakfast & Creole plates · 401 Poydras St, since 1938",
+  "headline": "World's best baked ham, the Ferdi Special, and a line down Poydras that has been worth it since 1938.",
+  "sub": "Cafeteria-style, cash or card, breakfast all day. Mother's is the New Orleans restaurant other New Orleans restaurants send you to.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "1938",
+   "label": "est."
+  },
+  {
+   "count": "17,396",
+   "label": "Google reviews"
+  },
+  {
+   "count": "10,305",
+   "label": "five-star ratings"
+  },
+  {
+   "count": "7",
+   "label": "days, breakfast all day"
+  }
+ ],
+ "story": {
+  "kicker": "Est. 1938",
+  "h2": "Mother's Restaurant",
+  "paragraphs": [
+   "Simon and Mary Landry opened Mother's on Poydras Street in 1938 to feed the longshoremen and newspapermen of the old warehouse district. The Marines adopted it during the war, the sign still says World's Best Baked Ham, and the line still forms before the doors open. Eighty-eight years in, it is one of the last places downtown that runs exactly the way it always has.",
+   "You order at the counter, take a number, and find a seat under the photos. The Ferdi Special, baked ham and roast beef with debris and gravy, is the sandwich the city is known for. Breakfast is served all day: biscuits, cheese grits, eggs, and that ham. Then jambalaya, red beans, etouffee, shrimp Creole, fried chicken, turnip greens, bread pudding."
+  ]
+ },
+ "facts": [
+  "Cafeteria style, order at the counter",
+  "Breakfast, lunch, and dinner, all day menu",
+  "Half portions on most plates",
+  "Curbside, takeout, delivery, catering",
+  "Private dining room, wheelchair accessible"
+ ],
+ "address_display": "401 Poydras St, New Orleans, LA 70130",
+ "instagram": null,
+ "order": [
+  {
+   "img": "img/27.jpg",
+   "name": "The Ferdi Special",
+   "blurb": "Baked ham, roast beef, debris, and gravy on French bread. Dressed. Bring napkins and a plan."
+  },
+  {
+   "img": "img/18.jpg",
+   "name": "World's Best Baked Ham",
+   "blurb": "Black ham from the edge of the roast, on the sign since 1938."
+  },
+  {
+   "img": "img/15.jpg",
+   "name": "Breakfast All Day",
+   "blurb": "Biscuits, cheese grits, eggs, ham, and the fresh-squeezed OJ. Beer is available at eight in the morning."
+  },
+  {
+   "img": "img/17.jpg",
+   "name": "Red Beans & Jambalaya",
+   "blurb": "The Creole plates that fill the trays at lunch. Half portions available."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "Mother's Favorites",
+    "items": [
+     {
+      "name": "Seafood Gumbo, cup / reg / lg",
+      "price": "10.00 · 12.75 · 17.50"
+     },
+     {
+      "name": "Mae's Filé Gumbo",
+      "price": "7.25 · 9.50 · 13.50"
+     },
+     {
+      "name": "Red Beans & Rice",
+      "price": "6.25 · 8.50 · 12.50"
+     },
+     {
+      "name": "Jerry's Jambalaya",
+      "price": "8.50 · 10.50 · 15.25"
+     },
+     {
+      "name": "Crawfish Étouffée",
+      "price": "10.50 · 13.25 · 17.50"
+     },
+     {
+      "name": "Shrimp Creole",
+      "price": "8.50 · 10.00 · 14.75"
+     }
+    ]
+   },
+   {
+    "h3": "Seafood, with two sides",
+    "items": [
+     {
+      "name": "Seafood Platter",
+      "price": "30.00"
+     },
+     {
+      "name": "Soft Shell Crab Platter",
+      "price": "30.00"
+     },
+     {
+      "name": "Fried Oyster Plate",
+      "price": "27.50"
+     },
+     {
+      "name": "Gulf Shrimp Plate",
+      "price": "25.00"
+     },
+     {
+      "name": "Catfish Plate",
+      "price": "19.50"
+     }
+    ]
+   },
+   {
+    "h3": "Sides & Sweets",
+    "items": [
+     {
+      "name": "Mother's Famous Buttermilk Biscuit",
+      "price": "3.25"
+     },
+     {
+      "name": "Cheese Grits",
+      "price": "4.00"
+     },
+     {
+      "name": "Turnip Greens",
+      "price": "5.00"
+     },
+     {
+      "name": "Bread Pudding, brandy sauce",
+      "price": "8.00"
+     },
+     {
+      "name": "Pecan or Sweet Potato Pie",
+      "price": "6.25"
+     }
+    ]
+   },
+   {
+    "h3": "By the Pound, take-out",
+    "items": [
+     {
+      "name": "World's Best Baked Ham",
+      "price": "21.00"
+     },
+     {
+      "name": "Debris in Au Jus",
+      "price": "21.00"
+     },
+     {
+      "name": "Roast Beef",
+      "price": "21.00"
+     },
+     {
+      "name": "Ham Bones for red beans",
+      "price": "3.00 / bag"
+     }
+    ]
+   }
+  ],
+  "note": "From the current menu. P = pork, G = gluten free, V = vegetarian. Family-size take-out by the bag. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "img/06.jpg",
+  "text": "“The service is perfect. The staff is incredibly friendly. The food is outstanding. This is a must-visit restaurant in New Orleans.”",
+  "cite": "Google review · 4.2 stars from 17,396 reviews"
+ },
+ "review_count_display": "17,396",
+ "breakdown": [
+  10305,
+  3458,
+  1745,
+  833,
+  1055
+ ],
+ "cloud": [
+  {
+   "s": "1.75",
+   "mentions": 509,
+   "term": "red beans and rice"
+  },
+  {
+   "s": "1.73",
+   "mentions": 495,
+   "term": "jambalaya"
+  },
+  {
+   "s": "1.41",
+   "mentions": 318,
+   "term": "etouffee"
+  },
+  {
+   "s": "1.40",
+   "mentions": 310,
+   "term": "biscuits"
+  },
+  {
+   "s": "1.31",
+   "mentions": 259,
+   "term": "cheese grits"
+  },
+  {
+   "s": "1.29",
+   "mentions": 251,
+   "term": "long lines"
+  },
+  {
+   "s": "1.20",
+   "mentions": 198,
+   "term": "bread pudding"
+  },
+  {
+   "s": "1.19",
+   "mentions": 193,
+   "term": "fried chicken"
+  },
+  {
+   "s": "1.09",
+   "mentions": 134,
+   "term": "shrimp creole"
+  },
+  {
+   "s": "0.99",
+   "mentions": 77,
+   "term": "turnip greens"
+  }
+ ],
+ "cloud_h3": "What 17,396 people keep mentioning",
+ "reviews": [
+  {
+   "stars": "★★★★★",
+   "text": "“We had dinner there. We went because of the reviews and we liked it. You can order breakfast at any time of day and it's very substantial and delicious. I ordered a tortilla with cheese and ham, and it was very tasty and huge. We also ordered the most typical thing, the po'boys, and they were very g…”",
+   "who": "V BascónQ · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“My husband and I went to Mother's restaurant on our 41st year wedding anniversary, for a mid'day meal while on vacation. We were highly satisfied with the food, service, and the welcoming atmosphere of all the employees.”",
+   "who": "Dawn Norris · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“The service is perfect. The staff is incredibly friendly. The food is outstanding. I had the roast beef po boy and it was DELICIOUS. This is a must-visit restaurant in New Orleans.”",
+   "who": "Sebastian Vergara · Google"
+  }
+ ],
+ "gallery": [
+  "img/01.jpg",
+  "img/06.jpg",
+  "img/29.jpg",
+  "img/05.jpg",
+  "img/13.jpg",
+  "img/12.jpg",
+  "img/24.jpg"
+ ],
+ "hours_display": [
+  "7am – 10pm",
+  "7am – 10pm",
+  "7am – 10pm",
+  "7am – 10pm",
+  "7am – 10pm",
+  "7am – 10pm",
+  "7am – 10pm"
+ ],
+ "tip": {
+  "b": "Local tip",
+  "text": "Come at 2:30 on a weekday. The lunch line is gone, the ham is still warm, and you can actually sit under the photos."
+ },
+ "getting_here": [
+  "Poydras at Tchoupitoulas, 4 blocks from the Superdome",
+  "Riverfront & Canal streetcars, 5 min walk; Harrah's garage across Poydras",
+  "Ships nationwide on Goldbelly"
+ ],
+ "cta_h2": "Come hungry. Mother's Restaurant is waiting.",
+ "cta_dir_btn": "g",
+ "hours": [
+  [
+   [
+    420,
+    1320
+   ]
+  ],
+  [
+   [
+    420,
+    1320
+   ]
+  ],
+  [
+   [
+    420,
+    1320
+   ]
+  ],
+  [
+   [
+    420,
+    1320
+   ]
+  ],
+  [
+   [
+    420,
+    1320
+   ]
+  ],
+  [
+   [
+    420,
+    1320
+   ]
+  ],
+  [
+   [
+    420,
+    1320
+   ]
+  ]
+ ],
+ "popular_times": {
+  "0": [
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    24
+   ],
+   [
+    8,
+    39
+   ],
+   [
+    9,
+    51
+   ],
+   [
+    10,
+    61
+   ],
+   [
+    11,
+    69
+   ],
+   [
+    12,
+    75
+   ],
+   [
+    13,
+    78
+   ],
+   [
+    14,
+    75
+   ],
+   [
+    15,
+    70
+   ],
+   [
+    16,
+    68
+   ],
+   [
+    17,
+    74
+   ],
+   [
+    18,
+    79
+   ],
+   [
+    19,
+    73
+   ],
+   [
+    20,
+    55
+   ],
+   [
+    21,
+    32
+   ],
+   [
+    22,
+    0
+   ],
+   [
+    23,
+    0
+   ]
+  ],
+  "1": [
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    18
+   ],
+   [
+    8,
+    26
+   ],
+   [
+    9,
+    34
+   ],
+   [
+    10,
+    44
+   ],
+   [
+    11,
+    56
+   ],
+   [
+    12,
+    66
+   ],
+   [
+    13,
+    65
+   ],
+   [
+    14,
+    62
+   ],
+   [
+    15,
+    58
+   ],
+   [
+    16,
+    62
+   ],
+   [
+    17,
+    71
+   ],
+   [
+    18,
+    77
+   ],
+   [
+    19,
+    72
+   ],
+   [
+    20,
+    55
+   ],
+   [
+    21,
+    39
+   ],
+   [
+    22,
+    0
+   ],
+   [
+    23,
+    0
+   ]
+  ],
+  "2": [
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    18
+   ],
+   [
+    8,
+    29
+   ],
+   [
+    9,
+    41
+   ],
+   [
+    10,
+    52
+   ],
+   [
+    11,
+    58
+   ],
+   [
+    12,
+    58
+   ],
+   [
+    13,
+    56
+   ],
+   [
+    14,
+    53
+   ],
+   [
+    15,
+    54
+   ],
+   [
+    16,
+    56
+   ],
+   [
+    17,
+    61
+   ],
+   [
+    18,
+    65
+   ],
+   [
+    19,
+    64
+   ],
+   [
+    20,
+    51
+   ],
+   [
+    21,
+    31
+   ],
+   [
+    22,
+    0
+   ],
+   [
+    23,
+    0
+   ]
+  ],
+  "3": [
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    18
+   ],
+   [
+    8,
+    30
+   ],
+   [
+    9,
+    43
+   ],
+   [
+    10,
+    56
+   ],
+   [
+    11,
+    64
+   ],
+   [
+    12,
+    68
+   ],
+   [
+    13,
+    69
+   ],
+   [
+    14,
+    66
+   ],
+   [
+    15,
+    62
+   ],
+   [
+    16,
+    63
+   ],
+   [
+    17,
+    74
+   ],
+   [
+    18,
+    87
+   ],
+   [
+    19,
+    86
+   ],
+   [
+    20,
+    70
+   ],
+   [
+    21,
+    45
+   ],
+   [
+    22,
+    0
+   ],
+   [
+    23,
+    0
+   ]
+  ],
+  "4": [
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    20
+   ],
+   [
+    8,
+    35
+   ],
+   [
+    9,
+    49
+   ],
+   [
+    10,
+    67
+   ],
+   [
+    11,
+    80
+   ],
+   [
+    12,
+    86
+   ],
+   [
+    13,
+    85
+   ],
+   [
+    14,
+    80
+   ],
+   [
+    15,
+    76
+   ],
+   [
+    16,
+    76
+   ],
+   [
+    17,
+    81
+   ],
+   [
+    18,
+    86
+   ],
+   [
+    19,
+    86
+   ],
+   [
+    20,
+    76
+   ],
+   [
+    21,
+    53
+   ],
+   [
+    22,
+    0
+   ],
+   [
+    23,
+    0
+   ]
+  ],
+  "5": [
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    23
+   ],
+   [
+    8,
+    40
+   ],
+   [
+    9,
+    56
+   ],
+   [
+    10,
+    73
+   ],
+   [
+    11,
+    84
+   ],
+   [
+    12,
+    87
+   ],
+   [
+    13,
+    86
+   ],
+   [
+    14,
+    79
+   ],
+   [
+    15,
+    77
+   ],
+   [
+    16,
+    78
+   ],
+   [
+    17,
+    87
+   ],
+   [
+    18,
+    98
+   ],
+   [
+    19,
+    100
+   ],
+   [
+    20,
+    84
+   ],
+   [
+    21,
+    58
+   ],
+   [
+    22,
+    0
+   ],
+   [
+    23,
+    0
+   ]
+  ],
+  "6": [
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    19
+   ],
+   [
+    8,
+    31
+   ],
+   [
+    9,
+    42
+   ],
+   [
+    10,
+    56
+   ],
+   [
+    11,
+    66
+   ],
+   [
+    12,
+    70
+   ],
+   [
+    13,
+    66
+   ],
+   [
+    14,
+    62
+   ],
+   [
+    15,
+    63
+   ],
+   [
+    16,
+    67
+   ],
+   [
+    17,
+    76
+   ],
+   [
+    18,
+    84
+   ],
+   [
+    19,
+    83
+   ],
+   [
+    20,
+    63
+   ],
+   [
+    21,
+    39
+   ],
+   [
+    22,
+    0
+   ],
+   [
+    23,
+    0
+   ]
+  ]
+ }
+}

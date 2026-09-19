@@ -1,0 +1,716 @@
+{
+ "slug": "lucky-jean-seafood",
+ "theme": {
+  "colors": {
+   "--bg": "#f6f1e6",
+   "--bg2": "#0f2f4c",
+   "--ink": "#12202c",
+   "--muted": "#5a6773",
+   "--acc": "#e8622a",
+   "--acc2": "#0f2f4c",
+   "--accink": "#fff",
+   "--card": "#ffffff",
+   "--r": "8px",
+   "--band-ink": "#fff"
+  },
+  "font_link": "Barlow+Condensed:wght@600;700;800",
+  "font_stack": "'Barlow Condensed', Impact, sans-serif",
+  "h1": "font-size:clamp(3rem,7.5vw,6rem);font-weight:800;letter-spacing:-.01em;line-height:.95",
+  "h2_weight": "800",
+  "h3_weight": "800",
+  "brand_weight": "800",
+  "stat_weight": "800",
+  "num_weight": "600",
+  "quote_weight": "800",
+  "big_weight": "800",
+  "cloud_weight": "800",
+  "dark": false,
+  "alt_dark": true
+ },
+ "title": "Lucky Jean Seafood · Seafood restaurant · New Orleans",
+ "description": "Fried shrimp by the pound, boiled crawfish in season, and a shrimp po'boy that needs two hands. Takeout, lunch and dinner, weekdays.",
+ "icon": {
+  "bg": "#e8622a",
+  "fg": "#fff",
+  "initials": "LJ"
+ },
+ "schema_type": "Restaurant",
+ "name": "Lucky Jean Seafood",
+ "phone_e164": "+15042457842",
+ "phone_schema": "+1504-245-7842",
+ "address": {
+  "streetAddress": "6746 Chef Menteur Hwy",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70126"
+ },
+ "geo": {
+  "lat": 30.0109364,
+  "lng": -90.0092506
+ },
+ "hero_img": "img/01.jpg",
+ "category": "Seafood restaurant",
+ "rating": 4.2,
+ "review_count": 805,
+ "cid": "2598624480457453738",
+ "place_id": "ChIJ_VlHMjCoIIYRqvBMZjIrECQ",
+ "phone_display": "(504) 245-7842",
+ "seal": {
+  "tag": "New Orleans East",
+  "center": "LJ",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "Seafood & po'boys · 6746 Chef Menteur Hwy",
+  "headline": "The Chef Highway seafood counter the East has trusted since before Katrina.",
+  "sub": "Fried shrimp by the pound, boiled crawfish in season, and a shrimp po'boy that needs two hands. Takeout, lunch and dinner, weekdays.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "805",
+   "label": "Google reviews"
+  },
+  {
+   "count": "20+",
+   "label": "years feeding the East"
+  },
+  {
+   "count": "$0.99",
+   "label": "egg rolls"
+  },
+  {
+   "count": "Mon–Fri",
+   "label": "counter hours"
+  }
+ ],
+ "story": {
+  "kicker": "New Orleans East",
+  "h2": "Lucky Jean Seafood",
+  "paragraphs": [
+   "Lucky Jean's is the kind of place you find by asking someone from the East where they get their seafood. The answer comes fast. The little building on Chef Menteur Highway with the shrimp boat on the sign has been frying, boiling, and stuffing po'boys for the neighborhood for decades, and the regulars who have been coming since before the storm are still coming.",
+   "It is a counter, not a dining room. You order, you wait a few minutes, you leave with a box that smells like Sunday. Shrimp, fish, oysters when they have them, wings, gumbo, red beans on Monday, meat pies and egg rolls for the ride home."
+  ]
+ },
+ "facts": [
+  "Takeout counter, quick and casual",
+  "Lunch and dinner, weekdays",
+  "Catering for parties and second lines",
+  "Free parking out front",
+  "Wheelchair accessible"
+ ],
+ "address_display": "6746 Chef Menteur Hwy, New Orleans, LA 70126",
+ "instagram": null,
+ "order": [
+  {
+   "img": "img/03.jpg",
+   "name": "Fried Shrimp",
+   "blurb": "Light batter, Gulf shrimp, by the plate or the pound. The reason for the line."
+  },
+  {
+   "img": "img/04.jpg",
+   "name": "Shrimp Po'boy",
+   "blurb": "Overstuffed on French bread, dressed. Comes with a side you did not ask for and will eat."
+  },
+  {
+   "img": "img/08.jpg",
+   "name": "Boiled Crawfish",
+   "blurb": "In season, by the sack. Call ahead on Fridays."
+  },
+  {
+   "img": "img/09.jpg",
+   "name": "Lemon Pepper Wings",
+   "blurb": "The non-seafood order that regulars swear by."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "Platters & Plates",
+    "items": [
+     {
+      "name": "Fried Shrimp Plate",
+      "price": ""
+     },
+     {
+      "name": "Fried Fish Plate",
+      "price": ""
+     },
+     {
+      "name": "Lemon Pepper Wings",
+      "price": ""
+     },
+     {
+      "name": "Shrimp Fried Rice, Lg",
+      "price": "7.49"
+     }
+    ]
+   },
+   {
+    "h3": "Salads",
+    "items": [
+     {
+      "name": "#48 Grilled Shrimp",
+      "price": "10.29"
+     },
+     {
+      "name": "#52 Grilled Chicken",
+      "price": "8.19"
+     },
+     {
+      "name": "#49 Chef Salad",
+      "price": "6.99"
+     },
+     {
+      "name": "#51 Vegetable Salad",
+      "price": "5.89"
+     }
+    ]
+   },
+   {
+    "h3": "Sides",
+    "items": [
+     {
+      "name": "Gumbo, Sm / Lg",
+      "price": "4.39 / 7.69"
+     },
+     {
+      "name": "Red Beans, Sm / Lg",
+      "price": "1.79 / 3.19"
+     },
+     {
+      "name": "Turkey Neck",
+      "price": "2.49"
+     },
+     {
+      "name": "Smoked Sausage",
+      "price": "2.99"
+     },
+     {
+      "name": "Meat Pie",
+      "price": "1.99"
+     },
+     {
+      "name": "Egg Roll",
+      "price": "0.99"
+     },
+     {
+      "name": "Pig Feet",
+      "price": "1.79"
+     }
+    ]
+   }
+  ],
+  "note": "From the board. Prices as posted, ask about market price on seafood. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "img/04.jpg",
+  "text": "“Been going there before Katrina. Great food and friendly service.”",
+  "cite": "Google review · 4.2 stars from 805 reviews"
+ },
+ "review_count_display": "805",
+ "breakdown": [
+  447,
+  190,
+  86,
+  30,
+  52
+ ],
+ "cloud": [
+  {
+   "s": "1.75",
+   "mentions": 29,
+   "term": "crawfish"
+  },
+  {
+   "s": "1.56",
+   "mentions": 23,
+   "term": "pop boy"
+  },
+  {
+   "s": "1.13",
+   "mentions": 9,
+   "term": "gumbo"
+  },
+  {
+   "s": "1.10",
+   "mentions": 8,
+   "term": "hot food"
+  },
+  {
+   "s": "1.04",
+   "mentions": 6,
+   "term": "red bean"
+  },
+  {
+   "s": "1.01",
+   "mentions": 5,
+   "term": "general chicken"
+  },
+  {
+   "s": "0.97",
+   "mentions": 4,
+   "term": "portion size"
+  },
+  {
+   "s": "0.94",
+   "mentions": 3,
+   "term": "boiled shrimp"
+  },
+  {
+   "s": "0.91",
+   "mentions": 2,
+   "term": "turkey necks"
+  },
+  {
+   "s": "0.91",
+   "mentions": 2,
+   "term": "fresh shrimp"
+  }
+ ],
+ "cloud_h3": "What 805 people keep mentioning",
+ "reviews": [
+  {
+   "stars": "★★★★★",
+   "text": "“Been going there before Katrina ,great food and friendly service”",
+   "who": "Lenard Jordan · Google"
+  }
+ ],
+ "gallery": [
+  "img/03.jpg",
+  "img/04.jpg",
+  "img/08.jpg",
+  "img/09.jpg",
+  "img/05.jpg",
+  "img/12.jpg"
+ ],
+ "hours_display": [
+  "10am – 8pm",
+  "10am – 8pm",
+  "10am – 8pm",
+  "10am – 8pm",
+  "10am – 8pm",
+  "Closed",
+  "Closed"
+ ],
+ "tip": {
+  "b": "Local tip",
+  "text": "Call your order in. The lunch line is the neighborhood's, and it moves faster than it looks."
+ },
+ "getting_here": [
+  "Chef Menteur Hwy at Read Blvd, New Orleans East",
+  "Free lot out front, pull right up",
+  "Off I-10 exit 244, 5 minutes from the Lakefront Airport"
+ ],
+ "cta_h2": "Come hungry. Lucky Jean Seafood is waiting.",
+ "cta_dir_btn": "w",
+ "hours": [
+  [
+   [
+    600,
+    1200
+   ]
+  ],
+  [
+   [
+    600,
+    1200
+   ]
+  ],
+  [
+   [
+    600,
+    1200
+   ]
+  ],
+  [
+   [
+    600,
+    1200
+   ]
+  ],
+  [
+   [
+    600,
+    1200
+   ]
+  ],
+  [],
+  []
+ ],
+ "popular_times": {
+  "0": [
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    0
+   ],
+   [
+    8,
+    0
+   ],
+   [
+    9,
+    0
+   ],
+   [
+    10,
+    13
+   ],
+   [
+    11,
+    20
+   ],
+   [
+    12,
+    39
+   ],
+   [
+    13,
+    43
+   ],
+   [
+    14,
+    52
+   ],
+   [
+    15,
+    50
+   ],
+   [
+    16,
+    61
+   ],
+   [
+    17,
+    58
+   ],
+   [
+    18,
+    52
+   ],
+   [
+    19,
+    31
+   ],
+   [
+    20,
+    0
+   ],
+   [
+    21,
+    0
+   ],
+   [
+    22,
+    0
+   ],
+   [
+    23,
+    0
+   ]
+  ],
+  "1": [
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    0
+   ],
+   [
+    8,
+    0
+   ],
+   [
+    9,
+    0
+   ],
+   [
+    10,
+    19
+   ],
+   [
+    11,
+    28
+   ],
+   [
+    12,
+    38
+   ],
+   [
+    13,
+    45
+   ],
+   [
+    14,
+    49
+   ],
+   [
+    15,
+    50
+   ],
+   [
+    16,
+    61
+   ],
+   [
+    17,
+    69
+   ],
+   [
+    18,
+    60
+   ],
+   [
+    19,
+    39
+   ],
+   [
+    20,
+    0
+   ],
+   [
+    21,
+    0
+   ],
+   [
+    22,
+    0
+   ],
+   [
+    23,
+    0
+   ]
+  ],
+  "2": [
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    0
+   ],
+   [
+    8,
+    0
+   ],
+   [
+    9,
+    0
+   ],
+   [
+    10,
+    27
+   ],
+   [
+    11,
+    47
+   ],
+   [
+    12,
+    60
+   ],
+   [
+    13,
+    57
+   ],
+   [
+    14,
+    49
+   ],
+   [
+    15,
+    53
+   ],
+   [
+    16,
+    67
+   ],
+   [
+    17,
+    71
+   ],
+   [
+    18,
+    53
+   ],
+   [
+    19,
+    32
+   ],
+   [
+    20,
+    0
+   ],
+   [
+    21,
+    0
+   ],
+   [
+    22,
+    0
+   ],
+   [
+    23,
+    0
+   ]
+  ],
+  "3": [
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    0
+   ],
+   [
+    8,
+    0
+   ],
+   [
+    9,
+    0
+   ],
+   [
+    10,
+    30
+   ],
+   [
+    11,
+    46
+   ],
+   [
+    12,
+    58
+   ],
+   [
+    13,
+    56
+   ],
+   [
+    14,
+    56
+   ],
+   [
+    15,
+    57
+   ],
+   [
+    16,
+    61
+   ],
+   [
+    17,
+    56
+   ],
+   [
+    18,
+    43
+   ],
+   [
+    19,
+    26
+   ],
+   [
+    20,
+    0
+   ],
+   [
+    21,
+    0
+   ],
+   [
+    22,
+    0
+   ],
+   [
+    23,
+    0
+   ]
+  ],
+  "4": [
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    0
+   ],
+   [
+    8,
+    0
+   ],
+   [
+    9,
+    0
+   ],
+   [
+    10,
+    24
+   ],
+   [
+    11,
+    42
+   ],
+   [
+    12,
+    64
+   ],
+   [
+    13,
+    58
+   ],
+   [
+    14,
+    65
+   ],
+   [
+    15,
+    75
+   ],
+   [
+    16,
+    87
+   ],
+   [
+    17,
+    100
+   ],
+   [
+    18,
+    78
+   ],
+   [
+    19,
+    50
+   ],
+   [
+    20,
+    0
+   ],
+   [
+    21,
+    0
+   ],
+   [
+    22,
+    0
+   ],
+   [
+    23,
+    0
+   ]
+  ],
+  "5": [],
+  "6": []
+ }
+}

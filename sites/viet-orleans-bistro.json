@@ -1,0 +1,908 @@
+{
+ "slug": "viet-orleans-bistro",
+ "theme": {
+  "colors": {
+   "--bg": "#fbf8f1",
+   "--bg2": "#f1ece0",
+   "--ink": "#17211c",
+   "--muted": "#5c665f",
+   "--acc": "#1f6f5b",
+   "--acc2": "#e0722f",
+   "--accink": "#fff",
+   "--card": "#ffffff",
+   "--r": "14px",
+   "--band-ink": "var(--ink)"
+  },
+  "font_link": "Fraunces:opsz,wght@9..144,500;9..144,700",
+  "font_stack": "'Fraunces', Georgia, serif",
+  "h1": "font-size:clamp(2.4rem,5.4vw,4.4rem);font-weight:500;letter-spacing:-.02em;line-height:1.05",
+  "h2_weight": "500",
+  "h3_weight": "600",
+  "brand_weight": "600",
+  "stat_weight": "600",
+  "num_weight": "600",
+  "quote_weight": "500",
+  "big_weight": "600",
+  "cloud_weight": "600",
+  "dark": false,
+  "alt_dark": false
+ },
+ "title": "Viet Orleans Bistro · Vietnamese restaurant · New Orleans",
+ "description": "Lunch counter fast, dinner-date calm. The CBD's go-to when you want something fresh and hot for under twenty dollars.",
+ "icon": {
+  "bg": "#1f6f5b",
+  "fg": "#fff",
+  "initials": "VO"
+ },
+ "schema_type": "Restaurant",
+ "name": "Viet Orleans Bistro",
+ "phone_e164": "+15043336917",
+ "phone_schema": "+1504-333-6917",
+ "address": {
+  "streetAddress": "300 Baronne St",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70112"
+ },
+ "geo": {
+  "lat": 29.952304299999998,
+  "lng": -90.07232359999999
+ },
+ "hero_img": "img/09.jpg",
+ "category": "Vietnamese restaurant",
+ "rating": 4.3,
+ "review_count": 852,
+ "cid": "6891420172937831384",
+ "place_id": "ChIJ52OIIAumIIYR2KPrjSI-o18",
+ "phone_display": "(504) 333-6917",
+ "seal": {
+  "tag": "CBD",
+  "center": "VO",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "Vietnamese kitchen & sushi bar · 300 Baronne St",
+  "headline": "Pho, banh mi, and hand-rolled sushi in the middle of downtown, without the downtown wait.",
+  "sub": "Lunch counter fast, dinner-date calm. The CBD's go-to when you want something fresh and hot for under twenty dollars.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "6",
+   "label": "min to a bowl of phở at lunch"
+  },
+  {
+   "count": "837",
+   "label": "Google reviews"
+  },
+  {
+   "count": "14",
+   "label": "phở on the menu"
+  },
+  {
+   "count": "2",
+   "label": "kitchens: Vietnamese & sushi"
+  }
+ ],
+ "story": {
+  "kicker": "CBD",
+  "h2": "Viet Orleans Bistro",
+  "paragraphs": [
+   "Viet Orleans opened on the corner of Baronne and Gravier to feed the office towers and hotels around it, and it still does that better than anywhere in the CBD: a bowl of pho lands in about six minutes at the lunch rush. The broth is clear and long-simmered, the herbs come piled high, and the brisket is the cut regulars ask for.",
+   "Then the sun goes down, the TVs go on, and it becomes a quiet neighborhood spot with a real sushi bar, sake, happy hour cocktails, and Vietnamese iced coffee strong enough to get you through the second half. Cruise passengers find it before a sailing and come back after."
+  ]
+ },
+ "facts": [
+  "Lunch and dinner, dine in or takeout",
+  "Full sushi bar and sake",
+  "Happy hour cocktails, beer, wine",
+  "Vegetarian and small plates",
+  "Fast service, quiet room, table service"
+ ],
+ "address_display": "300 Baronne St, New Orleans, LA 70112",
+ "instagram": null,
+ "order": [
+  {
+   "img": "img/17.jpg",
+   "name": "Seafood Pho",
+   "blurb": "Shrimp, squid, fish balls, and the house broth. The bowl people photograph."
+  },
+  {
+   "img": "img/18.jpg",
+   "name": "Volcano Roll",
+   "blurb": "Baked crab and spicy mayo over a California roll. The sushi bar's bestseller."
+  },
+  {
+   "img": "img/16.jpg",
+   "name": "Grilled Pork Vermicelli",
+   "blurb": "Charred lemongrass pork, pickled carrot, fish sauce. Light enough for a work lunch."
+  },
+  {
+   "img": "img/12.jpg",
+   "name": "Tom Yum",
+   "blurb": "Hot, sour, full of shrimp. Order it when it is cold out, which is never, so order it anyway."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "Phở",
+    "items": [
+     {
+      "name": "Rare Eye Round",
+      "price": "13.00"
+     },
+     {
+      "name": "Well-Done Brisket",
+      "price": "13.00"
+     },
+     {
+      "name": "Eye Round & Brisket",
+      "price": "14.00"
+     },
+     {
+      "name": "Seafood Phở",
+      "price": "16.00"
+     },
+     {
+      "name": "Chicken",
+      "price": "13.00"
+     },
+     {
+      "name": "Tofu, beef broth",
+      "price": "13.00"
+     }
+    ]
+   },
+   {
+    "h3": "Bánh Mì",
+    "items": [
+     {
+      "name": "Grilled Pork",
+      "price": "12.00"
+     },
+     {
+      "name": "Grilled Chicken",
+      "price": "12.00"
+     },
+     {
+      "name": "Grilled Beef",
+      "price": "13.00"
+     },
+     {
+      "name": "Grilled Shrimp",
+      "price": "16.00"
+     },
+     {
+      "name": "Grilled Tofu",
+      "price": "12.00"
+     }
+    ]
+   },
+   {
+    "h3": "Appetizers",
+    "items": [
+     {
+      "name": "Shrimp Spring Rolls (2)",
+      "price": "8.00"
+     },
+     {
+      "name": "Fried Egg Rolls (2)",
+      "price": "6.00"
+     },
+     {
+      "name": "Crab Rangoon (5)",
+      "price": "8.00"
+     },
+     {
+      "name": "Chicken Dumplings",
+      "price": "8.00"
+     },
+     {
+      "name": "Chicken Wings (5)",
+      "price": "9.00"
+     }
+    ]
+   },
+   {
+    "h3": "Cơm · Fried Rice",
+    "items": [
+     {
+      "name": "Beef",
+      "price": "14.00"
+     },
+     {
+      "name": "Shrimp",
+      "price": "16.00"
+     },
+     {
+      "name": "Beef, Chicken & Shrimp",
+      "price": "16.00"
+     },
+     {
+      "name": "Vegetables",
+      "price": "13.00"
+     }
+    ]
+   }
+  ],
+  "note": "From the house menu. Bánh mì dressed with butter sauce, cilantro, cucumber, pickled carrot, jalapeño. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "img/05.jpg",
+  "text": "“Best sushi and staff in town hands down. Visited before our cruise and was so good we visited upon return.”",
+  "cite": "Google review · 4.3 stars from 852 reviews"
+ },
+ "review_count_display": "852",
+ "breakdown": [
+  481,
+  213,
+  84,
+  38,
+  36
+ ],
+ "cloud": [
+  {
+   "s": "1.75",
+   "mentions": 102,
+   "term": "sushi"
+  },
+  {
+   "s": "0.96",
+   "mentions": 13,
+   "term": "brisket"
+  },
+  {
+   "s": "0.91",
+   "mentions": 7,
+   "term": "crab rangoon"
+  },
+  {
+   "s": "0.89",
+   "mentions": 5,
+   "term": "seafood pho"
+  },
+  {
+   "s": "0.89",
+   "mentions": 5,
+   "term": "sake"
+  },
+  {
+   "s": "0.89",
+   "mentions": 4,
+   "term": "fresh sushi"
+  },
+  {
+   "s": "0.87",
+   "mentions": 2,
+   "term": "eel roll"
+  },
+  {
+   "s": "0.87",
+   "mentions": 2,
+   "term": "volcano roll"
+  },
+  {
+   "s": "0.87",
+   "mentions": 2,
+   "term": "tuna tataki"
+  },
+  {
+   "s": "0.87",
+   "mentions": 2,
+   "term": "chicken dumplings"
+  }
+ ],
+ "cloud_h3": "What 852 people keep mentioning",
+ "reviews": [
+  {
+   "stars": "★★★★★",
+   "text": "“I absolutely adore this place. The food is always delicious and fresh, the service is quick and friendly even during the lunch rush, and it's not too expensive considering the location. Absolutely recommend the sushi and rice dishes. The pho is okay.”",
+   "who": "Sophia Mc · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“House fried rice is amazing however pay close attention to your change. It tends to come up short at this location and many other places in New Orleans.”",
+   "who": "Trevor Noah · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“Best sushi and staff in town hands down. Visited before our cruise and was so good visited upon return”",
+   "who": "Jim Reaves · Google"
+  }
+ ],
+ "gallery": [
+  "img/07.jpg",
+  "img/05.jpg",
+  "img/15.jpg",
+  "img/11.jpg",
+  "img/22.jpg",
+  "img/20.jpg",
+  "img/23.jpg"
+ ],
+ "hours_display": [
+  "11am – 9:30pm",
+  "11am – 9:30pm",
+  "11am – 9:30pm",
+  "11am – 9:30pm",
+  "11am – 9:30pm",
+  "11am – 9:30pm",
+  "11am – 9:30pm"
+ ],
+ "tip": {
+  "b": "Local tip",
+  "text": "Happy hour is the play: half the sushi menu, cold sake, and the room to yourself before the hotel crowd finds it."
+ },
+ "getting_here": [
+  "Corner of Baronne & Gravier, one block off Canal",
+  "Canal St streetcar, Carondelet or Baronne stop",
+  "Garages on Gravier and Common; validated lots after 5pm"
+ ],
+ "cta_h2": "Come hungry. Viet Orleans Bistro is waiting.",
+ "cta_dir_btn": "g",
+ "hours": [
+  [
+   [
+    660,
+    1290
+   ]
+  ],
+  [
+   [
+    660,
+    1290
+   ]
+  ],
+  [
+   [
+    660,
+    1290
+   ]
+  ],
+  [
+   [
+    660,
+    1290
+   ]
+  ],
+  [
+   [
+    660,
+    1290
+   ]
+  ],
+  [
+   [
+    660,
+    1290
+   ]
+  ],
+  [
+   [
+    660,
+    1290
+   ]
+  ]
+ ],
+ "popular_times": {
+  "0": [
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    0
+   ],
+   [
+    8,
+    0
+   ],
+   [
+    9,
+    0
+   ],
+   [
+    10,
+    0
+   ],
+   [
+    11,
+    71
+   ],
+   [
+    12,
+    85
+   ],
+   [
+    13,
+    76
+   ],
+   [
+    14,
+    52
+   ],
+   [
+    15,
+    33
+   ],
+   [
+    16,
+    42
+   ],
+   [
+    17,
+    52
+   ],
+   [
+    18,
+    66
+   ],
+   [
+    19,
+    52
+   ],
+   [
+    20,
+    33
+   ],
+   [
+    21,
+    33
+   ],
+   [
+    22,
+    0
+   ],
+   [
+    23,
+    0
+   ]
+  ],
+  "1": [
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    0
+   ],
+   [
+    8,
+    0
+   ],
+   [
+    9,
+    0
+   ],
+   [
+    10,
+    0
+   ],
+   [
+    11,
+    80
+   ],
+   [
+    12,
+    95
+   ],
+   [
+    13,
+    61
+   ],
+   [
+    14,
+    57
+   ],
+   [
+    15,
+    57
+   ],
+   [
+    16,
+    66
+   ],
+   [
+    17,
+    52
+   ],
+   [
+    18,
+    47
+   ],
+   [
+    19,
+    52
+   ],
+   [
+    20,
+    71
+   ],
+   [
+    21,
+    66
+   ],
+   [
+    22,
+    0
+   ],
+   [
+    23,
+    0
+   ]
+  ],
+  "2": [
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    0
+   ],
+   [
+    8,
+    0
+   ],
+   [
+    9,
+    0
+   ],
+   [
+    10,
+    0
+   ],
+   [
+    11,
+    38
+   ],
+   [
+    12,
+    42
+   ],
+   [
+    13,
+    52
+   ],
+   [
+    14,
+    61
+   ],
+   [
+    15,
+    76
+   ],
+   [
+    16,
+    100
+   ],
+   [
+    17,
+    80
+   ],
+   [
+    18,
+    66
+   ],
+   [
+    19,
+    33
+   ],
+   [
+    20,
+    19
+   ],
+   [
+    21,
+    19
+   ],
+   [
+    22,
+    0
+   ],
+   [
+    23,
+    0
+   ]
+  ],
+  "3": [
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    0
+   ],
+   [
+    8,
+    0
+   ],
+   [
+    9,
+    0
+   ],
+   [
+    10,
+    0
+   ],
+   [
+    11,
+    61
+   ],
+   [
+    12,
+    80
+   ],
+   [
+    13,
+    85
+   ],
+   [
+    14,
+    66
+   ],
+   [
+    15,
+    42
+   ],
+   [
+    16,
+    33
+   ],
+   [
+    17,
+    23
+   ],
+   [
+    18,
+    38
+   ],
+   [
+    19,
+    33
+   ],
+   [
+    20,
+    38
+   ],
+   [
+    21,
+    33
+   ],
+   [
+    22,
+    0
+   ],
+   [
+    23,
+    0
+   ]
+  ],
+  "4": [
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    0
+   ],
+   [
+    8,
+    0
+   ],
+   [
+    9,
+    0
+   ],
+   [
+    10,
+    0
+   ],
+   [
+    11,
+    71
+   ],
+   [
+    12,
+    85
+   ],
+   [
+    13,
+    66
+   ],
+   [
+    14,
+    47
+   ],
+   [
+    15,
+    33
+   ],
+   [
+    16,
+    38
+   ],
+   [
+    17,
+    61
+   ],
+   [
+    18,
+    76
+   ],
+   [
+    19,
+    100
+   ],
+   [
+    20,
+    76
+   ],
+   [
+    21,
+    61
+   ],
+   [
+    22,
+    0
+   ],
+   [
+    23,
+    0
+   ]
+  ],
+  "5": [
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    0
+   ],
+   [
+    8,
+    0
+   ],
+   [
+    9,
+    0
+   ],
+   [
+    10,
+    0
+   ],
+   [
+    11,
+    47
+   ],
+   [
+    12,
+    52
+   ],
+   [
+    13,
+    47
+   ],
+   [
+    14,
+    47
+   ],
+   [
+    15,
+    76
+   ],
+   [
+    16,
+    90
+   ],
+   [
+    17,
+    80
+   ],
+   [
+    18,
+    57
+   ],
+   [
+    19,
+    42
+   ],
+   [
+    20,
+    47
+   ],
+   [
+    21,
+    52
+   ],
+   [
+    22,
+    0
+   ],
+   [
+    23,
+    0
+   ]
+  ],
+  "6": [
+   [
+    6,
+    0
+   ],
+   [
+    7,
+    0
+   ],
+   [
+    8,
+    0
+   ],
+   [
+    9,
+    0
+   ],
+   [
+    10,
+    0
+   ],
+   [
+    11,
+    71
+   ],
+   [
+    12,
+    61
+   ],
+   [
+    13,
+    76
+   ],
+   [
+    14,
+    66
+   ],
+   [
+    15,
+    61
+   ],
+   [
+    16,
+    47
+   ],
+   [
+    17,
+    38
+   ],
+   [
+    18,
+    38
+   ],
+   [
+    19,
+    42
+   ],
+   [
+    20,
+    42
+   ],
+   [
+    21,
+    28
+   ],
+   [
+    22,
+    0
+   ],
+   [
+    23,
+    0
+   ]
+  ]
+ }
+}

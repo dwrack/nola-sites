@@ -1,0 +1,363 @@
+{
+ "slug": "chez-pierre-bakery-lakeview",
+ "theme": {
+  "colors": {
+   "--bg": "#fbf6f1",
+   "--bg2": "#f3e6dd",
+   "--ink": "#2b1f1c",
+   "--muted": "#7a6a64",
+   "--acc": "#b5485a",
+   "--acc2": "#3f5d4c",
+   "--accink": "#fff",
+   "--card": "#ffffff",
+   "--r": "18px",
+   "--band-ink": "var(--ink)"
+  },
+  "font_link": "Cormorant+Garamond:ital,wght@0,600;0,700;1,600",
+  "font_stack": "'Cormorant Garamond', Georgia, serif",
+  "h1": "font-size:clamp(2.8rem,6.2vw,5.4rem);font-weight:600;letter-spacing:-.01em;line-height:1.02",
+  "h2_weight": "600",
+  "h3_weight": "600",
+  "brand_weight": "600",
+  "stat_weight": "600",
+  "num_weight": "600",
+  "quote_weight": "600",
+  "big_weight": "600",
+  "cloud_weight": "600",
+  "dark": false,
+  "alt_dark": false
+ },
+ "title": "Chez Pierre Bakery Lakeview · Bakery · New Orleans",
+ "description": "Lakeview's little French bakery with a Vietnamese kitchen in back. Breakfast, lunch, pastries, and cakes for every occasion on Harrison Avenue.",
+ "icon": {
+  "bg": "#b5485a",
+  "fg": "#fff",
+  "initials": "CP"
+ },
+ "schema_type": "Restaurant",
+ "name": "Chez Pierre Bakery Lakeview",
+ "phone_e164": "+15043549405",
+ "phone_schema": "+1504-354-9405",
+ "address": {
+  "streetAddress": "141 Harrison Ave",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70124"
+ },
+ "geo": {
+  "lat": 30.005855699999998,
+  "lng": -90.11695069999999
+ },
+ "hero_img": "img/13.jpg",
+ "category": "Bakery",
+ "rating": 4.3,
+ "review_count": 63,
+ "cid": "9967921823229030140",
+ "place_id": "ChIJ3TnrtzWvIIYR_C5u_hUsVYo",
+ "phone_display": "(504) 354-9405",
+ "seal": {
+  "tag": "Lakeview",
+  "center": "CP",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "French bakery, cafe & Vietnamese kitchen · 141 Harrison Ave",
+  "headline": "Croissants at seven, banh mi at noon, a custom cake by Saturday.",
+  "sub": "Lakeview's little French bakery with a Vietnamese kitchen in back. Breakfast, lunch, pastries, and cakes for every occasion on Harrison Avenue.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "4.7",
+   "label": "stars on Google"
+  },
+  {
+   "count": "63",
+   "label": "reviews, 46 of them five stars"
+  },
+  {
+   "count": "2",
+   "label": "kitchens: French & Vietnamese"
+  },
+  {
+   "count": "7",
+   "label": "days of croissants"
+  }
+ ],
+ "story": {
+  "kicker": "Lakeview",
+  "h2": "Chez Pierre Bakery Lakeview",
+  "paragraphs": [
+   "Chez Pierre is the Lakeview bakery that does two things at once and does both properly. The front case is French: croissants, eclairs, fruit tarts, Eiffel Tower chocolates, king cake in season, and layer cakes decorated to order for birthdays, weddings, and Saints Sundays. The frozen matcha has a following.",
+   "The kitchen is Vietnamese, the way the best New Orleans bakeries often are. Banh mi on bread baked that morning, pho, summer rolls, crawfish pies, meat pies. Reviewers say people are sleeping on this place. Lindsay behind the counter would like that to stop."
+  ]
+ },
+ "facts": [
+  "Breakfast, coffee, pastries from open",
+  "Vietnamese lunch: banh mi, pho, rolls",
+  "Custom cakes and catering",
+  "Dine in, takeout, delivery",
+  "Free street parking on Harrison"
+ ],
+ "address_display": "141 Harrison Ave, New Orleans, LA 70124",
+ "instagram": "https://www.instagram.com/chezpierrefrenchbakery/",
+ "order": [
+  {
+   "img": "img/04.jpg",
+   "name": "Breakfast Croissant",
+   "blurb": "Sausage, egg, cheese on a house croissant. Reviewers use the word bomb."
+  },
+  {
+   "img": "img/03.jpg",
+   "name": "Banh Mi",
+   "blurb": "Grilled pork or chicken, pickled carrot, cilantro, pate, on bread from the oven behind you."
+  },
+  {
+   "img": "img/13.jpg",
+   "name": "Custom Cakes",
+   "blurb": "Birthdays, weddings, Mardi Gras. Order a week out, pick up on Harrison."
+  },
+  {
+   "img": "img/05.jpg",
+   "name": "King Cake",
+   "blurb": "Carnival season only. Traditional, filled, and the purple-green-gold done right."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "From the Case",
+    "items": [
+     {
+      "name": "Chocolate Tart",
+      "price": "4.75"
+     },
+     {
+      "name": "Coconut Cream Pie Cup",
+      "price": "4.75"
+     },
+     {
+      "name": "Carrot Cake Slice",
+      "price": "5.25"
+     },
+     {
+      "name": "Chantilly Slice",
+      "price": "6.25"
+     },
+     {
+      "name": "Chocolate Strawberry Parfait",
+      "price": "4.75"
+     },
+     {
+      "name": "Fruit Tart",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "Breakfast & Lunch",
+    "items": [
+     {
+      "name": "Breakfast Croissant, sausage egg cheese",
+      "price": ""
+     },
+     {
+      "name": "Bánh Mì, grilled pork or chicken",
+      "price": ""
+     },
+     {
+      "name": "Phở",
+      "price": ""
+     },
+     {
+      "name": "Shrimp Summer Rolls",
+      "price": ""
+     },
+     {
+      "name": "Crawfish Pie / Meat Pie",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "Drinks",
+    "items": [
+     {
+      "name": "Frozen Matcha",
+      "price": ""
+     },
+     {
+      "name": "Vietnamese Iced Coffee",
+      "price": ""
+     },
+     {
+      "name": "Espresso, drip, tea",
+      "price": ""
+     }
+    ]
+   }
+  ],
+  "note": "Case prices as tagged. Cakes quoted by size; call to order. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "img/08.jpg",
+  "text": "“I get the feeling that folks are sleeping on this place too much. The banh mi is good and the folks working there are nice and attentive.”",
+  "cite": "Google review · 4.3 stars from 63 reviews"
+ },
+ "review_count_display": "63",
+ "breakdown": [
+  46,
+  6,
+  3,
+  2,
+  6
+ ],
+ "cloud": [
+  {
+   "s": "1.75",
+   "mentions": 6,
+   "term": "atmosphere"
+  },
+  {
+   "s": "1.60",
+   "mentions": 5,
+   "term": "bahn mi"
+  },
+  {
+   "s": "1.45",
+   "mentions": 4,
+   "term": "pastries"
+  },
+  {
+   "s": "1.30",
+   "mentions": 3,
+   "term": "pho"
+  },
+  {
+   "s": "1.30",
+   "mentions": 3,
+   "term": "cleanliness"
+  },
+  {
+   "s": "1.15",
+   "mentions": 2,
+   "term": "crawfish pie"
+  },
+  {
+   "s": "1.15",
+   "mentions": 2,
+   "term": "meat pie"
+  },
+  {
+   "s": "1.15",
+   "mentions": 2,
+   "term": "vietnamese food"
+  },
+  {
+   "s": "1.15",
+   "mentions": 2,
+   "term": "portions"
+  },
+  {
+   "s": "1.15",
+   "mentions": 2,
+   "term": "desserts"
+  }
+ ],
+ "cloud_h3": "What 63 people keep mentioning",
+ "reviews": [
+  {
+   "stars": "★★★★★",
+   "text": "“I get the feeling that folks are sleeping on this place too much. The bahn mi is good, and the folks working there are nice and attentive. It's a little dark inside, but otherwise the place is nicely decorated and welcoming.”",
+   "who": "Richard Hesse · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“Lindsay is always welcoming and makes the most scrumptious desserts!\nI popped in for the frozen matcha and the shrimp Summer rolls. They didn’t disappoint and are always on point.”",
+   "who": "Melissa Price · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“Breakfast croissant was the bomb. The women behind the counter were nice. Loved the interior design and vibe of the joint.”",
+   "who": "Sean Spencer · Google"
+  }
+ ],
+ "gallery": [
+  "img/07.jpg",
+  "img/08.jpg",
+  "img/14.jpg",
+  "img/02.jpg",
+  "img/11.jpg",
+  "img/15.jpg",
+  "img/09.jpg"
+ ],
+ "hours_display": [
+  "8am – 2pm",
+  "8am – 7pm",
+  "8am – 7pm",
+  "8am – 7pm",
+  "8am – 7pm",
+  "8am – 7pm",
+  "Closed"
+ ],
+ "tip": {
+  "b": "Local tip",
+  "text": "Order the cake by phone, then pick up a banh mi and a frozen matcha when you come to get it. Nobody leaves with just the cake."
+ },
+ "getting_here": [
+  "Harrison Ave between Canal Blvd and Argonne, Lakeview",
+  "Free street parking on Harrison",
+  "5 minutes from City Park and the Lakefront"
+ ],
+ "cta_h2": "Come hungry. Chez Pierre Bakery Lakeview is waiting.",
+ "cta_dir_btn": "g",
+ "hours": [
+  [
+   [
+    480,
+    840
+   ]
+  ],
+  [
+   [
+    480,
+    1140
+   ]
+  ],
+  [
+   [
+    480,
+    1140
+   ]
+  ],
+  [
+   [
+    480,
+    1140
+   ]
+  ],
+  [
+   [
+    480,
+    1140
+   ]
+  ],
+  [
+   [
+    480,
+    1140
+   ]
+  ],
+  []
+ ],
+ "popular_times": {
+  "0": [],
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": []
+ }
+}

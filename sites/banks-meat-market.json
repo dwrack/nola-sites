@@ -1,0 +1,1050 @@
+{
+ "slug": "banks-meat-market",
+ "theme": {
+  "colors": {
+   "--bg": "#fff7e6",
+   "--bg2": "#b3261e",
+   "--ink": "#22160f",
+   "--muted": "#6b5a4c",
+   "--acc": "#b3261e",
+   "--acc2": "#f5b400",
+   "--accink": "#fff",
+   "--card": "#ffffff",
+   "--r": "4px",
+   "--band-ink": "#fff"
+  },
+  "font_link": "Archivo+Black",
+  "font_stack": "'Archivo Black', Impact, sans-serif",
+  "h1": "font-size:clamp(2.4rem,5.8vw,4.6rem);font-weight:400;letter-spacing:-.02em;line-height:1",
+  "h2_weight": "400",
+  "h3_weight": "600",
+  "brand_weight": "600",
+  "stat_weight": "600",
+  "num_weight": "600",
+  "quote_weight": "400",
+  "big_weight": "600",
+  "cloud_weight": "600",
+  "dark": false,
+  "alt_dark": true
+ },
+ "title": "Banks Meat Market · Grocery store · New Orleans",
+ "description": "Open late, cash your check, grab a hot roast beef on the way home. Banks is the neighborhood's kitchen and pantry in one.",
+ "icon": {
+  "bg": "#b3261e",
+  "fg": "#fff",
+  "initials": "BM"
+ },
+ "schema_type": "LocalBusiness",
+ "name": "Banks Meat Market",
+ "phone_e164": "+15043019171",
+ "phone_schema": "+1504-301-9171",
+ "address": {
+  "streetAddress": "325 S Broad St",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70119"
+ },
+ "geo": {
+  "lat": 29.963506199999998,
+  "lng": -90.0896049
+ },
+ "hero_img": "img/07.jpg",
+ "category": "Grocery store",
+ "rating": 4.1,
+ "review_count": 731,
+ "cid": "6168547052472281424",
+ "place_id": "ChIJ8X9GEfKlIIYRUKnkotwUm1U",
+ "phone_display": "(504) 301-9171",
+ "seal": {
+  "tag": "Mid-City",
+  "center": "BM",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "Corner grocery & po'boy counter · 325 S Broad St",
+  "headline": "Mid-City's corner store: fresh meat, hot sausage, and a 32-inch po'boy that feeds a crew.",
+  "sub": "Open late, cash your check, grab a hot roast beef on the way home. Banks is the neighborhood's kitchen and pantry in one.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "32\"",
+   "label": "the big one"
+  },
+  {
+   "count": "731",
+   "label": "Google reviews"
+  },
+  {
+   "count": "24/7",
+   "label": "store hours"
+  },
+  {
+   "count": "$4.29",
+   "label": "hot sausage on a bun"
+  }
+ ],
+ "story": {
+  "kicker": "Mid-City",
+  "h2": "Banks Meat Market",
+  "paragraphs": [
+   "Banks Meat Market anchors the corner of Broad and Banks, and everyone within ten blocks has a Banks order. The butcher case in back runs deep: fresh cuts, smoked sausage by the pound, hot sausage patties, turkey necks, whatever the week's plate needs. The hot counter up front turns it into lunch.",
+   "The po'boys are the draw. Roast beef with gravy, hot sausage, fried shrimp, fried chicken, and the famous 32-inch that gets ordered for job sites, tailgates, and repasts. Reviewers call it the best neighborhood corner store in Mid-City, bar none. It is also where you cash a check, send a Western Union, and pick up the beer."
+  ]
+ },
+ "facts": [
+  "Fresh meat case and hot food counter",
+  "Po'boys, plates, fried chicken",
+  "Check cashing and Western Union",
+  "SNAP, cards, tap to pay",
+  "On-site and street parking"
+ ],
+ "address_display": "325 S Broad St, New Orleans, LA 70119",
+ "instagram": null,
+ "order": [
+  {
+   "img": "img/10.jpg",
+   "name": "Hot Roast Beef Po'boy",
+   "blurb": "Gravy soaked, dressed, made while you watch. The one everyone orders first."
+  },
+  {
+   "img": "img/11.jpg",
+   "name": "The 32-Inch",
+   "blurb": "Shrimp, roast beef, or half and half. Feeds six. Call ahead for game day."
+  },
+  {
+   "img": "img/16.jpg",
+   "name": "Hot Sausage by the Pound",
+   "blurb": "Made in house, sold from the case. Take it home and fry it."
+  },
+  {
+   "img": "img/13.jpg",
+   "name": "Fresh Meat Counter",
+   "blurb": "Butcher cuts, smoked sausage, turkey necks, pig feet. Neighborhood prices."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "Hot Po'boys",
+    "items": [
+     {
+      "name": "Roast Beef",
+      "price": "5.99 · 10.99 · 29.99"
+     },
+     {
+      "name": "Hot Sausage",
+      "price": "4.29 · 6.99 · 17.99"
+     },
+     {
+      "name": "Shrimp",
+      "price": "5.99 · 9.99 · 26.99"
+     },
+     {
+      "name": "Catfish Fillet",
+      "price": "5.99 · 9.99 · 26.99"
+     },
+     {
+      "name": "Philly Cheesesteak",
+      "price": "5.99 · 9.99 · 26.99"
+     },
+     {
+      "name": "Pork Chops",
+      "price": "6.99 · 10.99 · 29.99"
+     },
+     {
+      "name": "Smoked Sausage",
+      "price": "5.99 · 8.99 · 26.99"
+     }
+    ]
+   },
+   {
+    "h3": "Cold Sandwiches",
+    "items": [
+     {
+      "name": "Deli Ham",
+      "price": "3.29 · 5.99 · 16.99"
+     },
+     {
+      "name": "Turkey Breast",
+      "price": "4.99 · 5.99 · 22.99"
+     },
+     {
+      "name": "Salami",
+      "price": "3.29 · 5.99 · 16.99"
+     },
+     {
+      "name": "Chopped Ham",
+      "price": "3.29 · 5.99 · 16.99"
+     }
+    ]
+   },
+   {
+    "h3": "Platters, with fries, salad & toast",
+    "items": [
+     {
+      "name": "Shrimp",
+      "price": "11.99"
+     },
+     {
+      "name": "Trout (3 pc)",
+      "price": "9.99"
+     },
+     {
+      "name": "Catfish Fillet (2 pc)",
+      "price": "9.99"
+     },
+     {
+      "name": "Pork Chops",
+      "price": "11.99"
+     },
+     {
+      "name": "Carne Asada",
+      "price": "15.99"
+     }
+    ]
+   }
+  ],
+  "note": "From the board behind the counter. Hot sandwiches 8am to 9pm. Sizes: bun, 10-inch French, 32-inch loaf. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "img/08.jpg",
+  "text": "“Best neighborhood corner store in Mid-City, bar none.”",
+  "cite": "Google review · 4.1 stars from 731 reviews"
+ },
+ "review_count_display": "731",
+ "breakdown": [
+  396,
+  160,
+  100,
+  27,
+  48
+ ],
+ "cloud": [
+  {
+   "s": "1.75",
+   "mentions": 89,
+   "term": "poboys"
+  },
+  {
+   "s": "1.05",
+   "mentions": 20,
+   "term": "friendly staff"
+  },
+  {
+   "s": "0.96",
+   "mentions": 11,
+   "term": "sandwiches"
+  },
+  {
+   "s": "0.93",
+   "mentions": 8,
+   "term": "fresh meat"
+  },
+  {
+   "s": "0.92",
+   "mentions": 7,
+   "term": "hot sausage"
+  },
+  {
+   "s": "0.91",
+   "mentions": 6,
+   "term": "late night snack"
+  },
+  {
+   "s": "0.90",
+   "mentions": 5,
+   "term": "hot roast beef sandwich"
+  },
+  {
+   "s": "0.89",
+   "mentions": 4,
+   "term": "check cashing"
+  },
+  {
+   "s": "0.89",
+   "mentions": 4,
+   "term": "food portions"
+  },
+  {
+   "s": "0.87",
+   "mentions": 2,
+   "term": "fried chicken"
+  }
+ ],
+ "cloud_h3": "What 731 people keep mentioning",
+ "reviews": [
+  {
+   "stars": "★★★★★",
+   "text": "“Best neighborhood corner store in Mid-City, bar none.”",
+   "who": "Eric Christian · Google"
+  },
+  {
+   "stars": "★★★★",
+   "text": "“Hood eats po Boys start at 9.99 I had the trout definitely worth the prices but it may have been whiting I'm not sure that was trout lol. Lb of Hot Sausage for $5.99 which is ridiculous considering it Souse meat like be for real.”",
+   "who": "Danielle Russell · Google"
+  }
+ ],
+ "gallery": [
+  "img/21.jpg",
+  "img/08.jpg",
+  "img/10.jpg",
+  "img/11.jpg",
+  "img/13.jpg",
+  "img/16.jpg",
+  "img/22.jpg"
+ ],
+ "hours_display": [
+  "Open 24 hours",
+  "Open 24 hours",
+  "Open 24 hours",
+  "Open 24 hours",
+  "Open 24 hours",
+  "Open 24 hours",
+  "Open 24 hours"
+ ],
+ "tip": {
+  "b": "Local tip",
+  "text": "Late night, the hot counter is still going when everything else on Broad has closed. Roast beef at eleven is a Mid-City rite."
+ },
+ "getting_here": [
+  "Corner of S Broad & Banks St, Mid-City",
+  "Own lot plus street parking",
+  "Two blocks from the Broad St I-10 ramps; 5 min from the Fair Grounds"
+ ],
+ "cta_h2": "Come hungry. Banks Meat Market is waiting.",
+ "cta_dir_btn": "w",
+ "hours": [
+  [
+   [
+    0,
+    1440
+   ]
+  ],
+  [
+   [
+    0,
+    1440
+   ]
+  ],
+  [
+   [
+    0,
+    1440
+   ]
+  ],
+  [
+   [
+    0,
+    1440
+   ]
+  ],
+  [
+   [
+    0,
+    1440
+   ]
+  ],
+  [
+   [
+    0,
+    1440
+   ]
+  ],
+  [
+   [
+    0,
+    1440
+   ]
+  ]
+ ],
+ "popular_times": {
+  "0": [
+   [
+    4,
+    20
+   ],
+   [
+    5,
+    30
+   ],
+   [
+    6,
+    42
+   ],
+   [
+    7,
+    47
+   ],
+   [
+    8,
+    49
+   ],
+   [
+    9,
+    54
+   ],
+   [
+    10,
+    61
+   ],
+   [
+    11,
+    68
+   ],
+   [
+    12,
+    72
+   ],
+   [
+    13,
+    73
+   ],
+   [
+    14,
+    78
+   ],
+   [
+    15,
+    78
+   ],
+   [
+    16,
+    81
+   ],
+   [
+    17,
+    83
+   ],
+   [
+    18,
+    86
+   ],
+   [
+    19,
+    76
+   ],
+   [
+    20,
+    68
+   ],
+   [
+    21,
+    61
+   ],
+   [
+    22,
+    53
+   ],
+   [
+    23,
+    40
+   ],
+   [
+    0,
+    23
+   ],
+   [
+    1,
+    14
+   ],
+   [
+    2,
+    11
+   ],
+   [
+    3,
+    12
+   ]
+  ],
+  "1": [
+   [
+    4,
+    33
+   ],
+   [
+    5,
+    35
+   ],
+   [
+    6,
+    38
+   ],
+   [
+    7,
+    39
+   ],
+   [
+    8,
+    47
+   ],
+   [
+    9,
+    52
+   ],
+   [
+    10,
+    65
+   ],
+   [
+    11,
+    64
+   ],
+   [
+    12,
+    71
+   ],
+   [
+    13,
+    66
+   ],
+   [
+    14,
+    66
+   ],
+   [
+    15,
+    69
+   ],
+   [
+    16,
+    78
+   ],
+   [
+    17,
+    83
+   ],
+   [
+    18,
+    79
+   ],
+   [
+    19,
+    71
+   ],
+   [
+    20,
+    66
+   ],
+   [
+    21,
+    60
+   ],
+   [
+    22,
+    52
+   ],
+   [
+    23,
+    46
+   ],
+   [
+    0,
+    31
+   ],
+   [
+    1,
+    22
+   ],
+   [
+    2,
+    18
+   ],
+   [
+    3,
+    23
+   ]
+  ],
+  "2": [
+   [
+    4,
+    21
+   ],
+   [
+    5,
+    28
+   ],
+   [
+    6,
+    36
+   ],
+   [
+    7,
+    48
+   ],
+   [
+    8,
+    55
+   ],
+   [
+    9,
+    59
+   ],
+   [
+    10,
+    66
+   ],
+   [
+    11,
+    69
+   ],
+   [
+    12,
+    73
+   ],
+   [
+    13,
+    73
+   ],
+   [
+    14,
+    71
+   ],
+   [
+    15,
+    66
+   ],
+   [
+    16,
+    68
+   ],
+   [
+    17,
+    70
+   ],
+   [
+    18,
+    76
+   ],
+   [
+    19,
+    72
+   ],
+   [
+    20,
+    73
+   ],
+   [
+    21,
+    76
+   ],
+   [
+    22,
+    74
+   ],
+   [
+    23,
+    58
+   ],
+   [
+    0,
+    34
+   ],
+   [
+    1,
+    20
+   ],
+   [
+    2,
+    16
+   ],
+   [
+    3,
+    17
+   ]
+  ],
+  "3": [
+   [
+    4,
+    20
+   ],
+   [
+    5,
+    23
+   ],
+   [
+    6,
+    29
+   ],
+   [
+    7,
+    37
+   ],
+   [
+    8,
+    46
+   ],
+   [
+    9,
+    54
+   ],
+   [
+    10,
+    62
+   ],
+   [
+    11,
+    69
+   ],
+   [
+    12,
+    70
+   ],
+   [
+    13,
+    68
+   ],
+   [
+    14,
+    71
+   ],
+   [
+    15,
+    76
+   ],
+   [
+    16,
+    80
+   ],
+   [
+    17,
+    79
+   ],
+   [
+    18,
+    74
+   ],
+   [
+    19,
+    69
+   ],
+   [
+    20,
+    70
+   ],
+   [
+    21,
+    71
+   ],
+   [
+    22,
+    61
+   ],
+   [
+    23,
+    50
+   ],
+   [
+    0,
+    34
+   ],
+   [
+    1,
+    27
+   ],
+   [
+    2,
+    22
+   ],
+   [
+    3,
+    19
+   ]
+  ],
+  "4": [
+   [
+    4,
+    29
+   ],
+   [
+    5,
+    35
+   ],
+   [
+    6,
+    40
+   ],
+   [
+    7,
+    44
+   ],
+   [
+    8,
+    51
+   ],
+   [
+    9,
+    61
+   ],
+   [
+    10,
+    68
+   ],
+   [
+    11,
+    73
+   ],
+   [
+    12,
+    83
+   ],
+   [
+    13,
+    78
+   ],
+   [
+    14,
+    86
+   ],
+   [
+    15,
+    88
+   ],
+   [
+    16,
+    99
+   ],
+   [
+    17,
+    97
+   ],
+   [
+    18,
+    100
+   ],
+   [
+    19,
+    98
+   ],
+   [
+    20,
+    96
+   ],
+   [
+    21,
+    92
+   ],
+   [
+    22,
+    81
+   ],
+   [
+    23,
+    66
+   ],
+   [
+    0,
+    47
+   ],
+   [
+    1,
+    34
+   ],
+   [
+    2,
+    24
+   ],
+   [
+    3,
+    25
+   ]
+  ],
+  "5": [
+   [
+    4,
+    20
+   ],
+   [
+    5,
+    23
+   ],
+   [
+    6,
+    31
+   ],
+   [
+    7,
+    42
+   ],
+   [
+    8,
+    50
+   ],
+   [
+    9,
+    53
+   ],
+   [
+    10,
+    57
+   ],
+   [
+    11,
+    62
+   ],
+   [
+    12,
+    67
+   ],
+   [
+    13,
+    70
+   ],
+   [
+    14,
+    73
+   ],
+   [
+    15,
+    80
+   ],
+   [
+    16,
+    80
+   ],
+   [
+    17,
+    83
+   ],
+   [
+    18,
+    84
+   ],
+   [
+    19,
+    86
+   ],
+   [
+    20,
+    92
+   ],
+   [
+    21,
+    94
+   ],
+   [
+    22,
+    89
+   ],
+   [
+    23,
+    78
+   ],
+   [
+    0,
+    54
+   ],
+   [
+    1,
+    42
+   ],
+   [
+    2,
+    30
+   ],
+   [
+    3,
+    25
+   ]
+  ],
+  "6": [
+   [
+    4,
+    22
+   ],
+   [
+    5,
+    28
+   ],
+   [
+    6,
+    33
+   ],
+   [
+    7,
+    35
+   ],
+   [
+    8,
+    38
+   ],
+   [
+    9,
+    43
+   ],
+   [
+    10,
+    52
+   ],
+   [
+    11,
+    58
+   ],
+   [
+    12,
+    66
+   ],
+   [
+    13,
+    64
+   ],
+   [
+    14,
+    65
+   ],
+   [
+    15,
+    63
+   ],
+   [
+    16,
+    67
+   ],
+   [
+    17,
+    71
+   ],
+   [
+    18,
+    79
+   ],
+   [
+    19,
+    83
+   ],
+   [
+    20,
+    84
+   ],
+   [
+    21,
+    77
+   ],
+   [
+    22,
+    69
+   ],
+   [
+    23,
+    53
+   ],
+   [
+    0,
+    36
+   ],
+   [
+    1,
+    28
+   ],
+   [
+    2,
+    23
+   ],
+   [
+    3,
+    19
+   ]
+  ]
+ }
+}
