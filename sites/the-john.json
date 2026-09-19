@@ -107,7 +107,7 @@
   {
    "img": "img/07.jpg",
    "name": "The Hennessy Margarita",
-   "blurb": "The drink they specialise in, poured out into three at a time. A reviewer called it very tasty and powerful, in that order."
+   "blurb": "The drink they specialize in, poured out into three at a time. A reviewer called it very tasty and powerful, in that order."
   },
   {
    "img": "img/12.jpg",
@@ -195,7 +195,7 @@
  "reviews": [
   {
    "stars": "★★★★☆",
-   "text": "“Great spot with nice atmosphere and plenty of space. One of the drinks they specialize in is the very tasty and powerful \"Hennessy Margarita\". More”",
+   "text": "“Great spot with nice atmosphere and plenty of space. One of the drinks they specialize in is the very tasty and powerful \"Hennessy Margarita\".”",
    "who": "walter drew · Google"
   }
  ],

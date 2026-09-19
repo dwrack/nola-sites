@@ -98,7 +98,7 @@
   "Open 3pm to 3am, seven days a week",
   "Named shot-and-beer pairings, Louisiana beer, a real amaro shelf",
   "Patio out front, dogs welcome, water bowls go out for them",
-  "Women-owned and LGBTQ+ friendly, per the Google profile",
+  "Women-owned, and LGBTQ+ friendly",
   "Wheelchair accessible seating, restroom and parking lot"
  ],
  "address_display": "949 N Rendon, New Orleans, LA 70119",
@@ -187,7 +187,7 @@
  },
  "quote": {
   "img": "img/03.jpg",
-  "text": "“More of a nice neighborhood bar. Drink prices are very affordable. Bartenders are friendly. Nice outdoor seating also available. They put out water for dogs too.”",
+  "text": "“Top tier dive. A bit a nicer bar than usual dives. More of a nice neighborhood bar. Drink prices are very affordable. Bartenders are friendly. Nice outdoor seating also available. They put out water for dogs too.”",
   "cite": "Google review · 4.6 stars from 709 reviews"
  },
  "review_count_display": "709",
@@ -203,17 +203,17 @@
  "reviews": [
   {
    "stars": "★★★★★",
-   "text": "“The best spot to stop in for a shot and beer. Love the creative names. Think it was the Nightman that we had. Great pairing of See the Elephant Amaro and Gnarly Barley Korova Milk Porter. Definitely will be back. More”",
+   "text": "“The best spot to stop in for a shot and beer. Love the creative names. Think it was the Nightman that we had. Great pairing of See the Elephant Amaro and Gnarly Barley Korova Milk Porter. Definitely will be back.”",
    "who": "Kyle Harder · Google"
   },
   {
    "stars": "★★★★★",
-   "text": "“Top tier dive. A bit a nicer bar than usual dives. More of a nice neighborhood bar. Drink prices are very affordable. Bar tenders are friendly. Nice Outdoor seating also available. They put out water for dogs too 🥰 … More”",
+   "text": "“Top tier dive. A bit a nicer bar than usual dives. More of a nice neighborhood bar. Drink prices are very affordable. Bar tenders are friendly. Nice Outdoor seating also available. They put out water for dogs too 🥰 …”",
    "who": "Sedonia Perrier · Google"
   },
   {
    "stars": "★★★★★",
-   "text": "“T'was beneath occult moons, mayhaps 10 years to the day, I entered the nest of pleasures at Pal's Lounge. Greeted by the ache of lingering regret, beverages were summoned and a table bore the weight of our expectations. … More”",
+   "text": "“T'was beneath occult moons, mayhaps 10 years to the day, I entered the nest of pleasures at Pal's Lounge. Greeted by the ache of lingering regret, beverages were summoned and a table bore the weight of our expectations. …”",
    "who": "THE MOUTH · Google"
   }
  ],
@@ -282,7 +282,7 @@
  "popular_times": {},
  "tip": {
   "b": "Local tip",
-  "text": "Get there at three when the doors open and take the corner table on the patio. By nine this is the busiest bar in Bayou St. John and that table is long gone."
+  "text": "Get there at three when the doors open and take the corner table on the patio. It fills up from early evening and that table is the first one gone."
  },
  "getting_here": [
   "949 N Rendon St, Bayou St. John, walking distance from the bayou itself",

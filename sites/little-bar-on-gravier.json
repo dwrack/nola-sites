@@ -64,7 +64,7 @@
  "stars": "★★★★☆",
  "hero": {
   "kicker": "Neighborhood bar · 510 Gravier St, CBD",
-  "headline": "A CBD bar with PBR on tap, video poker in the back, and a dog at the end of the bar.",
+  "headline": "A CBD bar with PBR on tap, video poker in the back, and a dog at the bar.",
   "sub": "Open from eleven in the morning until two, three on weekends, on a block of Gravier that empties out after five. Reviewers remember the bartenders by name, which tells you what kind of room it is.",
   "dir_btn": "w"
  },
@@ -179,7 +179,7 @@
  },
  "quote": {
   "img": "img/05.jpg",
-  "text": "“Just a real good, low-key neighborhood dive bar. Bartender was great. They have PBR on tap, and for me, that's a good thing.”",
+  "text": "“Just a real good, low-key neighborhood dive bar. Bartender was great, however I didn't get her name. They have PBR on tap, and for me, that's a good thing!”",
   "cite": "Google review · 4.8 stars from 415 reviews"
  },
  "review_count_display": "415",
@@ -195,17 +195,17 @@
  "reviews": [
   {
    "stars": "★★★★★",
-   "text": "“Favorite district bar! Shannon is amazing and makes you feel right at home immediately! Great cocktails & a fun time! More”",
+   "text": "“Favorite district bar! Shannon is amazing and makes you feel right at home immediately! Great cocktails & a fun time!”",
    "who": "Amy Houston · Google"
   },
   {
    "stars": "★★★★★",
-   "text": "“Just a real good, low-key neighborhood dive bar. Bartender was great, however I didn't get her name. They have PBR on tap, and for me, that's a good thing! They also had the World Cup on a few of their TVs. We'll be back. More”",
+   "text": "“Just a real good, low-key neighborhood dive bar. Bartender was great, however I didn't get her name. They have PBR on tap, and for me, that's a good thing! They also had the World Cup on a few of their TVs. We'll be back.”",
    "who": "Gregory MacDonald · Google"
   },
   {
    "stars": "★★★★★",
-   "text": "“Had a beer and good conversation with the bartender. 20 bucks in the slot machine in the back and hit max bet 1 time, paid 80 bucks... The guard dawg was cool at the end of the bar and never said a mumbling word ! More”",
+   "text": "“Had a beer and good conversation with the bartender. 20 bucks in the slot machine in the back and hit max bet 1 time, paid 80 bucks... The guard dawg was cool at the end of the bar and never said a mumbling word !”",
    "who": "T T · Google"
   }
  ],
@@ -278,7 +278,7 @@
  },
  "getting_here": [
   "510 Gravier St in the CBD, walking distance from the Canal Street hotels",
-  "Street parking loosens up after 6pm, and there is a garage within a couple of blocks"
+  "Street parking loosens up after 6pm once the offices empty out"
  ],
  "cta_h2": "Open at eleven. The dog is already there.",
  "cta_dir_btn": "g",

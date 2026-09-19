@@ -64,8 +64,8 @@
  "stars": "★★★★☆",
  "hero": {
   "kicker": "Sno-balls, smoothees & po-boys · 4313 Elysian Fields Ave, Gentilly",
-  "headline": "Sno-balls on Elysian Fields, open year round when every other stand in town shuts for winter.",
-  "sub": "Rainbow sno-balls with condensed milk over the top, smoothees, nachos, hot plates and wings from a stand that does not close in January. Ten to seven, every single day.",
+  "headline": "Sno-balls on Elysian Fields, open in January the same as in July.",
+  "sub": "Rainbow sno-balls with condensed milk over the top, smoothees, nachos, hot plates and wings from a stand that does not board up for the winter. Ten to seven, every single day.",
   "dir_btn": "w"
  },
  "stats": [
@@ -90,7 +90,7 @@
   "kicker": "Gentilly",
   "h2": "New Orleans Snowball",
   "paragraphs": [
-   "The sign across the front says NEW ORLEANS SNOBALL SMOOTHEE PO-BOY and the banner under it says OPEN YEAR ROUND, which in this city is the whole argument. Most sno-ball stands board up in October and reopen when it warms back up. This one on Elysian Fields runs ten to seven, seven days a week, in January the same as in July.",
+   "The sign across the front says NEW ORLEANS SNOBALL SMOOTHEE PO-BOY and the banner under it says OPEN YEAR ROUND, which in this city is the whole argument. Sno-ball stands are a seasonal business and plenty of them board up when it cools off. This one on Elysian Fields runs ten to seven, seven days a week, in January the same as in July.",
    "It is also considerably more than a sno-ball stand. The pylon sign out by the road lists hot plates, po-boys, seafood, wings and catering, and the review photos back every bit of that up: nachos buried under jalapeños, plates of hot food, and a smoothee thick enough to hold the straw upright. The sno-balls run to the full rainbow, and the move people keep writing about is asking for condensed milk over the top."
   ]
  },
@@ -107,7 +107,7 @@
   {
    "img": "img/03.jpg",
    "name": "The Rainbow Sno-Ball",
-   "blurb": "Every flavour at once in one cup. Ask for condensed milk over the top, which is the part regulars write about."
+   "blurb": "Every flavor at once in one cup. Ask for condensed milk over the top, which is the part regulars write about."
   },
   {
    "img": "img/09.jpg",
@@ -208,7 +208,7 @@
   },
   {
    "stars": "★★★★★",
-   "text": "“Sweet staff to greet me, worth tipping! No line , just easy order. & food was out in 10 Have a nice outside patio to sit out … More”",
+   "text": "“Sweet staff to greet me, worth tipping! No line , just easy order. & food was out in 10 Have a nice outside patio to sit out …”",
    "who": "Terri Lacombe · Google"
   }
  ],
@@ -277,7 +277,7 @@
  "popular_times": {},
  "tip": {
   "b": "Local tip",
-  "text": "Come in winter. Every other sno-ball stand in the city is shut and this one is not, which is the single best reason to know it is here."
+  "text": "Come in winter. Their own banner says OPEN YEAR ROUND and that is the whole reason to know this place is here, because most stands in this city are seasonal."
  },
  "getting_here": [
   "4313 Elysian Fields Ave in Gentilly, out on the way toward the lake",
