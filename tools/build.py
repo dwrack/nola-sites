@@ -72,13 +72,15 @@ def render(d):
     order = "".join(f"<article class='rv'><img src='{o['img']}' alt='{e(o['name'])}'><div class='b'><span class='num'>No. {i:02d}</span><h3>{e(o['name'])}</h3><p>{e(o['blurb'])}</p></div></article>" for i, o in enumerate(d["order"], 1))
     menu = "".join("<div class='mcol rv'><h3>" + e(c["h3"]) + "</h3><ul>" + "".join(f"<li><span>{e(it['name'])}</span><i></i><b>{e(it['price'])}</b></li>" for it in c["items"]) + "</ul></div>" for c in d["menu"]["cols"])
     total = sum(d["breakdown"]) or 1
-    bars = "".join(f"<div class='bar'><span>{5-i}</span><i><b style='--w:{c/total*100:.1f}%'></b></i><em>{c:,}</em></div>" for i, c in enumerate(d["breakdown"]))
+    bars = "" if not d["breakdown"] else "".join(f"<div class='bar'><span>{5-i}</span><i><b style='--w:{c/total*100:.1f}%'></b></i><em>{c:,}</em></div>" for i, c in enumerate(d["breakdown"]))
     cloud = "".join(f"<span style='--s:{c['s']}' title='{c['mentions']} mentions'>{e(c['term'])}</span>" for c in d["cloud"])
     reviews = "".join(f"<div class='rev rv'><div class='stars'>{r['stars']}</div><p>{e(r['text'])}</p><small>{e(r['who'])}</small></div>" for r in d["reviews"])
     gallery = "".join(f"<a href='{g}' class='lb'><img src='{g}' alt='{N}'></a>" for g in d["gallery"])
     hours_rows = "\n".join(f"<tr data-day='{i}'><td>{DAYS[i]}</td><td>{e(h)}</td></tr>" for i, h in enumerate(d["hours_display"]))
     gh = "".join(f"<li>{e(x)}</li>" for x in d["getting_here"])
     seal = d["seal"]
+    q = d.get("quote") or {}
+    quoteband = (f"<div class='quoteband'><div class='im'><img src='{q['img']}' alt=''></div><div class='q'><blockquote class='rv'>{e(q['text'])}</blockquote><cite class='rv'>{e(q['cite'])}</cite></div></div>\n") if q.get("text") else ""
     footer = d.get("footer_note") or f"© 2026 {N}. Photos, reviews, hours and popular times from the business's public Google profile."
     return f"""<!doctype html><html lang='en'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1,viewport-fit=cover'>
 <meta name='robots' content='noindex,nofollow'><title>{e(d['title'])}</title>
@@ -105,9 +107,8 @@ def render(d):
 <aside class='facts rv'><h3>Good to know</h3><ul>{facts}</ul><p class='addr'>{addr}</p><p class='today'><span class='status'>Checking hours…</span></p><p><a class='btn p' href='tel:{tel}'>Call {ph}</a></p><p style='margin:0'><a href='{maps_url}' target='_blank' rel='noopener'>Open in Google Maps</a> · {ig}<a href='{vcard}' download='{N}.vcf'>Save contact</a></p></aside></div></section>
 <section id='order' class='alt'><div class='wrap'><div class='kicker rv'>What to order</div><h2 class='rv'>The regulars' list</h2><div class='sig'>{order}</div></div></section>
 <section id='menu'><div class='wrap'><div class='kicker rv'>Menu</div><h2 class='rv'>Highlights & prices</h2><div class='menu'>{menu}</div><p class='menunote rv'>{e(d['menu']['note'])}</p></div></section>
-<div class='quoteband'><div class='im'><img src='{d['quote']['img']}' alt=''></div><div class='q'><blockquote class='rv'>{e(d['quote']['text'])}</blockquote><cite class='rv'>{e(d['quote']['cite'])}</cite></div></div>
-<section id='reviews'><div class='wrap'><div class='ratingblock'><div><div class='kicker'>Reviews</div><div class='big'><b>{d['rating']}</b><div><div class='stars' style='font-size:1.3rem'>{d['stars']}</div><div style='color:var(--muted)'>{e(d['review_count_display'])} public Google reviews</div></div></div><div style='margin-top:22px'>{bars}</div><p style='margin-top:22px'><a class='btn g' href='https://search.google.com/local/writereview?placeid={d['place_id']}' target='_blank' rel='noopener'>Leave a Google review</a></p></div>
-<div class='rv'><h3>{e(d['cloud_h3'])}</h3><div class='cloud'>{cloud}</div></div></div><div class='reviews'>{reviews}</div></div></section>
+{quoteband}<section id='reviews'><div class='wrap'><div class='ratingblock'><div><div class='kicker'>Reviews</div><div class='big'><b>{d['rating']}</b><div><div class='stars' style='font-size:1.3rem'>{d['stars']}</div><div style='color:var(--muted)'>{e(d['review_count_display'])} public Google reviews</div></div></div>{"<div style='margin-top:22px'>"+bars+"</div>" if bars else ""}<p style='margin-top:22px'><a class='btn g' href='https://search.google.com/local/writereview?placeid={d['place_id']}' target='_blank' rel='noopener'>Leave a Google review</a></p></div>
+{"<div class='rv'><h3>"+e(d['cloud_h3'])+"</h3><div class='cloud'>"+cloud+"</div></div>" if cloud else ""}</div><div class='reviews'>{reviews}</div></div></section>
 <section id='photos' class='alt'><div class='wrap'><div class='kicker rv'>Photos</div><h2 class='rv'>Around the place</h2><div class='mosaic'>{gallery}</div></div></section>
 <section id='visit'><div class='wrap visit'><div class='rv'><div class='kicker'>Visit</div><h2>Hours & location</h2><table>{hours_rows}</table>
 <div class='busy'><h3>Best time to come <span id='busytxt'></span></h3><div class='chart' id='chart'></div><div class='chartx' id='chartx'></div></div>

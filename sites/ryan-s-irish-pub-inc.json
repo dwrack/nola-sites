@@ -27,7 +27,7 @@
   "dark": true,
   "alt_dark": false
  },
- "title": "Ryan's Irish Pub Inc · Irish pub · New Orleans",
+ "title": "Ryan's Irish Pub · Irish pub · New Orleans",
  "description": "Bring your food in, grab a stool, and settle in. This is the Quarter's corner pub for people who actually like pubs.",
  "icon": {
   "bg": "#d9a441",
@@ -35,7 +35,7 @@
   "initials": "RS"
  },
  "schema_type": "Restaurant",
- "name": "Ryan's Irish Pub Inc",
+ "name": "Ryan's Irish Pub",
  "phone_e164": "+15045233500",
  "phone_schema": "+1504-523-3500",
  "address": {
@@ -87,7 +87,7 @@
  ],
  "story": {
   "kicker": "French Quarter",
-  "h2": "Ryan's Irish Pub Inc",
+  "h2": "Ryan's Irish Pub",
   "paragraphs": [
    "Ryan's sits on the corner of Decatur and Iberville, three blocks from Jackson Square and a world away from the daiquiri machines. Sixteen beers on tap, a wall of bottles, a full bar, and a proper pour of Guinness. The floor is old tile, the bar is old wood, and the bathrooms are, reviewers keep noting with some surprise, clean.",
    "There is no kitchen, and that is the point. Order from anywhere in the Quarter and bring it in. The TVs carry the NFL, NHL, and MLB packages plus soccer, golf, racing, and whatever else is on. On a Saturday in the fall it is loud in the best way."
@@ -304,7 +304,7 @@
   "Riverfront streetcar at Canal/Bienville, 2 min walk",
   "Paid lots on Iberville and N Peters; street parking is a gamble"
  ],
- "cta_h2": "Come hungry. Ryan's Irish Pub Inc is waiting.",
+ "cta_h2": "Come hungry. Ryan's Irish Pub is waiting.",
  "cta_dir_btn": "g",
  "hours": [
   [
