@@ -1,0 +1,494 @@
+{
+ "slug": "vic-s-kangaroo-cafe",
+ "theme": {
+  "colors": {
+   "--bg": "#0f1a14",
+   "--bg2": "#15241c",
+   "--ink": "#f1ecdd",
+   "--muted": "#a8b3a5",
+   "--acc": "#d9a441",
+   "--acc2": "#8fb996",
+   "--accink": "#0f1a14",
+   "--card": "#1a2b22",
+   "--r": "4px",
+   "--band-ink": "var(--ink)"
+  },
+  "font_link": "Playfair+Display:ital,wght@0,600;0,700;1,600",
+  "font_stack": "'Playfair Display', Georgia, serif",
+  "h1": "font-size:clamp(2.4rem,5.6vw,4.6rem);font-weight:600;letter-spacing:-.01em;line-height:1.05",
+  "h2_weight": "600",
+  "h3_weight": "600",
+  "brand_weight": "600",
+  "stat_weight": "600",
+  "num_weight": "600",
+  "quote_weight": "600",
+  "big_weight": "600",
+  "cloud_weight": "600",
+  "dark": true,
+  "alt_dark": false
+ },
+ "theme_from": "ryan-s-irish-pub-inc",
+ "title": "Vic's Kangaroo Cafe · Warehouse District Australian pub · New Orleans",
+ "description": "Australian dive bar on Tchoupitoulas. Fifteen brews on tap, shepherd's pie, a jukebox, and red umbrellas on the sidewalk.",
+ "icon": {
+  "bg": "#d9a441",
+  "fg": "#0f1a14",
+  "initials": "VK"
+ },
+ "schema_type": "BarOrPub",
+ "name": "Vic's Kangaroo",
+ "phone_e164": "+15045244329",
+ "phone_schema": "+1504-524-4329",
+ "address": {
+  "streetAddress": "636 Tchoupitoulas St",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70130"
+ },
+ "geo": {
+  "lat": 29.9467264,
+  "lng": -90.0671415
+ },
+ "hero_img": "img/09.jpg",
+ "category": "Bar",
+ "rating": 4.5,
+ "review_count": 341,
+ "cid": "11441889457153076011",
+ "place_id": "ChIJ0WVlSHKmIIYRK2vl7NbByZ4",
+ "phone_display": "(504) 524-4329",
+ "seal": {
+  "tag": "Warehouse District",
+  "center": "VK",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "Australian pub, fifteen taps & a jukebox · 636 Tchoupitoulas St, Warehouse District",
+  "headline": "An Australian dive bar that has held this block of Tchoupitoulas for thirty-five years, dimly lit and fifteen taps deep.",
+  "sub": "Coopers and Victoria Bitter in the cooler, Guinness on draught, and pub grub out of a small kitchen. The vintage Foster's posters on the wall have been hanging long enough to fade.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "4.5",
+   "label": "stars on Google"
+  },
+  {
+   "count": "341",
+   "label": "Google reviews"
+  },
+  {
+   "count": "243",
+   "label": "of them five stars"
+  },
+  {
+   "count": "15",
+   "label": "brews on tap"
+  }
+ ],
+ "story": {
+  "kicker": "Warehouse District",
+  "h2": "Vic's Kangaroo Cafe",
+  "paragraphs": [
+   "Vic's hung a kangaroo on a round sign over 636 Tchoupitoulas and painted the building deep blue and lime green, which in the Warehouse District means you cannot miss it and cannot mistake it for anything else. A yellow kangaroo crossing sign is bolted to the wall, a hand painted G'DAY banner runs across the window, and red and green umbrellas shade the sidewalk tables. Inside it goes dark fast: a long wooden bar down one side, paper lanterns and string lights overhead, a Scottish lion rampant flag hanging off the ceiling joists, and a jukebox glowing at the back.",
+   "The wall behind the bar is thirty-five years of Foster's and Guinness advertising, the old toucan and the My Goodness My Guinness kangaroo among them, next to a framed map of Australia and a handwritten sign about the ten dollar minimum on tabs. Fifteen brews run on the taps, Coopers and Victoria Bitter sit in the cooler, and the kitchen turns out pub grub: shepherd's pie made with actual lamb, jambalaya in a paper boat, pizza. Dogs are allowed, outside food is allowed, and reviewers name the bartenders more often than they name the beer."
+  ]
+ },
+ "facts": [
+  "Fifteen brews on tap, plus cocktails, wine and hard liquor",
+  "Sidewalk tables under the umbrellas, and outside food is allowed",
+  "Jukebox, video poker, arcade games and sports on the TV",
+  "Dogs allowed, groups welcome, reservations accepted",
+  "Wheelchair accessible entrance and restroom, free street parking, cards accepted"
+ ],
+ "address_display": "636 Tchoupitoulas St, New Orleans, LA 70130",
+ "instagram": null,
+ "order": [
+  {
+   "img": "img/14.jpg",
+   "name": "A Pint of Guinness",
+   "blurb": "Poured and settled under a wall of vintage Guinness posters. The toucan up there has been making the same argument for decades."
+  },
+  {
+   "img": "img/02.jpg",
+   "name": "A Coopers From the Cooler",
+   "blurb": "Coopers Original Pale Ale out of Adelaide, with the Foster's cases stacked behind the bar. The most Australian thing on the list."
+  },
+  {
+   "img": "img/04.jpg",
+   "name": "Jambalaya in a Paper Boat",
+   "blurb": "The New Orleans half of the kitchen, handed over on a paper plate with a plastic fork. Nobody here is putting on airs."
+  },
+  {
+   "img": "img/07.jpg",
+   "name": "Whatever Is On the Fifteen",
+   "blurb": "Abita sits next to the imports and the handles move around. Ask what is pouring and take the bartender's word for it."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "On Tap",
+    "items": [
+     {
+      "name": "Guinness Draught",
+      "price": ""
+     },
+     {
+      "name": "Abita Amber",
+      "price": ""
+     },
+     {
+      "name": "Rotating local drafts",
+      "price": ""
+     },
+     {
+      "name": "Fifteen handles in all",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "Australian",
+    "items": [
+     {
+      "name": "Coopers Original Pale Ale",
+      "price": ""
+     },
+     {
+      "name": "Victoria Bitter",
+      "price": ""
+     },
+     {
+      "name": "Foster's Lager",
+      "price": ""
+     },
+     {
+      "name": "Cans and bottles in the cooler",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "From the Kitchen",
+    "items": [
+     {
+      "name": "Shepherd's pie, made with lamb",
+      "price": ""
+     },
+     {
+      "name": "Jambalaya",
+      "price": ""
+     },
+     {
+      "name": "Pizza",
+      "price": ""
+     },
+     {
+      "name": "Pub grub, at the bar",
+      "price": ""
+     }
+    ]
+   }
+  ],
+  "note": "Vic's does not post a menu online. This is what the taps, the cooler and the review photos show, so ask for the current list when you get there. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "img/13.jpg",
+  "text": "“Great customer service, friendly bartender, and speedy service! It's a little ducked off hole in the wall, in my opinion, due to the decor and location.”",
+  "cite": "Google review · 4.5 stars from 341 reviews"
+ },
+ "review_count_display": "341",
+ "breakdown": [
+  243,
+  55,
+  30,
+  3,
+  10
+ ],
+ "cloud": [],
+ "cloud_h3": "What 341 people keep mentioning",
+ "reviews": [
+  {
+   "stars": "★★★★★",
+   "text": "“Sat for a brew and chatted with the bartended/ manager. Super friendly and great chill spot …”",
+   "who": "Rena Trapani · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“Great customer service, friendly bartender, and speedy service! It’s a little ducked off hole in the wall, in my opinion due to the decor and location. I would definitely visit again in the near future. There is also outside seating with …”",
+   "who": "DS., D · Google"
+  }
+ ],
+ "gallery": [
+  "img/10.jpg",
+  "img/03.jpg",
+  "img/06.jpg",
+  "img/13.jpg",
+  "img/11.jpg",
+  "img/02.jpg",
+  "img/07.jpg"
+ ],
+ "hours_display": [
+  "5pm – 4am",
+  "5pm – 4am",
+  "5pm – 4am",
+  "5pm – 4am",
+  "11am – 5am",
+  "11am – 5am",
+  "11am – 4am"
+ ],
+ "hours": [
+  [
+   [
+    1020,
+    1680
+   ]
+  ],
+  [
+   [
+    1020,
+    1680
+   ]
+  ],
+  [
+   [
+    1020,
+    1680
+   ]
+  ],
+  [
+   [
+    1020,
+    1680
+   ]
+  ],
+  [
+   [
+    660,
+    1740
+   ]
+  ],
+  [
+   [
+    660,
+    1740
+   ]
+  ],
+  [
+   [
+    660,
+    1680
+   ]
+  ]
+ ],
+ "popular_times": {},
+ "tip": {
+  "b": "Local tip",
+  "text": "Take a sidewalk table under the red umbrellas while it is still light, then move inside once the lanterns come on. Saturday runs until five in the morning, which is later than almost anything else in the Warehouse District."
+ },
+ "getting_here": [
+  "636 Tchoupitoulas St in the Warehouse District, between Lafayette and Girod, a short walk from the Convention Center",
+  "Free street parking on the surrounding blocks, plus metered spots on Tchoupitoulas out front"
+ ],
+ "cta_h2": "Fifteen taps, a jukebox, and a kangaroo over the door.",
+ "cta_dir_btn": "g",
+ "_source": {
+  "website": null,
+  "maps": "https://maps.google.com/?cid=11441889457153076011",
+  "status": "OPERATIONAL",
+  "price": null,
+  "summary": null,
+  "photos": [
+   {
+    "file": "img/01.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlBJXu5UrSUXYSUcFABOGmaYYGpe9WvtWATJRKVP9uCFpPe4kbkgv4DpNTJIwTPdrC9kcuPjTeZmd0P4Ks4SSVMINjlcj2XVQXLAfMv7NxfqhhDZaCCIAKf2WihoPQ667BVAucbC6Erf_x7",
+    "by": ""
+   },
+   {
+    "file": "img/02.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlKZM_l_B3ZJLdUVwM2J7Wa3ziVY7oepkdGb0HQ_AEOZFLtniGsgR84EMyX6xuXoxH8Ix4kzTaN0bEv0gCbTFeURwKrt2gkiZnizUztIbLmc3pIKlS-2kevpjqRqKY3g7EJUCC6RQ",
+    "by": ""
+   },
+   {
+    "file": "img/03.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnLj6jXToy5TNyqHuwFSb1G34fykWX3G1uzPMIogVuWjooYFgtVFlgXBu4KPXLcdIUoucyHAXytrezz1jKrAqVczQZd4EbQAeG7-_oCDRIo6GwmY6Z7lQjB86baKJ4CIKYFzAeH3GdUX7A",
+    "by": ""
+   },
+   {
+    "file": "img/04.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlP-PuuDEezrD_aHEZLd06fSh_It6Asa46rFrXffpDhigHFh2oOSJhOpWpURVCp3mirr41hloMOxU8IaUpG_WC6NEUh7F9D0iTOCyKF_C00CPv2woYuyMifVNTpoRXXxjtQk1jxZzWhpu8v",
+    "by": ""
+   },
+   {
+    "file": "img/05.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkRu5VNViccwuyA4MQx5u0nHTMqLlNaBF0QGRvdYYY3Qdnx_YvrvbeMq1bMXbJDeNjIuWPZ83RZAcVDwjfDdHNpDMVg0JgDGW6cnAx3So5tLSLtJQwfbiWrYU7dH0ZcW9W65A0dlLF97XJS",
+    "by": ""
+   },
+   {
+    "file": "img/06.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnzjefbO8oeUxf1I5VpH1tUp4sjbjEwc4UjQ7oKFZWZgcdSihLCABdJup6HnoPCHF8x9hM_2ohzDMFsSTAEq1GCKH_If0HX-JfOs0XhsItPAOXaCzxE86WDD382fLGvFyNiR7QJQPg6HZpw",
+    "by": ""
+   },
+   {
+    "file": "img/07.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn_wAQboLCGhvmzMkI9e-8cyNElrW--jhfVZ8g-bmZkqsCIYJLFSzvFMiEchbssrSXkYfNlP-8oY2b5qjDykIYy5gAN99q3M00UFlzN7bMUUHKIJbW7RiBWd9GseeZiRlj-2_PeXZWJ7z-0",
+    "by": ""
+   },
+   {
+    "file": "img/08.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkZ_rVuZxFj2IlgpM2lUC_FoTe3GcnbZ37Afgttnk59TkgDpWYHCwVUdS07GJaryspFxbsaBnuuyh5GHu9YzG2xaEdh4r2vAtJ2etPJFTMm3qz4Px0rdzXW6RG8OhI9UHtydMcsxQpwgnE",
+    "by": ""
+   },
+   {
+    "file": "img/09.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmKFbgre2JlB-K3J0ehMGuxIgqu2-V2oit5dmPjUPN-fbLC7HmdSkDIExLEm01IZorewmJqPnylsRStYIafi-LjPqArYY47Zx_wFx2lWUC5Z1v8Jb6uFaAEDGXBv904CNiz9bvQ",
+    "by": ""
+   },
+   {
+    "file": "img/10.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWleUkc6HMnTWhVZSaaoKhXVDH9PSmGeAx2cUY0qgfrAmpuAnFvZESWYxRi0SSC4OfkvWboJor3zB4o9lZt9mLMUXKiwPbCJL0Kk0_bb2FYNsABXD3I_U2V9e9qwRMdwO1yaErUh",
+    "by": ""
+   },
+   {
+    "file": "img/11.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWngHb9ZdmBqP5mtUxZbjGj0Ko9i2XNd1JhO7es-OCcLP6Iu44Oo8XM7BW6iWEKObFC6Y95Qy_VgXmGVR2Ch10hssdBzt9TRibW2wpWp0DCGG-K5vJj1K5QmJgNqAdTbpEnQnI5wWw",
+    "by": ""
+   },
+   {
+    "file": "img/12.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnvPkcV3_yPQGY5WeEPv-6gsXsH-KryNPNd5vt17XkNV0LeL5k3o1mR3PNXUy62qUEJdoUEPCDUXALKQGzPEcuFYdIMD1sWxGgoz260AzHOLPtzqkTgcAtnGeoJsSFEjpPzxUtc",
+    "by": ""
+   },
+   {
+    "file": "img/13.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmQQqPEp4M1CLGvvnPuIlWVG5ciuNZMVoxyc74y15E2zAAuAO-Sm229u7LNlljUPPWA0B2JGBQokD8lJx4wkSGcjEU564GmJjLKTIB5bRmgK8vjF24CMpb4Puwuor9dwxejlbZVIdhRFik",
+    "by": ""
+   },
+   {
+    "file": "img/14.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm4LsD_wihN5a5qubqbA0S4AwNPVwnU6H7fzLBesGpMIfxvad8G_s3sySy0nu2wHYgPdbVlIpUAUTstAa5H6TW_wwUieKj-TfZLFbTmMj4I9zyJ6M_ulyxncGVlzIFyvdRONC8GXg",
+    "by": ""
+   }
+  ],
+  "fetched": "2026-09-19",
+  "attributes": [
+   {
+    "head": "Accessibility",
+    "items": [
+     "Wheelchair accessible entrance",
+     "Wheelchair accessible restroom"
+    ]
+   },
+   {
+    "head": "Service options",
+    "items": [
+     "Outdoor seating",
+     "Takeout",
+     "Dine-in",
+     "Delivery"
+    ]
+   },
+   {
+    "head": "Highlights",
+    "items": [
+     "Bar games",
+     "Fast service",
+     "Great beer selection",
+     "Great cocktails",
+     "Sports"
+    ]
+   },
+   {
+    "head": "Popular for",
+    "items": [
+     "Solo dining"
+    ]
+   },
+   {
+    "head": "Offerings",
+    "items": [
+     "Alcohol",
+     "Arcade games",
+     "Beer",
+     "Cocktails",
+     "Dancing",
+     "Food",
+     "Food at bar",
+     "Happy hour drinks",
+     "Hard liquor",
+     "Wine"
+    ]
+   },
+   {
+    "head": "Dining options",
+    "items": [
+     "Outside food allowed",
+     "Seating",
+     "Table service"
+    ]
+   },
+   {
+    "head": "Amenities",
+    "items": [
+     "Restroom"
+    ]
+   },
+   {
+    "head": "Atmosphere",
+    "items": [
+     "Casual",
+     "Cozy"
+    ]
+   },
+   {
+    "head": "Crowd",
+    "items": [
+     "Groups"
+    ]
+   },
+   {
+    "head": "Planning",
+    "items": [
+     "Accepts reservations"
+    ]
+   },
+   {
+    "head": "Payments",
+    "items": [
+     "Credit cards",
+     "Debit cards"
+    ]
+   },
+   {
+    "head": "Parking",
+    "items": [
+     "Free street parking"
+    ]
+   },
+   {
+    "head": "Pets",
+    "items": [
+     "Dogs allowed"
+    ]
+   }
+  ],
+  "scraped_from": "https://www.google.com/maps/place/Vic's+Kangaroo+Cafe/@29.9467264,-90.0671415,17z/data=!3m1!4b1!4m6!3m5!1s0x8620a672486565d1:0x9ec9c1d6ece56b2b!8m2!3d29.9467264!4d-90.0671415!16s%2Fg%2F1tm1qv0f?hl=en&entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+  "method": "maps page scrape (Places API New not enabled)"
+ },
+ "footer_note": "© 2026 Vic's Kangaroo Cafe. Photos, reviews and ratings from the business's public Google profile. Google lists Saturday only, so the rest of the week is from published listings. Confirm with the bar."
+}
