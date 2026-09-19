@@ -1,0 +1,373 @@
+{
+ "slug": "new-orleans-snowball",
+ "theme": {
+  "colors": {
+   "--bg": "#fbf6f1",
+   "--bg2": "#f3e6dd",
+   "--ink": "#2b1f1c",
+   "--muted": "#7a6a64",
+   "--acc": "#b5485a",
+   "--acc2": "#3f5d4c",
+   "--accink": "#fff",
+   "--card": "#ffffff",
+   "--r": "18px",
+   "--band-ink": "var(--ink)"
+  },
+  "font_link": "Cormorant+Garamond:ital,wght@0,600;0,700;1,600",
+  "font_stack": "'Cormorant Garamond', Georgia, serif",
+  "h1": "font-size:clamp(2.8rem,6.2vw,5.4rem);font-weight:600;letter-spacing:-.01em;line-height:1.02",
+  "h2_weight": "600",
+  "h3_weight": "600",
+  "brand_weight": "600",
+  "stat_weight": "600",
+  "num_weight": "600",
+  "quote_weight": "600",
+  "big_weight": "600",
+  "cloud_weight": "600",
+  "dark": false,
+  "alt_dark": false
+ },
+ "theme_from": "chez-pierre-bakery-lakeview",
+ "title": "New Orleans Snowball · Sno-balls, smoothees & po-boys · New Orleans",
+ "description": "Sno-balls on Elysian Fields, open year round when every other stand in the city shuts for winter. Ten to seven, daily.",
+ "icon": {
+  "bg": "#b5485a",
+  "fg": "#fff",
+  "initials": "NO"
+ },
+ "schema_type": "Restaurant",
+ "name": "New Orleans Snowball",
+ "phone_e164": "+15043095346",
+ "phone_schema": "+1504-309-5346",
+ "address": {
+  "streetAddress": "4313 Elysian Fields Ave",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70122"
+ },
+ "geo": {
+  "lat": 30.0023197,
+  "lng": -90.0591697
+ },
+ "hero_img": "img/01.jpg",
+ "category": "Dessert shop",
+ "rating": 4.5,
+ "review_count": 627,
+ "cid": "17836780027783982559",
+ "place_id": "ChIJ_YXvYsGoIIYR363YlO74iPc",
+ "phone_display": "(504) 309-5346",
+ "seal": {
+  "tag": "Gentilly",
+  "center": "NO",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "Sno-balls, smoothees & po-boys · 4313 Elysian Fields Ave, Gentilly",
+  "headline": "Sno-balls on Elysian Fields, open year round when every other stand in town shuts for winter.",
+  "sub": "Rainbow sno-balls with condensed milk over the top, smoothees, nachos, hot plates and wings from a stand that does not close in January. Ten to seven, every single day.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "365",
+   "label": "days a year, open"
+  },
+  {
+   "count": "627",
+   "label": "Google reviews"
+  },
+  {
+   "count": "4.5",
+   "label": "stars on Google"
+  },
+  {
+   "count": "448",
+   "label": "five-star reviews"
+  }
+ ],
+ "story": {
+  "kicker": "Gentilly",
+  "h2": "New Orleans Snowball",
+  "paragraphs": [
+   "The sign across the front says NEW ORLEANS SNOBALL SMOOTHEE PO-BOY and the banner under it says OPEN YEAR ROUND, which in this city is the whole argument. Most sno-ball stands board up in October and reopen when it warms back up. This one on Elysian Fields runs ten to seven, seven days a week, in January the same as in July.",
+   "It is also considerably more than a sno-ball stand. The pylon sign out by the road lists hot plates, po-boys, seafood, wings and catering, and the review photos back every bit of that up: nachos buried under jalapeños, plates of hot food, and a smoothee thick enough to hold the straw upright. The sno-balls run to the full rainbow, and the move people keep writing about is asking for condensed milk over the top."
+  ]
+ },
+ "facts": [
+  "Open 10am to 7pm, seven days a week, all year",
+  "Sno-balls, smoothees and soft serve",
+  "Hot plates, po-boys, seafood and wings",
+  "Catering available",
+  "Patio out front to sit and eat"
+ ],
+ "address_display": "4313 Elysian Fields Ave, New Orleans, LA 70122",
+ "instagram": null,
+ "order": [
+  {
+   "img": "img/03.jpg",
+   "name": "The Rainbow Sno-Ball",
+   "blurb": "Every flavour at once in one cup. Ask for condensed milk over the top, which is the part regulars write about."
+  },
+  {
+   "img": "img/09.jpg",
+   "name": "Smoothee",
+   "blurb": "Thick enough to stand the straw up in. The other half of the sign out front, and underordered."
+  },
+  {
+   "img": "img/07.jpg",
+   "name": "Nachos",
+   "blurb": "Cheese and jalapeños on a paper plate, eaten on the patio while the sno-ball goes soft beside it."
+  },
+  {
+   "img": "img/08.jpg",
+   "name": "One of Each",
+   "blurb": "The combination nobody plans and everybody ends up with. Salt, then sweet, then back again."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "Sno-Balls",
+    "items": [
+     {
+      "name": "Rainbow",
+      "price": ""
+     },
+     {
+      "name": "Pina colada",
+      "price": ""
+     },
+     {
+      "name": "Add condensed milk",
+      "price": ""
+     },
+     {
+      "name": "Add ice cream",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "Frozen",
+    "items": [
+     {
+      "name": "Smoothees",
+      "price": ""
+     },
+     {
+      "name": "Soft serve",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "From the Kitchen",
+    "items": [
+     {
+      "name": "Po-boys",
+      "price": ""
+     },
+     {
+      "name": "Hot plates",
+      "price": ""
+     },
+     {
+      "name": "Seafood and wings",
+      "price": ""
+     },
+     {
+      "name": "Nachos",
+      "price": ""
+     }
+    ]
+   }
+  ],
+  "note": "The full board is inside and the roadside sign carries the rest. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "img/05.jpg",
+  "text": "“Great service even with a line. Amazing prices on sno-balls with delectable tastings. Easy welcome and exit as well. I had a Pina Colada with condensed milk.”",
+  "cite": "Google review · 4.5 stars from 627 reviews"
+ },
+ "review_count_display": "627",
+ "breakdown": [
+  448,
+  99,
+  32,
+  17,
+  31
+ ],
+ "cloud": [],
+ "cloud_h3": "What 627 people keep mentioning",
+ "reviews": [
+  {
+   "stars": "★★★★★",
+   "text": "“Great service even with a line. Amazing prices on sno-balls with delectable tastings. Easy welcome and exit as well. I had a Pina Colada with Condensed Milk”",
+   "who": "Jamal Roberts · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“Sweet staff to greet me, worth tipping! No line , just easy order. & food was out in 10 Have a nice outside patio to sit out … More”",
+   "who": "Terri Lacombe · Google"
+  },
+  {
+   "stars": "★★☆☆☆",
+   "text": "“Nice workers and great snowballs; however, they are charging customers a surcharge for using debit cards which is illegal. There is a sign posted which is very small that states a charge of 1.00 will be added for credit cards. A credit … More”",
+   "who": "A G · Google"
+  }
+ ],
+ "gallery": [
+  "img/02.jpg",
+  "img/04.jpg",
+  "img/05.jpg",
+  "img/06.jpg",
+  "img/10.jpg",
+  "img/03.jpg",
+  "img/09.jpg"
+ ],
+ "hours_display": [
+  "10am – 7pm",
+  "10am – 7pm",
+  "10am – 7pm",
+  "10am – 7pm",
+  "10am – 7pm",
+  "10am – 7pm",
+  "10am – 7pm"
+ ],
+ "hours": [
+  [
+   [
+    600,
+    1140
+   ]
+  ],
+  [
+   [
+    600,
+    1140
+   ]
+  ],
+  [
+   [
+    600,
+    1140
+   ]
+  ],
+  [
+   [
+    600,
+    1140
+   ]
+  ],
+  [
+   [
+    600,
+    1140
+   ]
+  ],
+  [
+   [
+    600,
+    1140
+   ]
+  ],
+  [
+   [
+    600,
+    1140
+   ]
+  ]
+ ],
+ "popular_times": {},
+ "tip": {
+  "b": "Local tip",
+  "text": "Come in winter. Every other sno-ball stand in the city is shut and this one is not, which is the single best reason to know it is here."
+ },
+ "getting_here": [
+  "4313 Elysian Fields Ave in Gentilly, out on the way toward the lake",
+  "Parking on site, and the patio is right out front"
+ ],
+ "cta_h2": "Ten to seven. Every day of the year.",
+ "cta_dir_btn": "g",
+ "_source": {
+  "website": null,
+  "maps": "https://maps.google.com/?cid=17836780027783982559",
+  "status": "OPERATIONAL",
+  "price": null,
+  "summary": null,
+  "photos": [
+   {
+    "file": "img/01.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl1SyzZo2Wl2SULXJz-XIetr31sy7BoYIK6mFeMpbEz7_VZLi60Uxnii16soAkJMopZWSgxBtEL96yu7gQ4LzeNBqVrPFBi5RzzV5uP5LWWqq8GDnjKLJ1ktdjNgIC6csRMnCz0uw",
+    "by": ""
+   },
+   {
+    "file": "img/02.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnz9y0YC8hHFFch2XN2E-fvQ3cKHg-giK772C5CPbr661j4fVsvRrm7qcf5Z5gYfAT7v0wtRiJBGAgDFtEls4kk5EA21hT4C1n4qyPl4e_e68827-kWUxx4d5fzlZOC1O4B9qtc-WCxVxg",
+    "by": ""
+   },
+   {
+    "file": "img/03.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWls-1v9Bp6qBD1SiPFAqLw8W0gOIkUKDVTvzMAHZgNIfrPfuMVdetnflJggDGhrCQdURQh8DmCHuc-zW485fh6e7UFg5y6JDNazYqpEOW4ndD1d6JG5DEJLAYRBZ3Q9Qr7CmQiO7gbYYEOD",
+    "by": ""
+   },
+   {
+    "file": "img/04.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlFGgDXF2CGdI1qMLDzEHxXl0c4y4gCyyVLHNiKgPQDU5eR4rOYdSSEMRVDxmpc-6g1i_qab5X61JJ4_4_S1ep4LtrVVav3wvPXd1zAQ-bClGK4U7Db6ZucVmYHs4J3dUEF9UCZNw",
+    "by": ""
+   },
+   {
+    "file": "img/05.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk8t4OFtmCR4a5vZBM4del8bKwaG5yipMIAuadobORW2G6n3a2zhiSJIyoOz6l4z0zpTrz3HwFxtD4TSmGz-UcKL84NJC9rheqDjyDkxisR-zSiDYcL4EPiSte783fGwus_PkJNGQ",
+    "by": ""
+   },
+   {
+    "file": "img/06.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWko0EDR2L2WZvu3vvLeiEcjpsOOzQg6gMCDbAnSaavZvSKA02a-Ymg2uKlncCF0nn4vq_YQTv97pryzoOIXXOIBFdzz4yPW4hXGcYzmJfR7v-UUTAjilzj2A7Ghpzrs0-D7jU2p",
+    "by": ""
+   },
+   {
+    "file": "img/07.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkvhs7EVlO2N3gUObcIbXHCdaiuISpxNNdK3X5brfyUzBRhJYdPKG5ALe3TKvflwIrSNLbYqFu9Frm9SdkpgxV0p4BAksf-HHhlpD7GpK0qawixMN-qKbFRlBthbUHuN6VqWp5VtA",
+    "by": ""
+   },
+   {
+    "file": "img/08.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWme30LR4bCzGT_UlIi5yUTO8Og3Z0LxlhRePQdoac7spkSZ7m4DxISnMlqM0qUf9lWAf1cy3qlZOYDg9Pntt9NOyCefIfl3aMmyY1i0U40pTrSpYuL4vT0ZOUaT22tX9YVO_q45mA",
+    "by": ""
+   },
+   {
+    "file": "img/09.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlnv3aSM3_sqEHO2oGRiwBSPtbB5cxhYyMvyxNVYXVgayCoqfkpbKTKiULQt_c-VhvNeB-BOmsX8EWGtUgT6lzquO0MdA5LrdL1LrT_xsjzOm4HJuz7k6DP2ikqKHQ4KJLr_TLb1g",
+    "by": ""
+   },
+   {
+    "file": "img/10.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnwE0s2UON_GSFza-J7cJ7We-VjrsOq0KsqI1m4NmsuSWyuWIPpyqEYuEGxUByd3t5rxVS7Eb5KcEzyBCqlhVG4IGqOyDBzJEo1mAJh_UpZzqvF-I38bakZ8Szj3MYT9dX3OHCZ",
+    "by": ""
+   }
+  ],
+  "fetched": "2026-09-19",
+  "attributes": [
+   {
+    "head": "Accessibility",
+    "items": [
+     "Wheelchair accessible parking lot"
+    ]
+   }
+  ],
+  "scraped_from": "https://www.google.com/maps/place/New+Orleans+Snowball/@30.0023197,-90.0591697,17z/data=!3m1!4b1!4m6!3m5!1s0x8620a8c162ef85fd:0xf788f8ee94d8addf!8m2!3d30.0023197!4d-90.0591697!16s%2Fg%2F1262v6rtd?hl=en&entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+  "method": "maps page scrape (Places API New not enabled)"
+ }
+}
