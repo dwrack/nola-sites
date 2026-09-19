@@ -1,0 +1,504 @@
+{
+ "slug": "b-j-s-lounge",
+ "theme": {
+  "colors": {
+   "--bg": "#0f1a14",
+   "--bg2": "#15241c",
+   "--ink": "#f1ecdd",
+   "--muted": "#a8b3a5",
+   "--acc": "#d9a441",
+   "--acc2": "#8fb996",
+   "--accink": "#0f1a14",
+   "--card": "#1a2b22",
+   "--r": "4px",
+   "--band-ink": "var(--ink)"
+  },
+  "font_link": "Playfair+Display:ital,wght@0,600;0,700;1,600",
+  "font_stack": "'Playfair Display', Georgia, serif",
+  "h1": "font-size:clamp(2.4rem,5.6vw,4.6rem);font-weight:600;letter-spacing:-.01em;line-height:1.05",
+  "h2_weight": "600",
+  "h3_weight": "600",
+  "brand_weight": "600",
+  "stat_weight": "600",
+  "num_weight": "600",
+  "quote_weight": "600",
+  "big_weight": "600",
+  "cloud_weight": "600",
+  "dark": true,
+  "alt_dark": false
+ },
+ "theme_from": "ryan-s-irish-pub-inc",
+ "title": "B J's Lounge · Bywater corner bar & music room · New Orleans",
+ "description": "A Bywater corner bar with a band in the room, free red beans on Monday nights, and a stage in the backyard.",
+ "icon": {
+  "bg": "#d9a441",
+  "fg": "#0f1a14",
+  "initials": "BJ"
+ },
+ "schema_type": "BarOrPub",
+ "name": "B J's Lounge",
+ "phone_e164": "+15049459256",
+ "phone_schema": "+1504-945-9256",
+ "address": {
+  "streetAddress": "4301 Burgundy St",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70117"
+ },
+ "geo": {
+  "lat": 29.9628386,
+  "lng": -90.0330007
+ },
+ "hero_img": "img/11.jpg",
+ "category": "Lounge bar",
+ "rating": 4.6,
+ "review_count": 388,
+ "cid": "6322551488828945749",
+ "place_id": "ChIJeVGaBtKnIIYRVTXErRQ3vlc",
+ "phone_display": "(504) 945-9256",
+ "seal": {
+  "tag": "Bywater",
+  "center": "BJ",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "Corner bar, live music & a backyard stage · 4301 Burgundy St, Bywater",
+  "headline": "The 9th Ward living room: free red beans on Monday, a band in the corner, open till four.",
+  "sub": "A white clapboard corner bar on Burgundy with a mural down the side wall and every wall inside papered in snapshots of regulars. Beer in a koozie, a pool table in the back, and a yard with a stage in it when the room fills up.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "388",
+   "label": "Google reviews"
+  },
+  {
+   "count": "4.6",
+   "label": "stars on Google"
+  },
+  {
+   "count": "4am",
+   "label": "last call, seven nights"
+  },
+  {
+   "count": "Free",
+   "label": "red beans on Mondays"
+  }
+ ],
+ "story": {
+  "kicker": "Bywater",
+  "h2": "B J's Lounge",
+  "paragraphs": [
+   "BJ's is the white clapboard corner building on Burgundy, down at the Poland Avenue end of the Bywater, with a mural of a man in a crown playing guitar painted across the side wall. The doors are green and layered in flyers. NO DOGS INSIDE is taped to the grille, ICY COLD BEERS is painted on the jamb, and there are usually a couple of bikes locked to the post out front. Inside, a hand-painted sign hangs over the room that reads BJ's, your 9th Ward Living Room, and the wall beneath it is papered floor to ceiling in snapshots of people who drink here.",
+   "Music is the whole reason. A chalkboard goes out on the sidewalk with the week written on it in colored chalk, MONDAY RED BEANS and BLUES across the top and the names underneath changing: Washboard Chaz, Jonathan Frelich, whoever is around. Monday is the big one, red beans cooked in pots behind the bar and set out free while the band plays. Out back there is a yard with its own stage and a sign that says BJ's 9th Ward Backyard, which is where the night goes when the room gets full. Pool table, video poker along the wall, and a jukebox for the nights nobody is playing."
+  ]
+ },
+ "facts": [
+  "Live music and live performances, with bar games when nobody is playing",
+  "Outdoor seating in the backyard, plus takeout and delivery",
+  "Great beer selection and great cocktails, per the Google profile highlights",
+  "Free street parking on the surrounding blocks",
+  "Credit cards, debit and tap to pay, and they take reservations"
+ ],
+ "address_display": "4301 Burgundy St, New Orleans, LA 70117",
+ "instagram": null,
+ "order": [
+  {
+   "img": "img/19.jpg",
+   "name": "An Ice Cold High Life",
+   "blurb": "What the bar runs on. Bottles out of the cooler, a plastic cup if you want one, and nobody is going to upsell you."
+  },
+  {
+   "img": "img/07.jpg",
+   "name": "Whatever Is Cold, in a Koozie",
+   "blurb": "Every bottle comes wrapped. The koozies are printed for whatever band or krewe came through last, so no two match."
+  },
+  {
+   "img": "img/16.jpg",
+   "name": "Monday Red Beans",
+   "blurb": "Cooked in the pots behind the bar and set out free while the Monday band plays. They go fast."
+  },
+  {
+   "img": "img/04.jpg",
+   "name": "A Pabst to Take Out Back",
+   "blurb": "There is a yard behind the bar with a stage in it. Carry the bottle through the door, nobody stops you."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "On Ice",
+    "items": [
+     {
+      "name": "Miller High Life",
+      "price": ""
+     },
+     {
+      "name": "Pabst Blue Ribbon",
+      "price": ""
+     },
+     {
+      "name": "Domestic bottles and cans",
+      "price": ""
+     },
+     {
+      "name": "In a koozie, always",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "Behind the Bar",
+    "items": [
+     {
+      "name": "Well cocktails",
+      "price": ""
+     },
+     {
+      "name": "Hard liquor",
+      "price": ""
+     },
+     {
+      "name": "Wine",
+      "price": ""
+     },
+     {
+      "name": "Shot and a beer back",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "Monday Nights",
+    "items": [
+     {
+      "name": "Red beans and rice",
+      "price": ""
+     },
+     {
+      "name": "Blues from the corner of the room",
+      "price": ""
+     },
+     {
+      "name": "Set out free while it lasts",
+      "price": ""
+     }
+    ]
+   }
+  ],
+  "note": "BJ's does not post a menu. This is what the bar and the review photos show, and the chalkboard out front is the real listing. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "",
+  "text": "",
+  "cite": ""
+ },
+ "review_count_display": "388",
+ "breakdown": [],
+ "cloud": [],
+ "cloud_h3": "What 388 people keep mentioning",
+ "reviews": [],
+ "gallery": [
+  "img/03.jpg",
+  "img/20.jpg",
+  "img/02.jpg",
+  "img/13.jpg",
+  "img/09.jpg",
+  "img/05.jpg",
+  "img/18.jpg",
+  "img/21.jpg"
+ ],
+ "hours_display": [
+  "1pm – 4am",
+  "1pm – 4am",
+  "1pm – 4am",
+  "1pm – 4am",
+  "1pm – 4am",
+  "1pm – 4am",
+  "1pm – 4am"
+ ],
+ "hours": [
+  [
+   [
+    780,
+    1680
+   ]
+  ],
+  [
+   [
+    780,
+    1680
+   ]
+  ],
+  [
+   [
+    780,
+    1680
+   ]
+  ],
+  [
+   [
+    780,
+    1680
+   ]
+  ],
+  [
+   [
+    780,
+    1680
+   ]
+  ],
+  [
+   [
+    780,
+    1680
+   ]
+  ],
+  [
+   [
+    780,
+    1680
+   ]
+  ]
+ ],
+ "popular_times": {},
+ "tip": {
+  "b": "Local tip",
+  "text": "Monday is the night. The red beans come out free while the band plays and they do not last, so get there before the second set."
+ },
+ "getting_here": [
+  "4301 Burgundy St in the Bywater, down toward Poland Avenue",
+  "Free street parking on the surrounding blocks, and it is a flat ride down Burgundy from the Marigny"
+ ],
+ "cta_h2": "Cold beer, a band in the corner, open till four.",
+ "cta_dir_btn": "g",
+ "_source": {
+  "website": null,
+  "maps": "https://maps.google.com/?cid=6322551488828945749",
+  "status": "OPERATIONAL",
+  "price": null,
+  "summary": null,
+  "photos": [
+   {
+    "file": "img/01.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn4dKwXeJTBzcd5BJe1NPcUDQdoKuPVQ4JTkHGP7wasGKWOyLbKdYFbACRJVy9o-XDgZ-YxTyOcXOyfrfr8bWhG6FFqaGrxicqlE9tkJuLFCdfAKmq6XX_V8mfN3ai97DC-JOrAHx5MPy0X",
+    "by": ""
+   },
+   {
+    "file": "img/02.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkfUs50SV8mJL2najltkLE0RFAPzqOrWyp4SdXkU5fyKiLhXsd1RWzNGz3i58HSoUb0aNanhuEDNA4XXBNufX6B5gcRT9tYxNAO_fPSSlN6lzc5cPHh_UKCNjO90bx6G_Ahcu-OJGhMbOO0",
+    "by": ""
+   },
+   {
+    "file": "img/03.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkVA_Vj2Omaq3F78n6hb7FCeVL6Y-I1p7H8XxLOKb6lh_4Y289TsvrdOIMn4lYpfPxUQ58VFMMQhW5D0mm7nQr48IgNvHdOCfxkriqkjKVu2KMTDaM8ARKbkKfU8xDDQSJG5dQy",
+    "by": ""
+   },
+   {
+    "file": "img/04.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkepjx3JSzsoTfgh0H0cv7Oo_k-H5JXmN0rVaZMTSsgAAXAn7PDPtky8FxvegUs2HoHQOqQCgbQN4PPFJILyP_W8o0Bn4nLpZBzjtLTDPcxwDBh_9s4fPuvu3ztaeEgkAS_M5JgIr9HzeT6",
+    "by": ""
+   },
+   {
+    "file": "img/05.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkBDW4X5MH7GZXswL3kaOacNMTe2MIWulc_eShc-BGBI3h9rpIHyyQcOhVSDQxZbwugFjOvcskAa2Nm9EnEBG659Y1weRJFgiYpaMNXe7W1Kh9snULM9CVJS7VyIsAy4cxCANnhpA",
+    "by": ""
+   },
+   {
+    "file": "img/06.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWngVoCm-fJydeqikqOoXq9QvCSo3ZRv1EEftYaXmjY_krU-4LTAjUS57qem6NGwUPMOxI4W1sWUI1d-K43Vi5yZQ1_j22QtApwts2oZL94PKpWJkgW-whdb2ks2B4HqioWj85vV",
+    "by": ""
+   },
+   {
+    "file": "img/07.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn6I5hF4z8y6TkmE9BRSy8anEPtsrcTFqNETGwAybbzR6JC1kjIHILQqQsO-bN01ufe5wY4SY1hz3Z5unHy6nIrEuQb1yh3-8uOOB8xaX7T79SFkAYNnjsFQYY2LJ-5cDuV0hLMRQ",
+    "by": ""
+   },
+   {
+    "file": "img/08.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWny9862Gr0osQDDsWr6qmxSN0K7u2TVKbZ15C7kKO7w0cuI_LWVX7zyRgGSHtlat8TzZ2hAl6IaYGO0J7xFtkZuJVNvIn31TlS4yhhkTP96PhOFuR_dFu6XPZkNHMajBR2G5_mR",
+    "by": ""
+   },
+   {
+    "file": "img/09.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnomMRkGg3slyl55hokG0iIsItHXl_w6Bcu-36n5NyV17dPf598QRQl79E6paMn8lC97cGO4ViNHgLFeHDC9LSX36gwSD4b_JJd9elRNmclELQ_2a3Y_L3ejXZkCSrY3R3nZImfq_83OCsK",
+    "by": ""
+   },
+   {
+    "file": "img/10.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnQWnI5RYZ9a420Q86Bbb-Yc0nCgoLZJwa3I11ZwHnh9WgxR08J6SFX4C-KSRAqhv2B4DvMneQKj5HYOikTpOnPfW0OZh-X6Vz_zICd1mBFrV_CtHgSIZRP5plaTAw2PNVJSSKc",
+    "by": ""
+   },
+   {
+    "file": "img/11.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm8O16gCtb8Le6bROv5lyaSDYrNhj9kMv4EVy_JNW7_2QhqfsmknundS3P-QH34CCdLFcbjeRdKN9o6namrwHs466h7QQYpVEfAYfSjeaSU1sGhtwyZB_e7gvIwB9w3F2EOcJJt",
+    "by": ""
+   },
+   {
+    "file": "img/12.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn8f2cSAW3ZXX4FWY1QuF1sK4ghnnX_6uIf5lVmq9gJYF0lKBtKmtOSGshRT7DruEWF4kosZ_oZgyW0o3fAnS_X2ZyLDHmRUDBe8Zo9Qw_UvGjBbweCn89cfWK7K8cOOcYpEPLPiDgkBc74",
+    "by": ""
+   },
+   {
+    "file": "img/13.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkE8AFOaZYPtcSoj47zlsnNntxJ3yTiupRVhsydlnvbwBXJRBEksc70yDGEJj0_FHQTqklrZ9TZZ-MwTiYiF6kne9OPnczCUaXLRSbXwFdbggCFjzigmKzVSriHjKXWntvYSvU",
+    "by": ""
+   },
+   {
+    "file": "img/14.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlTM08xJjnuBoyZUYoAceUfGIz3ZpDc4BEhKrhfV0Ta1Y9bEwbX3OBFsWbC9vMMiWJLxiZ9DSZ6QBHLwl-TuVNU0Ai63Bmq8DUi2gj14oeqOVrTeobJFhP8j7Wp0TAgFtpzAAK_bQ",
+    "by": ""
+   },
+   {
+    "file": "img/15.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkd87nqZLK9jLH64p-dMQSns8ENMHyqDBEyAHJeTY6hUP_mjPLfr7ZaG8ZYyUtMfffyF-FQw58bz3kchFEDpEMhzpGQr-IQBLSEC7ggC9qnzSk6vlVqUl0MdOo5QCPsPJ3ahHV4",
+    "by": ""
+   },
+   {
+    "file": "img/16.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkNrN3155qIQPht0pUqZy2XSlNZ4OR8iVnDfLEJl8rzgZfKBqSmNd6L5lRtld2vHCHYj6JnRMvpK4K6OKESS0PnHNtRpHW5LRNvpe0n185AHBJtNIGYGuxMZhAUlASid9niHG4",
+    "by": ""
+   },
+   {
+    "file": "img/17.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlC5MKXWVv0B9WNL3mezeMtB0rMD1hqLJdWNKIUV-P3SbnBqx1WFAusM5rvaJcLk52ofqlwh-_YoyDaegEKEH6O2l5A7y-GTpK6RUtU0J7gzS4sx8ja9k_b_LUK35aYQxTbdcdR",
+    "by": ""
+   },
+   {
+    "file": "img/18.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmyulY8O3bC9Cvuvdo7Vt4tjGDfOry0pRu07sowKh_G2m8ag1ZP67rJ-X7nubQUOyYp7d2sAj-eRr5nqQnm4lecugfk7DCh4SHj-l02xMVg0ihoRJnnftb-4EyqMYz1Ts06qVI",
+    "by": ""
+   },
+   {
+    "file": "img/19.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnjdE7gcV2wwA-jgk5igyw1s4niTp01OTAAnCoOY7XmiumWmOrDx4StjNWGCzhsUSrrOWxMOPo9rvAWj5oJfdAzUTQSuYslVyRz-4_zFk9or1z5UMV2Ou4iRkjmdHdSJwkA-8M=w1600-h1200-k-no",
+    "by": ""
+   },
+   {
+    "file": "img/20.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkhGSeArTQ7fcNgH6-pystiyrGDew6TZXZhgP8Dyq87Lnw9MhdrYbk7X30e__RRIBf3BlekhUypguHygGV0qcEecICX9nQkCahq5SmsjSzghe7507ctnokIs1sOyZ_dsWY4ixnc=w1600-h1200-k-no",
+    "by": ""
+   },
+   {
+    "file": "img/21.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmV1xB8CIlnduCWcB0H4e_Kmjo_F3o383UTA9hkBaoXaswEZ4uxy_9jNzQJhkvQY9sGfHJTllmQEVrodq4ZrQKt9N62QvIFo0LAywXAatLtRCSIxkBF25MMw7oMULmcHoEuTiAiYVMXlTk=w1600-h1200-k-no",
+    "by": ""
+   },
+   {
+    "file": "img/22.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnzds5K3QLBbD4hQ-AnfAJZLzgvjyDUe0rUcM7Mf8xhNk0jmZxAw1MPys6VOPE_b0cKuPJcOE7Cg5HxGHgOPqRv592dw9R0LYw9-iCibMCLV2nHikDDzqb5G5Id6q-rSQuI_VkPuQ=w1600-h1200-k-no",
+    "by": ""
+   },
+   {
+    "file": "img/23.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmpN8hSiWnJeMnV6qDrOYdI697JATiDF69PGf4_7wRQ_wtytTonLCIKB3j8U362kjLakbAzW6-vHwZ71Gmi3ekZ2eFu4nr4fzDRZ2TGdv96Q_8BdO9aXns_O5plwPl6MsVKPPJAiA=w1600-h1200-k-no",
+    "by": ""
+   }
+  ],
+  "fetched": "2026-09-19",
+  "attributes": [
+   {
+    "head": "Service options",
+    "items": [
+     "Outdoor seating",
+     "Delivery",
+     "Takeout"
+    ]
+   },
+   {
+    "head": "Highlights",
+    "items": [
+     "Bar games",
+     "Fast service",
+     "Great beer selection",
+     "Great cocktails",
+     "Live music",
+     "Live performances"
+    ]
+   },
+   {
+    "head": "Offerings",
+    "items": [
+     "Alcohol",
+     "Beer",
+     "Cocktails",
+     "Dancing",
+     "Hard liquor",
+     "Wine"
+    ]
+   },
+   {
+    "head": "Dining options",
+    "items": [
+     "Seating",
+     "Table service"
+    ]
+   },
+   {
+    "head": "Amenities",
+    "items": [
+     "Restroom"
+    ]
+   },
+   {
+    "head": "Atmosphere",
+    "items": [
+     "Casual",
+     "Cozy"
+    ]
+   },
+   {
+    "head": "Crowd",
+    "items": [
+     "Groups"
+    ]
+   },
+   {
+    "head": "Planning",
+    "items": [
+     "Accepts reservations"
+    ]
+   },
+   {
+    "head": "Payments",
+    "items": [
+     "Credit cards",
+     "Debit cards",
+     "NFC mobile payments"
+    ]
+   },
+   {
+    "head": "Parking",
+    "items": [
+     "Free street parking"
+    ]
+   }
+  ],
+  "scraped_from": "https://www.google.com/maps/place/B+J's+Lounge/@29.9628386,-90.0330007,17z/data=!3m1!4b1!4m6!3m5!1s0x8620a7d2069a5179:0x57be3714adc43555!8m2!3d29.9628386!4d-90.0330007!16s%2Fg%2F1tcx_5ng?hl=en&entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+  "method": "maps page scrape (Places API New not enabled)"
+ }
+}
