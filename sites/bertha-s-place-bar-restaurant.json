@@ -1,0 +1,350 @@
+{
+ "slug": "bertha-s-place-bar-restaurant",
+ "theme": {
+  "colors": {
+   "--bg": "#0f1a14",
+   "--bg2": "#15241c",
+   "--ink": "#f1ecdd",
+   "--muted": "#a8b3a5",
+   "--acc": "#d9a441",
+   "--acc2": "#8fb996",
+   "--accink": "#0f1a14",
+   "--card": "#1a2b22",
+   "--r": "4px",
+   "--band-ink": "var(--ink)"
+  },
+  "font_link": "Playfair+Display:ital,wght@0,600;0,700;1,600",
+  "font_stack": "'Playfair Display', Georgia, serif",
+  "h1": "font-size:clamp(2.4rem,5.6vw,4.6rem);font-weight:600;letter-spacing:-.01em;line-height:1.05",
+  "h2_weight": "600",
+  "h3_weight": "600",
+  "brand_weight": "600",
+  "stat_weight": "600",
+  "num_weight": "600",
+  "quote_weight": "600",
+  "big_weight": "600",
+  "cloud_weight": "600",
+  "dark": true,
+  "alt_dark": false
+ },
+ "theme_from": "ryan-s-irish-pub-inc",
+ "title": "Bertha's Place · Seventh Ward bar & kitchen · New Orleans",
+ "description": "Where customers become family, per the sign out front. Fried chicken and shrimp from behind the counter, open late Fri and Sat.",
+ "icon": {
+  "bg": "#d9a441",
+  "fg": "#0f1a14",
+  "initials": "BS"
+ },
+ "schema_type": "BarOrPub",
+ "name": "Bertha's Place",
+ "phone_e164": "+15045939777",
+ "phone_schema": "+1504-593-9777",
+ "address": {
+  "streetAddress": "1355 St Bernard Ave",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70116"
+ },
+ "geo": {
+  "lat": 29.9703758,
+  "lng": -90.0638756
+ },
+ "hero_img": "img/01.jpg",
+ "category": "Bar",
+ "rating": 4.4,
+ "review_count": 678,
+ "cid": "744074729154507232",
+ "place_id": "ChIJfYnLPAamIIYR4HGZHQZ8Uwo",
+ "phone_display": "(504) 593-9777",
+ "seal": {
+  "tag": "Seventh Ward",
+  "center": "BS",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "Bar, kitchen & party room · 1355 St Bernard Ave, Seventh Ward",
+  "headline": "A Seventh Ward bar where the sign says customers become family and the owner introduces herself.",
+  "sub": "Open three nights a week and late on two of them, with fried chicken and shrimp coming out from behind the counter at prices that surprise people. The room does parties, and the owner will walk you around it.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "678",
+   "label": "Google reviews"
+  },
+  {
+   "count": "4.4",
+   "label": "stars on Google"
+  },
+  {
+   "count": "444",
+   "label": "five-star reviews"
+  },
+  {
+   "count": "3am",
+   "label": "last call, Fri & Sat"
+  }
+ ],
+ "story": {
+  "kicker": "Seventh Ward",
+  "h2": "Bertha's Place",
+  "paragraphs": [
+   "The sign outside Bertha's Place carries a portrait and a line underneath it reading WHERE CUSTOMERS BECOME FAMILY. Reviewers confirm it without being prompted. A band that played a show across the street came over after their set, and the owner introduced herself, walked them around the room, and offered them her own reserved seat while they waited on food.",
+   "It is a bar and a kitchen at the same time. Fried chicken and fried shrimp come out of the back in styrofoam with fries and greens, and the thing people mention as often as the food itself is what it costs. The room does double duty for parties, which is what the balloons and the gold tablecloths in the photos are about. Doors at seven, and on Friday and Saturday it runs until three."
+  ]
+ },
+ "facts": [
+  "Open Tuesday, Friday and Saturday from 7pm",
+  "Kitchen behind the counter: fried chicken, fried shrimp, sides",
+  "Open until 3am Friday and Saturday",
+  "Room available for parties, and they cater them",
+  "A locals' room, and the owner is usually in it"
+ ],
+ "address_display": "1355 St Bernard Ave, New Orleans, LA 70116",
+ "instagram": null,
+ "order": [
+  {
+   "img": "img/03.jpg",
+   "name": "Fried Chicken and Fries",
+   "blurb": "Out of the back in a styrofoam box, fried hard. What it costs is the part people write reviews about."
+  },
+  {
+   "img": "img/07.jpg",
+   "name": "Fried Shrimp Plate",
+   "blurb": "Shrimp, fries, greens and a boiled egg in the one box. A full plate for bar money."
+  },
+  {
+   "img": "img/02.jpg",
+   "name": "A Spread for the Table",
+   "blurb": "Order for everybody at once. It arrives in boxes and takes over the table, which is more or less the idea."
+  },
+  {
+   "img": "img/08.jpg",
+   "name": "Party Platters",
+   "blurb": "They cater, and they will lay the whole room out with it. The gold tablecloths are theirs too."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "From the Kitchen",
+    "items": [
+     {
+      "name": "Fried chicken",
+      "price": ""
+     },
+     {
+      "name": "Fried shrimp",
+      "price": ""
+     },
+     {
+      "name": "Fries",
+      "price": ""
+     },
+     {
+      "name": "Greens",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "Behind the Bar",
+    "items": [
+     {
+      "name": "Beer",
+      "price": ""
+     },
+     {
+      "name": "Well cocktails",
+      "price": ""
+     },
+     {
+      "name": "Shots",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "For the Room",
+    "items": [
+     {
+      "name": "Party bookings",
+      "price": ""
+     },
+     {
+      "name": "Catering platters",
+      "price": ""
+     }
+    ]
+   }
+  ],
+  "note": "Bertha's does not post a menu. This is what the counter and the review photos show. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "img/06.jpg",
+  "text": "“Nice music and amazing food behind the counter for great prices. Sweet and personable staff, a little taste of local life.”",
+  "cite": "Google review · 4.4 stars from 678 reviews"
+ },
+ "review_count_display": "678",
+ "breakdown": [
+  444,
+  137,
+  56,
+  19,
+  22
+ ],
+ "cloud": [],
+ "cloud_h3": "What 678 people keep mentioning",
+ "reviews": [
+  {
+   "stars": "★★★★★",
+   "text": "“Played a show across the street and they weren't open before we played so we stopped over afterwards and glad we did! The owner introduced herself and showed us around the place while we waited for our food and even offered to let me sit in her reserved seat while waiting, such a sweetheart! Great f…”",
+   "who": "Danielle Harp · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“not my usual type of bar but it was enjoyable to say the least! nice music and amazing food behind the counter for great prices. sweet and personable staff, a little taste of local life More”",
+   "who": "malik melvin · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“Words cannot fully describe Bertha's Place. This place is definitely a spot for locals, and is open really late. When we first arrived to NOLA, we were looking for some place close to our Airbnb that was still open, and this place was … More”",
+   "who": "Christopher Lew · Google"
+  }
+ ],
+ "gallery": [
+  "img/09.jpg",
+  "img/04.jpg",
+  "img/10.jpg",
+  "img/02.jpg",
+  "img/07.jpg",
+  "img/08.jpg",
+  "img/01.jpg"
+ ],
+ "hours_display": [
+  "Closed",
+  "7pm – 12am",
+  "Closed",
+  "Closed",
+  "7pm – 3am",
+  "7pm – 3am",
+  "Closed"
+ ],
+ "hours": [
+  [],
+  [
+   [
+    1140,
+    1440
+   ]
+  ],
+  [],
+  [],
+  [
+   [
+    1140,
+    1620
+   ]
+  ],
+  [
+   [
+    1140,
+    1620
+   ]
+  ],
+  []
+ ],
+ "popular_times": {},
+ "tip": {
+  "b": "Local tip",
+  "text": "Doors at seven, and only on Tuesday, Friday and Saturday. Friday and Saturday run to three in the morning so there is no hurry, but check the day before you drive over."
+ },
+ "getting_here": [
+  "1355 St Bernard Ave in the Seventh Ward",
+  "Street parking on the surrounding blocks"
+ ],
+ "cta_h2": "Tuesday, Friday, Saturday. Doors at seven.",
+ "cta_dir_btn": "g",
+ "_source": {
+  "website": null,
+  "maps": "https://maps.google.com/?cid=744074729154507232",
+  "status": "OPERATIONAL",
+  "price": null,
+  "summary": null,
+  "photos": [
+   {
+    "file": "img/01.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk16xZU9HMf_5_9I8Id7N8QhzNrmNyOIkGMmx9e-HeD2-DIgYnoKKl4BU1gdEYDLzoypyTudY_6X64IKgq1C1dndVRKYqMkBOj6hij-RnJyp4LhwQ2V_bo5Uf-mSaObyJATn0nHgg",
+    "by": ""
+   },
+   {
+    "file": "img/02.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkRCjqOCK3d1_f-WJg476J6WeqCIP9btELVWazjvWL7KanoLGMzfs7eZsopvHcQ2In4U41yDGsVogGUWB7-V8N8gLFCXPxsYdGQ-lHXqi3wD6Zs1rhzxDCoH3MY80by6-ciY18",
+    "by": ""
+   },
+   {
+    "file": "img/03.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl_Jl3XrlAwUjz7LO5D86DubqAi6sm6fvWLVOJKCMAkGjes1hyvxX5y-E0DAwzKYHOA6F-Z80dHScy7F9X-FCbyuN-mfLGMZsZSDT1x2Jpjfi3QMbZhoRRhEjr9EPdrFoCc8fTagw",
+    "by": ""
+   },
+   {
+    "file": "img/04.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn6dP2Z8maXDqjJXp2Qf4ncbuGizfyGEjb4lFomQsUzUOnoUYrwl5rJZESOifkg64OFcmZK8NtVCzEzoDMcFWeDHrGtht3dVCPrH5uPyaZW-0J_5LnaNhY-h1o6udayaXqM2pDD",
+    "by": ""
+   },
+   {
+    "file": "img/05.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnVdgUHw3yZK13gwu1eWDGwGHzzyC_5qnYqWwqFMfsBf6xerH-eU7BM6YgOiHlK-e-G4xS0gbAF7SjzpSuYedeNJyzEB6VekuL_0D-_GKnYn199QnBdTNfCSptIo6ofcyE9Xxxp5Q",
+    "by": ""
+   },
+   {
+    "file": "img/06.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnLp_hctdv36EeBxCC7oLszCsU4t-SWXSmVnz8dpQhCs75Nq9Y7hCOJADm_WXqZkEORu878TmPKUXLbACjU1Kf1m16t_RQTcHf-bBuWgEBdlSyrvgKzirg5un5tcZTKRxQznDgL2g",
+    "by": ""
+   },
+   {
+    "file": "img/07.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmZ_SsdLkkvnRS2j8jH-s3RX1OteO7e5fIQRsH9u-G6qjlYIrclV_M80IkIJdRg5Wu5RFddrl_ecVMAVvib9mLgNPQP_y9I7IlUAQ2bJ8K_EyJ65dY-lpKO_Ik0_6hmiXd_DiT7pA",
+    "by": ""
+   },
+   {
+    "file": "img/08.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmJzm_tm-lahBjeQy0PzGsyBRp3XDwySuCqo-5uXfCoSVG18eTdt02QKLXOR25H2o6KFRnrjFjVMfPU0lteUV_qSKy3lVKChGufNMhVc5t9fqfQnksZ7i6j71hyItcv-LiTuBE",
+    "by": ""
+   },
+   {
+    "file": "img/09.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkWMYNSzcIXrDN2E-6nyY-AdHv3FZ24n8HfCPi2StLpBlhd1KhPLF_Ym-9bgDAScJkvs8_-S0R_W8JPRy_7iHRv0NFfls0TzCp761iOqe9dEm4AWQTHABfYNZFH_vk47PUjGYmG",
+    "by": ""
+   },
+   {
+    "file": "img/10.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkKyO8_DzU0ljoWqSIYrV7nBt-vDzWQgvyFHHhoZn5WeZHxwlQFzQzPX0BjNdsja0lH3-Qnkq5nmahJ0vKQh2qwaTHiduDtLvxciaDPL1MJ5xTZJrfl2sR_hNeWa5tZopGkRa0Z",
+    "by": ""
+   }
+  ],
+  "fetched": "2026-09-19",
+  "attributes": [
+   {
+    "head": "Accessibility",
+    "items": [
+     "Wheelchair accessible entrance",
+     "Wheelchair accessible restroom"
+    ]
+   }
+  ],
+  "scraped_from": "https://www.google.com/maps/place/Bertha's+Place+Bar+%26+Restaurant/@29.9703758,-90.0638756,17z/data=!3m1!4b1!4m6!3m5!1s0x8620a6063ccb897d:0xa537c061d9971e0!8m2!3d29.9703758!4d-90.0638756!16s%2Fg%2F1vqth451?hl=en&entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+  "method": "maps page scrape (Places API New not enabled)"
+ }
+}
