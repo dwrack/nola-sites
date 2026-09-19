@@ -1,0 +1,365 @@
+{
+ "slug": "boondock-saint",
+ "theme": {
+  "colors": {
+   "--bg": "#0f1a14",
+   "--bg2": "#15241c",
+   "--ink": "#f1ecdd",
+   "--muted": "#a8b3a5",
+   "--acc": "#d9a441",
+   "--acc2": "#8fb996",
+   "--accink": "#0f1a14",
+   "--card": "#1a2b22",
+   "--r": "4px",
+   "--band-ink": "var(--ink)"
+  },
+  "font_link": "Playfair+Display:ital,wght@0,600;0,700;1,600",
+  "font_stack": "'Playfair Display', Georgia, serif",
+  "h1": "font-size:clamp(2.4rem,5.6vw,4.6rem);font-weight:600;letter-spacing:-.01em;line-height:1.05",
+  "h2_weight": "600",
+  "h3_weight": "600",
+  "brand_weight": "600",
+  "stat_weight": "600",
+  "num_weight": "600",
+  "quote_weight": "600",
+  "big_weight": "600",
+  "cloud_weight": "600",
+  "dark": true,
+  "alt_dark": false
+ },
+ "theme_from": "ryan-s-irish-pub-inc",
+ "title": "Boondock Saint · Irish pub on St Peter · New Orleans",
+ "description": "French Quarter Irish pub with no happy hour, because the prices are happy hour prices all day. Noon to 1am, seven days.",
+ "icon": {
+  "bg": "#d9a441",
+  "fg": "#0f1a14",
+  "initials": "BS"
+ },
+ "schema_type": "BarOrPub",
+ "name": "Boondock Saint",
+ "phone_e164": "+15045254950",
+ "phone_schema": "+1504-525-4950",
+ "address": {
+  "streetAddress": "731 St Peter",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70116"
+ },
+ "geo": {
+  "lat": 29.9585442,
+  "lng": -90.0652977
+ },
+ "hero_img": "img/01.jpg",
+ "category": "Bar",
+ "rating": 4.7,
+ "review_count": 382,
+ "cid": "16945655822175602701",
+ "place_id": "ChIJCRPOIA6mIIYRDYjONjAQK-s",
+ "phone_display": "(504) 525-4950",
+ "seal": {
+  "tag": "French Quarter",
+  "center": "BS",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "Irish pub · 731 St Peter St, French Quarter",
+  "headline": "An Irish pub on St Peter with no happy hour, because the prices are happy hour prices all day.",
+  "sub": "Guinness poured and left to settle, half and halfs chalked up by the door, and a corner of the French Quarter that has stayed a pub instead of turning into a tourist bar. Noon to one, daily.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "4.7",
+   "label": "stars on Google"
+  },
+  {
+   "count": "382",
+   "label": "Google reviews"
+  },
+  {
+   "count": "310",
+   "label": "of them five stars"
+  },
+  {
+   "count": "1am",
+   "label": "last call, every night"
+  }
+ ],
+ "story": {
+  "kicker": "French Quarter",
+  "h2": "Boondock Saint",
+  "paragraphs": [
+   "Boondock Saint sits on St Peter under a balcony hung with yellow umbrellas, which is about as French Quarter as a building gets. Inside is the opposite of that: brick, green neon, a Guinness sign, wooden stools, and a bar you can actually sit down at. The name is the film, and enough people walk in because of the film that reviewers bring it up, but it is an Irish pub first and a reference second.",
+   "The line reviewers keep repeating is that there is no happy hour here because everything is already priced like one. There is Irish on draft, Guinness poured and given time to settle, and half and halfs written up on the board by the door. Bartenders get named in the reviews, Marsha most of all. This deep in the Quarter, being known for the staff rather than the street is the whole trick."
+  ]
+ },
+ "facts": [
+  "Open noon to 1am, seven days a week",
+  "Irish on draft, Guinness poured and settled",
+  "Half and halfs, listed on the board by the door",
+  "No happy hour, because the prices already are",
+  "Pub shirts at the bar, Celtic cross on the front"
+ ],
+ "address_display": "731 St Peter, New Orleans, LA 70116",
+ "instagram": null,
+ "order": [
+  {
+   "img": "img/08.jpg",
+   "name": "A Pint of Guinness",
+   "blurb": "Poured, rested, then topped. If it reaches you in under two minutes somebody has rushed it. Here they do not."
+  },
+  {
+   "img": "img/10.jpg",
+   "name": "A Half and Half",
+   "blurb": "Chalked up on the board by the door. Ask which two they are pouring this week before you decide."
+  },
+  {
+   "img": "img/02.jpg",
+   "name": "A Pint and a Pour",
+   "blurb": "A beer with a whiskey set beside it. The order you make when you are settling in rather than passing through."
+  },
+  {
+   "img": "img/09.jpg",
+   "name": "The Shirt",
+   "blurb": "Celtic cross on the front, pub name underneath. They sell them at the bar and people wear them home."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "On Draft",
+    "items": [
+     {
+      "name": "Guinness",
+      "price": ""
+     },
+     {
+      "name": "Irish draft",
+      "price": ""
+     },
+     {
+      "name": "Rotating taps",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "From the Board",
+    "items": [
+     {
+      "name": "Half and halfs",
+      "price": ""
+     },
+     {
+      "name": "Pint and a pour",
+      "price": ""
+     },
+     {
+      "name": "Whiskey",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "At the Bar",
+    "items": [
+     {
+      "name": "Pub shirts",
+      "price": ""
+     },
+     {
+      "name": "Merch",
+      "price": ""
+     }
+    ]
+   }
+  ],
+  "note": "Boondock Saint does not post a menu. This is what the bar and the board by the door show. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "img/03.jpg",
+  "text": "“This is one of the best Irish pubs in the world. Marsha is the best bartender. There's no happy hour because all the drinks are happy hour prices.”",
+  "cite": "Google review · 4.7 stars from 382 reviews"
+ },
+ "review_count_display": "382",
+ "breakdown": [
+  310,
+  51,
+  7,
+  2,
+  12
+ ],
+ "cloud": [],
+ "cloud_h3": "What 382 people keep mentioning",
+ "reviews": [
+  {
+   "stars": "★★★★★",
+   "text": "“For sure one of the best bars here , the owner is always super nice , the place is perfect and the drinks are great , for sure u going to enjoy this places as much as I do ! More”",
+   "who": "mayku vilca · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“This is one of the best Irish Pubs in the world. Marsha is the best bartender. She made it a great experience. There’s no happy hour because all the drinks are happy hour prices 24/7. A great idea to call in for a pint & a pour or Irish Whiskey. More”",
+   "who": "REX SCOTT · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“Great bar in the heart of the French Square. If you love Irish Pubs, this is a classic. If you are a fan of the Boon Dock Saints Movie, this place is a plus. Bartenders were great, selection of Irish on Drafts Great. Small pub feel, and … More”",
+   "who": "Gus Chavez Jr · Google"
+  }
+ ],
+ "gallery": [
+  "img/04.jpg",
+  "img/03.jpg",
+  "img/05.jpg",
+  "img/09.jpg",
+  "img/10.jpg",
+  "img/02.jpg",
+  "img/06.jpg"
+ ],
+ "hours_display": [
+  "12pm – 1am",
+  "12pm – 1am",
+  "12pm – 1am",
+  "12pm – 1am",
+  "12pm – 1am",
+  "12pm – 1am",
+  "12pm – 1am"
+ ],
+ "hours": [
+  [
+   [
+    720,
+    1500
+   ]
+  ],
+  [
+   [
+    720,
+    1500
+   ]
+  ],
+  [
+   [
+    720,
+    1500
+   ]
+  ],
+  [
+   [
+    720,
+    1500
+   ]
+  ],
+  [
+   [
+    720,
+    1500
+   ]
+  ],
+  [
+   [
+    720,
+    1500
+   ]
+  ],
+  [
+   [
+    720,
+    1500
+   ]
+  ]
+ ],
+ "popular_times": {},
+ "tip": {
+  "b": "Local tip",
+  "text": "Come in the afternoon, when the Quarter outside is at its worst and the pub is at its best. Read the half and half board by the door before you order anything at all."
+ },
+ "getting_here": [
+  "731 St Peter St, French Quarter, on the block between Bourbon and Royal",
+  "Walk. Parking this deep in the Quarter is not worth attempting"
+ ],
+ "cta_h2": "Noon to one, seven days. Pull up a stool.",
+ "cta_dir_btn": "g",
+ "_source": {
+  "website": null,
+  "maps": "https://maps.google.com/?cid=16945655822175602701",
+  "status": "OPERATIONAL",
+  "price": null,
+  "summary": null,
+  "photos": [
+   {
+    "file": "img/01.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmGluPLE8EUQDv-KsJ_ARVJlaBz5S1_o71MD1WmMcxdLiLmb1EMm5u0HAhEo4dZzBXavh_qDicKLOxA64t0GeHM1FtTVcJwj_3fl9pmA-rXEBxOONH-5R77qph3AmXQb-q2FdDV1g",
+    "by": ""
+   },
+   {
+    "file": "img/02.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkMyTYi-7TlYnnQraOOdvxHHhuNV9szZkYMLb5BpqBvljE9bsJqI51TzwFfbm6E3nWYxAWogImY5pNXxWp7ePf_fn0yrwv4I1M_bLz62iWShS0G3Mlqyd35TMMxaKb7OTYKHu_y",
+    "by": ""
+   },
+   {
+    "file": "img/03.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWksNcMu9nTuPsionoabjRE9V7uI1LJB2bKCXZ1-iy6sTDraion0wdlBJb-zS2Wc5hyRCIcrqQ6cb9ZB0S9fLkfOubz2S0OahtlZX1p8dbjJS7FA9cpNCddwM61VoP5iR1pNofGoPzfy0iE",
+    "by": ""
+   },
+   {
+    "file": "img/04.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmCyDMrwFsZMsw6PS_QBA7FWcsx2RTYuS2HDtV4qZJBBKBje4PrueyZioTwX82L0fz528-T8hfctVI_xcXKnPQzDnG8-bXAEBJk505j_7m8CHQavjqm2uzM4d2ATazGXV7CVvg",
+    "by": ""
+   },
+   {
+    "file": "img/05.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkC88o7Gpkhn5rhv-7Nt2-txZD3Wx3SG8MvJGJCvWNnetmCMHtYtnEgh9Z3Z4WW-pseE_pql4c4swJR0kuq_V-rdXtxs-3wQhFt6oOo766u8wIh6et_0PbAxypmgS4e2kYV1u90pQ",
+    "by": ""
+   },
+   {
+    "file": "img/06.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkkyah3mG4SIMuRO6fgQhI5YHuR4soKoQgTXp53nbu-wO6dTrAlgjIAb3Z1nsd8diJfUgVL7vkol5LfCY_rC2CRfBUqKx_CjeLurhCwOMQyEPnXChpUVMKzdny130iv3q3tEiescTPZSknL",
+    "by": ""
+   },
+   {
+    "file": "img/07.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnzPeQMulZtxhDsgNdDE3VdW4EwfQGhqOln6E0jrf74aFeZgERyxDpFMnnbOTeK8tnLgtSAeRb5ErwP0wCCphiE_YArcY-70T3_VXTDm-IAbacfZaFK31N-M01irYZJTCGw8WHk",
+    "by": ""
+   },
+   {
+    "file": "img/08.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkkihtU_Rj2_u6sBcNhHR_HatkhL-ZKM3K7iojarFRdvsom0iEE8fmZoxAyRFd9khMReextqB3KazyY8b5tIgT9motkYqAZqf_f98DOlUsX9E3eHygBX_5EBpAuGM0IT1VjkVyX",
+    "by": ""
+   },
+   {
+    "file": "img/09.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmJ887MGYEL-8HPsadrnxrU0_7GZO-3ix3o7Khyrsos6J1ghHd01axLKpPbjpik8JfPjTA3UaJDEL5yZIbSp-J2_t3OJNYI5OsGkqx1us8ScDsupTz-fNwhuOEltreMTnPWtEWznQ",
+    "by": ""
+   },
+   {
+    "file": "img/10.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmbIBY4IAreWOvBwrthgV8R-Kj2ydVxtKbIPrwDbkIeq6d6_g8OVZTFrkKDARHymAGpYI4qTPMa4vSN3wAX0w9r06N2VSC3Ka5hRR3OkArijfJQMVL2sJ9BL9pRgqr9p4THnV5b",
+    "by": ""
+   }
+  ],
+  "fetched": "2026-09-19",
+  "attributes": [
+   {
+    "head": "Accessibility",
+    "items": [
+     "Wheelchair accessible entrance"
+    ]
+   }
+  ],
+  "scraped_from": "https://www.google.com/maps/place/Boondock+Saint/@29.9585442,-90.0652977,17z/data=!3m1!4b1!4m6!3m5!1s0x8620a60e20ce1309:0xeb2b103036ce880d!8m2!3d29.9585442!4d-90.0652977!16s%2Fg%2F1td0t7b3?hl=en&entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+  "method": "maps page scrape (Places API New not enabled)"
+ }
+}
