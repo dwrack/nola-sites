@@ -1,0 +1,365 @@
+{
+ "slug": "the-upper-quarter",
+ "theme": {
+  "colors": {
+   "--bg": "#0f1a14",
+   "--bg2": "#15241c",
+   "--ink": "#f1ecdd",
+   "--muted": "#a8b3a5",
+   "--acc": "#d9a441",
+   "--acc2": "#8fb996",
+   "--accink": "#0f1a14",
+   "--card": "#1a2b22",
+   "--r": "4px",
+   "--band-ink": "var(--ink)"
+  },
+  "font_link": "Playfair+Display:ital,wght@0,600;0,700;1,600",
+  "font_stack": "'Playfair Display', Georgia, serif",
+  "h1": "font-size:clamp(2.4rem,5.6vw,4.6rem);font-weight:600;letter-spacing:-.01em;line-height:1.05",
+  "h2_weight": "600",
+  "h3_weight": "600",
+  "brand_weight": "600",
+  "stat_weight": "600",
+  "num_weight": "600",
+  "quote_weight": "600",
+  "big_weight": "600",
+  "cloud_weight": "600",
+  "dark": true,
+  "alt_dark": false
+ },
+ "theme_from": "ryan-s-irish-pub-inc",
+ "title": "The Upper Quarter · French Quarter neighborhood bar · New Orleans",
+ "description": "The sign says a neighborhood bar and it means it. Corner of Bienville, noon to 2am, courtyard out back.",
+ "icon": {
+  "bg": "#d9a441",
+  "fg": "#0f1a14",
+  "initials": "UQ"
+ },
+ "schema_type": "BarOrPub",
+ "name": "The Upper Quarter",
+ "phone_e164": "+15045234111",
+ "phone_schema": "+1504-523-4111",
+ "address": {
+  "streetAddress": "1000 Bienville St",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70112"
+ },
+ "geo": {
+  "lat": 29.956669,
+  "lng": -90.070399
+ },
+ "hero_img": "img/05.jpg",
+ "category": "Bar",
+ "rating": 4.7,
+ "review_count": 358,
+ "cid": "2708417510080229773",
+ "place_id": "ChIJnd-d_QumIIYRjbHHJ2A7liU",
+ "phone_display": "(504) 523-4111",
+ "seal": {
+  "tag": "French Quarter",
+  "center": "UQ",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "Neighborhood bar & courtyard · 1000 Bienville St, French Quarter",
+  "headline": "The sign says a neighborhood bar, and in the French Quarter that is a real claim.",
+  "sub": "Corner of Bienville, open noon to two every day, with a courtyard out back and crawfish when it is the season for it. Bartenders, regulars and owners all get named in the reviews.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "4.7",
+   "label": "stars on Google"
+  },
+  {
+   "count": "358",
+   "label": "Google reviews"
+  },
+  {
+   "count": "286",
+   "label": "of them five stars"
+  },
+  {
+   "count": "2am",
+   "label": "last call, 7 nights"
+  }
+ ],
+ "story": {
+  "kicker": "French Quarter",
+  "h2": "The Upper Quarter",
+  "paragraphs": [
+   "The sign hanging off the corner at Bienville says THE UPPER QUARTER, and underneath that, A NEIGHBORHOOD BAR. In this part of the French Quarter that is a statement of intent. The building is the classic one: brick, wrought iron, a balcony over the sidewalk, and a courtyard out back hung with beads and whatever is growing.",
+   "The room is small, which reviewers keep listing as a virtue rather than a complaint. Bartenders make gin cocktails and have actual beer opinions, prices come up again and again as fair, and there is a chalkboard by the door that reads POP-UP ALERT when somebody is cooking that night. In season they boil crawfish and put the trays straight down on the table. Visitors keep writing that they would be regulars if they lived here."
+  ]
+ },
+ "facts": [
+  "Open noon to 2am, seven days a week",
+  "Courtyard out back off the Bienville corner",
+  "Full bar, gin cocktails, bartenders who will actually recommend a beer",
+  "Food pop-ups some nights, crawfish boils in season",
+  "French Quarter prices without the Bourbon Street markup"
+ ],
+ "address_display": "1000 Bienville St, New Orleans, LA 70112",
+ "instagram": null,
+ "order": [
+  {
+   "img": "img/10.jpg",
+   "name": "A Shot and a High Life",
+   "blurb": "The order that tells the bartender you are staying a while. Set down together, no comment."
+  },
+  {
+   "img": "img/03.jpg",
+   "name": "Boiled Crawfish, In Season",
+   "blurb": "By the tray, poured out on the table with corn in the pile. Bring people and roll your sleeves up."
+  },
+  {
+   "img": "img/06.jpg",
+   "name": "A Gin Cocktail, Bartender's Pick",
+   "blurb": "Reviewers single out the gin drinks and the beer recommendations. Say roughly what you like and let them work."
+  },
+  {
+   "img": "img/09.jpg",
+   "name": "Whatever the Pop-Up Is Cooking",
+   "blurb": "The chalkboard by the door says POP-UP ALERT when there is food that night. Check it on the way in."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "Behind the Bar",
+    "items": [
+     {
+      "name": "Gin cocktails",
+      "price": ""
+     },
+     {
+      "name": "Well and call",
+      "price": ""
+     },
+     {
+      "name": "Shot and a beer",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "Cold",
+    "items": [
+     {
+      "name": "Miller High Life",
+      "price": ""
+     },
+     {
+      "name": "Local draft",
+      "price": ""
+     },
+     {
+      "name": "Cans and bottles",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "When They're Cooking",
+    "items": [
+     {
+      "name": "Boiled crawfish, in season",
+      "price": ""
+     },
+     {
+      "name": "Pop-up food, check the chalkboard",
+      "price": ""
+     }
+    ]
+   }
+  ],
+  "note": "The Upper Quarter does not post a menu. Drinks are the business and food turns up when a pop-up is in. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "img/08.jpg",
+  "text": "“Made great friends and felt like a part of a community on just a couple of days. Bartenders, patrons, ownership, all just incredible. A neighborhood bar for sure.”",
+  "cite": "Google review · 4.7 stars from 358 reviews"
+ },
+ "review_count_display": "358",
+ "breakdown": [
+  286,
+  48,
+  8,
+  5,
+  11
+ ],
+ "cloud": [],
+ "cloud_h3": "What 358 people keep mentioning",
+ "reviews": [
+  {
+   "stars": "★★★★★",
+   "text": "“Literally would be a regular here if I lived in town. Excellent service and atmosphere. Prices are fair and just a great place to hangout More”",
+   "who": "Gabriel Schray · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“Truly an amazing place. Made great friends and felt like a part of a community on just a couple of days. Bartenders, patrons, ownership - all just incredible. A neighborhood bar for sure, places like this need to be treated with the respect they're owed, which they do, and you should too. Will be a…”",
+   "who": "Ryan H · Google"
+  },
+  {
+   "stars": "★★★★★",
+   "text": "“Great small bar for a quick stop or for a few hours. Matthew was a great bar tender; he made good beer recommendations and a great gin cocktail. This place is on the list for our next visit. More”",
+   "who": "Bradley McCarty · Google"
+  }
+ ],
+ "gallery": [
+  "img/04.jpg",
+  "img/07.jpg",
+  "img/01.jpg",
+  "img/06.jpg",
+  "img/03.jpg",
+  "img/09.jpg",
+  "img/05.jpg"
+ ],
+ "hours_display": [
+  "12pm – 2am",
+  "12pm – 2am",
+  "12pm – 2am",
+  "12pm – 2am",
+  "12pm – 2am",
+  "12pm – 2am",
+  "12pm – 2am"
+ ],
+ "hours": [
+  [
+   [
+    720,
+    1560
+   ]
+  ],
+  [
+   [
+    720,
+    1560
+   ]
+  ],
+  [
+   [
+    720,
+    1560
+   ]
+  ],
+  [
+   [
+    720,
+    1560
+   ]
+  ],
+  [
+   [
+    720,
+    1560
+   ]
+  ],
+  [
+   [
+    720,
+    1560
+   ]
+  ],
+  [
+   [
+    720,
+    1560
+   ]
+  ]
+ ],
+ "popular_times": {},
+ "tip": {
+  "b": "Local tip",
+  "text": "Walk past the front room and out to the courtyard. That is where the regulars end up, and on a pop-up night it is where the food is."
+ },
+ "getting_here": [
+  "1000 Bienville St, on the corner at the quieter end of the French Quarter",
+  "Walkable from anywhere in the Quarter, and street parking gets easier this far off Bourbon"
+ ],
+ "cta_h2": "Noon to two, seven days. Come sit in the courtyard.",
+ "cta_dir_btn": "g",
+ "_source": {
+  "website": null,
+  "maps": "https://maps.google.com/?cid=2708417510080229773",
+  "status": "OPERATIONAL",
+  "price": null,
+  "summary": null,
+  "photos": [
+   {
+    "file": "img/01.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmxgsO28m_ILVLg8uuIFmNRUJffzHbizhTI681HQ6PEIEvT4MCzJ4cJTE0VLz8lfGHQpzEr_rzjmBuIkm209eSpnPoK4kFOntU8Q74CPTv1UuH2YuPl60vlZl3yGckK0rKAOsKx",
+    "by": ""
+   },
+   {
+    "file": "img/02.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmVPksq7XTHVHYi9TVzMYfwSmQFgnr-z2H5sVTiRLjxgzt9MoNpcVkf_3ksPRtV28PZ1LMujJ9BS2QffN77wXUKKrTvqRedPIJMLDsnigU97kaAw3Smczn8Dvggfyvza6DdTvtnJA",
+    "by": ""
+   },
+   {
+    "file": "img/03.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmkwsP00vMpnQuE-hsEl2SsQLs4mQ0l82C37OtE7gHF7TOpvr3VHhjmLKC0tyu5nZTVfODJPPUYIkxiFHZGlPKFWEtpkKKUgDlL5Ylxdhxh5dyw-tPVJioDti2PkhCkT5WmTVJB",
+    "by": ""
+   },
+   {
+    "file": "img/04.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlihIIBhVfEpyK372zF9GXlbmfCZubJ-iwiNdHRLj2xI1vOZSKnKDslrJdvAL8pjR-IT6ABmsRT3x_wbC4Nnpq7yNF_Er-mvVbY1t5hjmH5WAkjlwCfUfdEkhkYK-k28NnESqU",
+    "by": ""
+   },
+   {
+    "file": "img/05.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk_b_3JOzjkQu9QSub6L8thzE9kF3XhhuPcrB7YHG9yFpB8bpDt-aowAdozY5GnU30gx7vpDkrB2Ez2UTQH7lkCPoBwIS1n0XZZq16M0qjKZVitTkhJxc8LSRwRNF-32loqiwPid0TqyVQ",
+    "by": ""
+   },
+   {
+    "file": "img/06.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmRAz968W0AVAnpmV_jRWEdacGfLIsElOXAC2EN7_9gAKTaPOoY1d5FylWv_iMJZEcK2R6bTp0Kf2fnmjJNO5JcyhR7RVljRwuHlHzCfmmB-5EMUE8uTC6GMDblJr-qMcKLAkEREb8TWpP-",
+    "by": ""
+   },
+   {
+    "file": "img/07.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmqSYO5B-Lnf_SgM1lLCEEmQN-6_cZpuHEGKNVWJEthKzR9lMFYvt_oXp_0zOmExxR82oMeZsm5aSj5C6fue7Rw9fYKhBgj8PlzwRF6jDqXdi4vrBj7tOLnE8SxWF4xCjSuW9rgHg",
+    "by": ""
+   },
+   {
+    "file": "img/08.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkLLR7HS_aZikmBCPb_1z66L45A6GyOQVJUpSXPUqnLzL3hAV8F615pYdhIBcLQOs4UO8-3iQXw8V_f_UyUgo6wvcZzwX_CFBV3S8rH2iH177Hj7NBX3iyidVW8bjfktFRaEJPrvQ",
+    "by": ""
+   },
+   {
+    "file": "img/09.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm8me5iHmY_yitBXvobDIKw2P8uo3YH0LD8XPC2DUPr7RDz0HMb7_6rNOPVbaHP5_PaaNhIa6XFkqVILrLty4UIMHE6Er7dNr6b6jVt_pHRdLQmkwUiUgEg37PX3dwyLl61YmmFnw",
+    "by": ""
+   },
+   {
+    "file": "img/10.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkThA44CWt9sAxmgGJVtJ6RwtXqo3AcdOkzfhSl10XzTNURWWXuHr-VGhhlPOZ1K71lQRKQP2hncPUpWqbqugCnPwfZRtUleErVX8VgQ3lCy6i2paEu3lm9XgCLqsiz_h9uZFIU",
+    "by": ""
+   }
+  ],
+  "fetched": "2026-09-19",
+  "attributes": [
+   {
+    "head": "Accessibility",
+    "items": [
+     "Wheelchair accessible entrance"
+    ]
+   }
+  ],
+  "scraped_from": "https://www.google.com/maps/place/The+Upper+Quarter/@29.956669,-90.070399,17z/data=!3m1!4b1!4m6!3m5!1s0x8620a60bfd9ddf9d:0x25963b6027c7b18d!8m2!3d29.956669!4d-90.070399!16s%2Fg%2F1tmqrqmj?hl=en&entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+  "method": "maps page scrape (Places API New not enabled)"
+ }
+}
