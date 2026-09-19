@@ -1,0 +1,411 @@
+{
+ "slug": "don-leoncio-cigars-bar",
+ "theme": {
+  "colors": {
+   "--bg": "#f5efe3",
+   "--bg2": "#ebe2d1",
+   "--ink": "#22190f",
+   "--muted": "#6a5d4b",
+   "--acc": "#9c2a1e",
+   "--acc2": "#1f3a5f",
+   "--accink": "#fff",
+   "--card": "#fffaf1",
+   "--r": "3px",
+   "--band-ink": "var(--ink)"
+  },
+  "font_link": "Libre+Caslon+Text:ital,wght@0,400;0,700;1,400",
+  "font_stack": "'Libre Caslon Text', Georgia, serif",
+  "h1": "font-size:clamp(2.4rem,5.2vw,4.3rem);font-weight:700;letter-spacing:-.015em;line-height:1.05",
+  "h2_weight": "700",
+  "h3_weight": "700",
+  "brand_weight": "700",
+  "stat_weight": "700",
+  "num_weight": "600",
+  "quote_weight": "700",
+  "big_weight": "700",
+  "cloud_weight": "700",
+  "dark": false,
+  "alt_dark": false
+ },
+ "theme_from": "mother-s-restaurant",
+ "title": "Don Leoncio Cigars Bar · Cigar bar on Canal St · New Orleans",
+ "description": "Hand-rolled Dominican, Honduran and Nicaraguan cigars on Canal Street, a full bar to go with them, and leather chairs at the back.",
+ "icon": {
+  "bg": "#9c2a1e",
+  "fg": "#fff",
+  "initials": "DL"
+ },
+ "schema_type": "BarOrPub",
+ "name": "Don Leoncio",
+ "phone_e164": "+15045276557",
+ "phone_schema": "+1504-527-6557",
+ "address": {
+  "streetAddress": "430 Canal St",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70130"
+ },
+ "geo": {
+  "lat": 29.9513554,
+  "lng": -90.0668675
+ },
+ "hero_img": "img/01.jpg",
+ "category": "Cigar shop",
+ "rating": 4.4,
+ "review_count": 602,
+ "cid": "6929254245760707317",
+ "place_id": "ChIJ1cxmNg2mIIYR9SrvFAaoKWA",
+ "phone_display": "(504) 527-6557",
+ "seal": {
+  "tag": "CBD",
+  "center": "DL",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "Cigar bar & lounge · 430 Canal St, CBD",
+  "headline": "Cigars rolled at the counter, whiskey poured at the bar, leather chairs at the back.",
+  "sub": "Dominican, Honduran and Nicaraguan leaf, a humidor wall behind the bar, and leather chairs deep enough to lose an afternoon in. Doors at noon, seven days.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "602",
+   "label": "Google reviews"
+  },
+  {
+   "count": "4.4",
+   "label": "stars on Google"
+  },
+  {
+   "count": "12pm",
+   "label": "doors open, daily"
+  },
+  {
+   "count": "3",
+   "label": "countries of leaf"
+  }
+ ],
+ "story": {
+  "kicker": "Central Business District",
+  "h2": "Don Leoncio Cigars Bar",
+  "paragraphs": [
+   "Don Leoncio sits on Canal Street behind a neon sign that says, simply, CIGAR BAR. Inside it is one long room: a humidor wall, a counter where the cigars get rolled, a proper back bar with bottles stacked to the ceiling, then leather recliners and chesterfields going back into the dark. A smoke shop and a lounge at the same time, which on Canal Street is not a common arrangement.",
+   "The leaf is Dominican, Honduran and Nicaraguan, and the boxes sit open on a table so you can look before you commit to anything. The bar pours whiskey, which is what most people set beside a cigar here, and there is Presidente in the cooler for the other way of going about it. There is a kitchen as well, and the plate that turns up most often in the photos is fried shrimp and fries."
+  ]
+ },
+ "facts": [
+  "Hand-rolled cigars: Dominican, Honduran and Nicaraguan leaf",
+  "Full bar and a kitchen, not just a smoke shop",
+  "Leather recliners and couches at the back of the room",
+  "Wi-Fi, and a quick visit works as well as a long one",
+  "Cards, debit and tap to pay. Small business, LGBTQ+ friendly"
+ ],
+ "address_display": "430 Canal St, New Orleans, LA 70130",
+ "instagram": "https://www.instagram.com/donleonciocigars/",
+ "order": [
+  {
+   "img": "img/09.jpg",
+   "name": "Pick From the Box",
+   "blurb": "Boxes sit open on the table so you can look first. Ask what came in this week rather than guessing."
+  },
+  {
+   "img": "img/06.jpg",
+   "name": "A Cigar and a Pour",
+   "blurb": "Cigar laid across the glass while it breathes. This is the house arrangement and it is the correct one."
+  },
+  {
+   "img": "img/10.jpg",
+   "name": "A Cigar and a Presidente",
+   "blurb": "The other way of doing it. Colder, cheaper, and nobody in here will look at you sideways for it."
+  },
+  {
+   "img": "img/11.jpg",
+   "name": "Fried Shrimp and Fries",
+   "blurb": "There is a kitchen, which almost nobody expects. This is the plate that keeps showing up in the photos."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "The Humidor",
+    "items": [
+     {
+      "name": "Hand-rolled house cigars",
+      "price": ""
+     },
+     {
+      "name": "Dominican leaf",
+      "price": ""
+     },
+     {
+      "name": "Honduran leaf",
+      "price": ""
+     },
+     {
+      "name": "Nicaraguan leaf",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "Behind the Bar",
+    "items": [
+     {
+      "name": "Whiskey",
+      "price": ""
+     },
+     {
+      "name": "Presidente",
+      "price": ""
+     },
+     {
+      "name": "Beer and cocktails",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "From the Kitchen",
+    "items": [
+     {
+      "name": "Fried shrimp and fries",
+      "price": ""
+     },
+     {
+      "name": "Bar plates",
+      "price": ""
+     }
+    ]
+   }
+  ],
+  "note": "Don Leoncio does not post a menu or a cigar list online. This is what the humidor, the bar and the review photos show. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "",
+  "text": "",
+  "cite": ""
+ },
+ "review_count_display": "602",
+ "breakdown": [],
+ "cloud": [],
+ "cloud_h3": "What 602 people keep mentioning",
+ "reviews": [],
+ "gallery": [
+  "img/02.jpg",
+  "img/08.jpg",
+  "img/13.jpg",
+  "img/14.jpg",
+  "img/05.jpg",
+  "img/12.jpg",
+  "img/04.jpg"
+ ],
+ "hours_display": [
+  "12pm – 11pm",
+  "12pm – 11pm",
+  "12pm – 11pm",
+  "12pm – 11pm",
+  "12pm – 12am",
+  "12pm – 12am",
+  "12pm – 8pm"
+ ],
+ "hours": [
+  [
+   [
+    720,
+    1380
+   ]
+  ],
+  [
+   [
+    720,
+    1380
+   ]
+  ],
+  [
+   [
+    720,
+    1380
+   ]
+  ],
+  [
+   [
+    720,
+    1380
+   ]
+  ],
+  [
+   [
+    720,
+    1440
+   ]
+  ],
+  [
+   [
+    720,
+    1440
+   ]
+  ],
+  [
+   [
+    720,
+    1200
+   ]
+  ]
+ ],
+ "popular_times": {},
+ "tip": {
+  "b": "Local tip",
+  "text": "Walk past the front counter and sit at the back. The recliners are where people actually smoke, and the room is long enough that the shop traffic up front never reaches you."
+ },
+ "getting_here": [
+  "430 Canal St in the CBD, a couple of minutes' walk from the French Quarter",
+  "The Canal streetcar stops outside the door"
+ ],
+ "cta_h2": "Noon till late. The humidor is open.",
+ "cta_dir_btn": "g",
+ "_source": {
+  "website": null,
+  "maps": "https://maps.google.com/?cid=6929254245760707317",
+  "status": "OPERATIONAL",
+  "price": null,
+  "summary": null,
+  "photos": [
+   {
+    "file": "img/01.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkQ1SMaMHCsCRtdByn0I5dd7XA4MF3yK63yPBrVXRWK1mxaoCm0F8l0CXdklExOQ5ApcDHW_yCV5GZOUiLMNYM4zup9n2y3Eanxc9_KEFN-w0gHOGvOGcd51QJpmzgC4B3F62zubQ",
+    "by": ""
+   },
+   {
+    "file": "img/02.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlUWQTnz0hgacTwxM0CumCC_If8-32nNUl2U7tQ0-LKAxQkxUAM5w4zVJQNTkkZZ_PT2bEMIvXKx4eo518pRSTeYn8P59L4lrcCLWsCZGA0bPJHuw8d7Pzlo9e7F8PScEpXe-ZgcGlEFsxK",
+    "by": ""
+   },
+   {
+    "file": "img/03.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkyLr3f5kHqRRNM0j4qRUQdcX7QVczj3pCgugrUm8QbIDAMJi8yqjtCRB8bBAZBtzYAMufXC7S0tS2U5Rq-It9Bpzdtlu4vCuEcYfu58p_Q4fneo5WXy8Al4M5oFQ19RX35rlmPK9RMXHI",
+    "by": ""
+   },
+   {
+    "file": "img/04.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk20x7EeUj50FVQA0p0wMQYjnbapbnbb8PvEd_zmNmeiWEHkWRZTUAlZjbDtRj6uiFIn3C_hscnfQvtmsc0mCVdz9R0L4sPb7IQV1_C09kmKp3CBz6EQLVXFgeNqvOaFnCGjCUw2wOHRsA",
+    "by": ""
+   },
+   {
+    "file": "img/05.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn_ZQP3yxLhkQh3YfGcOYt8nh3yD68gj6nuea-j5P9Eg-sBHSME-3W5D07LsZix4IW11O0tTqHOtLm-I7IUuYdYsxcX9kI6fmNS1V1eySyrCWSP5mu79ZpY8mNuQx6AAWD4RDl2Yg",
+    "by": ""
+   },
+   {
+    "file": "img/06.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl8NmaQs_1h3aRcCEMipAUY-8QELDhOJUcnXP2_l0_rQqmM5zfanCA6ywGXAtdAuGXvQHYIEq-oxMXrLIITCjkUwIxp5bMAgrP-gVkgu1TkE6VhADNIUqgVzh8_9sA3AoMovIaV",
+    "by": ""
+   },
+   {
+    "file": "img/07.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkiItP3JJg4F22oQBYIyCMyOR-VAHm_yIEBXSYlVMv1TWlDgdmWMyFHAWqOvsV-GxWvaatO3F3XCxuaJzTLx3EIcZ746gfm8P8nLeg4aaGPxn0oZoQjPELmiwGglQJJRZBhveGq",
+    "by": ""
+   },
+   {
+    "file": "img/08.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnnC80w9S785ySZK0y_ndqoR8cT3L3_N6qqDQSuZTR2Ds5MPeWwE2IIyHYBzcDFTGzCwlI-a1xKZBwl9OhT0_Mbxy5oyBUVTeMw5jvPvqzwPPGPEc3ntgLcAe1mCU7wRqZb5-mICQ",
+    "by": ""
+   },
+   {
+    "file": "img/09.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlcY2JZgKRRN3hkuDZpQEEykXVKyyqepNCIj9qbsMnuBIAQmRc6OpKMH9uqx0t6t0kqRyferwwLhdD7zVDwMuEIPxr-6eJ278tdTEKdUT0wxoo_X43RT55R4AD2I-CRQXa9Em6EGRnFM97Y",
+    "by": ""
+   },
+   {
+    "file": "img/10.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlArIEqOta4nIxMvfQVEu1_iMfMGoIbXWAZG6x3VW-aEMxgidVmtU3YIPPMv09bAKmD2WSdn8ZZv8SYAaco9B-R96bWRpPpzWpL2iKT-M64pbD_QX4tR5YofTRlw7CisGc60dsM",
+    "by": ""
+   },
+   {
+    "file": "img/11.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkThSWJP23PGYXo39iuZDqsZPchX3fele5qcEYcCl6b78Xgx4c8QndL6s8mN3Rhb92ZTapyeryFmT_pwxy24jZnV16cMQlA0dNVMs6plMy13vG3J5aULEcsW9NIkbyBP41qeoYxGpMCxhg",
+    "by": ""
+   },
+   {
+    "file": "img/12.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkDxv0qwIUMoRVm5kUDzbV5D425DqUM5tfl6rgKClgo0nErE-D_gAC-NLSehv0kDUtF6VH_sUzAyViIabLAG5guL4GgoWwox5R8_gg_8k85iSKhMEVOZPcxPBn8lEOfgW6pO06x",
+    "by": ""
+   },
+   {
+    "file": "img/13.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmrk_jQnRgyD5qALS7zYvmZalC0d8gLxTRQ7N9658cK01vLKOIrkotstiFe6DwdF0F9znl8l21KZSjqBAJALfwK-rHBldSqVT9ArU9nGdAWg7KMreoUMcNimBVp30df2w02Axw9rg",
+    "by": ""
+   },
+   {
+    "file": "img/14.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn5pRw4sTAwfFWdMoFn5el5rMCYGwJDQpXNQhbp9F0K2WP7xzirL3E4rLRcDoI32sLyPETz4VQmgrhbYIQtaHgY9uaOJoIpCDM_FOFHM9H7sd9fFxHgSdNG36jQsQutskoC9wA",
+    "by": ""
+   }
+  ],
+  "fetched": "2026-09-19",
+  "attributes": [
+   {
+    "head": "Accessibility",
+    "items": [
+     "Wheelchair accessible entrance"
+    ]
+   },
+   {
+    "head": "From the business",
+    "items": [
+     "Small business"
+    ]
+   },
+   {
+    "head": "Service options",
+    "items": [
+     "In-store shopping",
+     "Onsite services",
+     "Delivery"
+    ]
+   },
+   {
+    "head": "Amenities",
+    "items": [
+     "Wi-Fi"
+    ]
+   },
+   {
+    "head": "Crowd",
+    "items": [
+     "LGBTQ+ friendly"
+    ]
+   },
+   {
+    "head": "Planning",
+    "items": [
+     "Quick visit"
+    ]
+   },
+   {
+    "head": "Payments",
+    "items": [
+     "Credit cards",
+     "Debit cards",
+     "NFC mobile payments"
+    ]
+   }
+  ],
+  "scraped_from": "https://www.google.com/maps/place/Don+Leoncio+Cigars+Bar/@29.9513554,-90.0668675,17z/data=!3m1!4b1!4m6!3m5!1s0x8620a60d3666ccd5:0x6029a80614ef2af5!8m2!3d29.9513554!4d-90.0668675!16s%2Fg%2F1vvr6ktp?hl=en&entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+  "method": "maps page scrape (Places API New not enabled)"
+ }
+}
