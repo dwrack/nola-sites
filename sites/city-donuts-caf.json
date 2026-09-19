@@ -1,0 +1,379 @@
+{
+ "slug": "city-donuts-caf",
+ "theme": {
+  "colors": {
+   "--bg": "#f5efe3",
+   "--bg2": "#ebe2d1",
+   "--ink": "#22190f",
+   "--muted": "#6a5d4b",
+   "--acc": "#9c2a1e",
+   "--acc2": "#1f3a5f",
+   "--accink": "#fff",
+   "--card": "#fffaf1",
+   "--r": "3px",
+   "--band-ink": "var(--ink)"
+  },
+  "font_link": "Libre+Caslon+Text:ital,wght@0,400;0,700;1,400",
+  "font_stack": "'Libre Caslon Text', Georgia, serif",
+  "h1": "font-size:clamp(2.4rem,5.2vw,4.3rem);font-weight:700;letter-spacing:-.015em;line-height:1.05",
+  "h2_weight": "700",
+  "h3_weight": "700",
+  "brand_weight": "700",
+  "stat_weight": "700",
+  "num_weight": "600",
+  "quote_weight": "700",
+  "big_weight": "700",
+  "cloud_weight": "700",
+  "dark": false,
+  "alt_dark": false
+ },
+ "theme_from": "mother-s-restaurant",
+ "title": "City Donuts & Café · 24-hour donut shop · New Orleans",
+ "description": "Open 24 hours on S Claiborne. Glazed beignets, a full donut case, and a kitchen doing shrimp and grits at any hour.",
+ "icon": {
+  "bg": "#9c2a1e",
+  "fg": "#fff",
+  "initials": "CD"
+ },
+ "schema_type": "Bakery",
+ "name": "City Donuts & Café",
+ "phone_e164": "+15043725811",
+ "phone_schema": "+1504-372-5811",
+ "address": {
+  "streetAddress": "3301 S Claiborne Ave",
+  "addressLocality": "New Orleans",
+  "addressRegion": "LA",
+  "postalCode": "70125"
+ },
+ "geo": {
+  "lat": 29.9417419,
+  "lng": -90.0968098
+ },
+ "hero_img": "img/01.jpg",
+ "category": "Donut shop",
+ "rating": 4.0,
+ "review_count": 1034,
+ "cid": "17946551155319176092",
+ "place_id": "ChIJEc1xormlIIYRnPss3DD1Dvk",
+ "phone_display": "(504) 372-5811",
+ "seal": {
+  "tag": "Uptown",
+  "center": "CD",
+  "center_style": "font-size:20px;letter-spacing:0;font-family:Georgia,serif;font-weight:700"
+ },
+ "stars": "★★★★☆",
+ "hero": {
+  "kicker": "Donuts, beignets & a 24-hour kitchen · 3301 S Claiborne Ave",
+  "headline": "Hot donuts at three in the morning, and a kitchen that never once closes.",
+  "sub": "A donut counter and kitchen on S Claiborne that never closes, not on Sundays and not on holidays. Come for the glazed beignets, stay because the café side does breakfast and fried chicken too.",
+  "dir_btn": "w"
+ },
+ "stats": [
+  {
+   "count": "24/7",
+   "label": "open, every day"
+  },
+  {
+   "count": "1,034",
+   "label": "Google reviews"
+  },
+  {
+   "count": "4.0",
+   "label": "stars on Google"
+  },
+  {
+   "count": "566",
+   "label": "five-star reviews"
+  }
+ ],
+ "story": {
+  "kicker": "Uptown",
+  "h2": "City Donuts & Café",
+  "paragraphs": [
+   "City Donuts sits on S Claiborne with a neon sign in the window that says HOT DONUTS NOW, and it means it at whatever hour you happen to read it. The case runs the length of the counter: glazed, chocolate, iced and sprinkled, filled, and the fried apple and cherry pies stacked in their own tray. A donut shop that never closes is close to a public utility in this part of town.",
+   "The café half is the part people underrate. Shrimp and grits come out in a foam box with the shrimp piled on and green onion over the top, the breakfast plate is eggs and grits and sausage and toast, and there is fried chicken if it turns out to be that kind of night. What regulars keep writing about, though, is the glazed beignet. It is not the powdered kind and it is not trying to be."
+  ]
+ },
+ "facts": [
+  "Open 24 hours, seven days a week",
+  "Donut case out front, beignets and fried pies made through the night",
+  "Full café menu: breakfast plates, shrimp and grits, fried chicken",
+  "Drip coffee and espresso drinks, lattes included",
+  "Parking lot on site, wheelchair accessible entrance and restroom"
+ ],
+ "address_display": "3301 S Claiborne Ave, New Orleans, LA 70125",
+ "instagram": "https://www.instagram.com/city.donuts/",
+ "order": [
+  {
+   "img": "img/03.jpg",
+   "name": "Glazed Beignets",
+   "blurb": "Square, glazed, handed over hot in a foam box. Not the powdered kind. This is the one people come back for."
+  },
+  {
+   "img": "img/06.jpg",
+   "name": "Shrimp and Grits",
+   "blurb": "Shrimp piled over smooth grits with green onion. Reviewers keep landing on the word flavorful, and it is a lot of food."
+  },
+  {
+   "img": "img/08.jpg",
+   "name": "Iced Donuts",
+   "blurb": "Pink, white, sprinkled, decorated by hand in the morning. Pick out four and they will box them for you."
+  },
+  {
+   "img": "img/10.jpg",
+   "name": "Fried Chicken and Fries",
+   "blurb": "Out of the kitchen at whatever hour you want it, which is the whole point of this place."
+  }
+ ],
+ "menu": {
+  "cols": [
+   {
+    "h3": "From the Case",
+    "items": [
+     {
+      "name": "Glazed donuts",
+      "price": ""
+     },
+     {
+      "name": "Chocolate and iced donuts",
+      "price": ""
+     },
+     {
+      "name": "Filled donuts",
+      "price": ""
+     },
+     {
+      "name": "Fried apple and cherry pies",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "Beignets",
+    "items": [
+     {
+      "name": "Glazed beignets",
+      "price": ""
+     },
+     {
+      "name": "Powdered beignets",
+      "price": ""
+     },
+     {
+      "name": "Half glazed, half powdered",
+      "price": ""
+     }
+    ]
+   },
+   {
+    "h3": "From the Kitchen",
+    "items": [
+     {
+      "name": "Shrimp and grits",
+      "price": ""
+     },
+     {
+      "name": "Eggs, grits, sausage and toast",
+      "price": ""
+     },
+     {
+      "name": "Fried chicken and fries",
+      "price": ""
+     },
+     {
+      "name": "Drip coffee, lattes",
+      "price": ""
+     }
+    ]
+   }
+  ],
+  "note": "City Donuts does not post a menu online. This list is what the case and the review photos show. Prices as posted and subject to change."
+ },
+ "quote": {
+  "img": "img/04.jpg",
+  "text": "“Every donut and beignet I've ordered has been done well. I've taken donuts to work events where people have praised the sweet treats.”",
+  "cite": "Google review · 4.0 stars from 1,034 reviews"
+ },
+ "review_count_display": "1,034",
+ "breakdown": [
+  566,
+  196,
+  112,
+  45,
+  115
+ ],
+ "cloud": [],
+ "cloud_h3": "What 1,034 people keep mentioning",
+ "reviews": [
+  {
+   "stars": "★★★★★",
+   "text": "“LOVE their glazed beignet!! The shrimp and grits were nice and smooth and very flavorful! Order type… More”",
+   "who": "Britt Ricke · Google"
+  },
+  {
+   "stars": "★★★★☆",
+   "text": "“Every donut and beignet I've ordered has been done well. Ive taken donuts to work events where people have praised the sweet treats. Today, was my first time ordering a latte and they didnt miss that either.”",
+   "who": "Khadijah Kaufman · Google"
+  },
+  {
+   "stars": "★★★★☆",
+   "text": "“Order: half glazed/powdered beignets. They came out piping hot. We devoured the glazed. The powdered wasn't sweet at … More”",
+   "who": "Brenesha Williams · Google"
+  }
+ ],
+ "gallery": [
+  "img/04.jpg",
+  "img/07.jpg",
+  "img/09.jpg",
+  "img/05.jpg",
+  "img/08.jpg",
+  "img/03.jpg",
+  "img/06.jpg"
+ ],
+ "hours_display": [
+  "Open 24 hours",
+  "Open 24 hours",
+  "Open 24 hours",
+  "Open 24 hours",
+  "Open 24 hours",
+  "Open 24 hours",
+  "Open 24 hours"
+ ],
+ "hours": [
+  [
+   [
+    0,
+    1440
+   ]
+  ],
+  [
+   [
+    0,
+    1440
+   ]
+  ],
+  [
+   [
+    0,
+    1440
+   ]
+  ],
+  [
+   [
+    0,
+    1440
+   ]
+  ],
+  [
+   [
+    0,
+    1440
+   ]
+  ],
+  [
+   [
+    0,
+    1440
+   ]
+  ],
+  [
+   [
+    0,
+    1440
+   ]
+  ]
+ ],
+ "popular_times": {},
+ "tip": {
+  "b": "Local tip",
+  "text": "The case is fullest overnight and again just after dawn, when the fryer has been running and nothing has been sitting. If you want the glazed beignets hot, that is the window."
+ },
+ "getting_here": [
+  "3301 S Claiborne Ave, Uptown, with the lot out front",
+  "Free parking on site, and Claiborne runs you there from Uptown or the CBD in ten minutes"
+ ],
+ "cta_h2": "It is open right now. It is always open.",
+ "cta_dir_btn": "g",
+ "_source": {
+  "website": null,
+  "maps": "https://maps.google.com/?cid=17946551155319176092",
+  "status": "OPERATIONAL",
+  "price": null,
+  "summary": null,
+  "photos": [
+   {
+    "file": "img/01.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlu7hCH3ePFN26d8mIb0h7lp1woSR9AkbERlRDYMZD6tEr0ZX5wKQuz7ZTIuJAa5blUBugRe-i43E3N9Dzde9IRrfP2EvVPKeom4ep2P3-aZDMrJCTgsp5jwKiI7Gf7rxGr-h9B",
+    "by": ""
+   },
+   {
+    "file": "img/02.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkE4i2CI1iAOiCmqfua2mDgp9XBufohlajci_Zy--ldWJm464QNG1RIVLLnXM7BN83Ym0P4yVcrhjuXSFM28IYjF3BV66zdNDI7yvkiP28y6Tll1Vv84kUo9Os7cYleUAWDbsvk3w",
+    "by": ""
+   },
+   {
+    "file": "img/03.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlZSRA3WZosuTaEADCZX0Hvstrx5GALOPogjKzggv63nkiz2s0JafaqDtJdLP2epyrIJ0536ajr2_x7HKfm8suUozH_Othk-MUb_1Tn0RKjk5dvUw6D_1u18-j5AZc3IliqkUWZ-mm5FwH3",
+    "by": ""
+   },
+   {
+    "file": "img/04.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnRe8ezMkk5XjMSM569GKtlDg4zmTzsa0gKNHtHUmyhhXlC5e9537OM36mQMup2iC7uQDp_C-X4_OrK7bEWElpiVN_aakV4Y19VBQb2RQNuGyKUo28uQ_KgBfgDNglfjsCHaTShWJSfh-0Y",
+    "by": ""
+   },
+   {
+    "file": "img/05.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnKAh0YHQWaEDhA_tk-WRGI9vfr_OTf-Bm1tG3RQUA5tk_YLauaPTCpQm40bQDB3JO0QY9gs6nZW3uhx4He8RX8aUpG-3yb7Lv2wxHa62VydRwE3YeoOeObOqQiG8XC1zwnZyxawfl7Sy0-",
+    "by": ""
+   },
+   {
+    "file": "img/06.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm-e-geWpg72_2qQ2gLM4tJ1GuPvIcCm5bYv8jBVbTJxuB2tz425TbpRyRlrUNF-eLjMxq0b3rA60NVUuDUxv7shb8zI2qbrdkIMIT67BqKL9-6l7cukYgNaFYL9C-kx6JVH8_Mg5U0R3fA",
+    "by": ""
+   },
+   {
+    "file": "img/07.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk1dAKV0A6m_pqfhz2thcFuNfBj7OeCDBMH3WeJ92wtU6SkcgnQP071AvUqMi8nqQjA1f_SQfaS1ORcSXZw-xP5340dtrUy4OWyHBkoeK7E3MylzboQpC5I6HOpffkOfn6tL8kQ",
+    "by": ""
+   },
+   {
+    "file": "img/08.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFmLLeXIITF9_3qzuHp6Mh-1BQxlANSPBkGkxwuj5LpfbGd_ZVuZmAfA7ES699lPCFZeGEOWrIWBiqmen2qQQveMpXwoaboLeJsHNkCqdCT-sFS6OSiMMRX1VdQR3g6LKdSmJWaPnU15_UT3F909fVtPHlLb3MVrgBqLHeZlqKpgHlJ7f5DzMMr9Q",
+    "by": ""
+   },
+   {
+    "file": "img/09.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkIerfnEnNU2sl5r7p4HWQnehXLH8JtILLyxwN42iZoSoOBlkLvVkfXq7rNg25wgNvQC-sQBNK8cm6m9zrfP86TqChsrI6WjPS1VGl4qjeoKqsDYdPymWtUKCIfUe1rk3uR3NY6",
+    "by": ""
+   },
+   {
+    "file": "img/10.jpg",
+    "source": "google",
+    "url": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnmcMvFz4SFfz5Sj_6QI_MDQJ8FeS3MUhbqoC7x4_63BwpxcmilwSTCmsRGiopbnWDJzzN5Abw8YfFnvfRP8LassXgU3VLDPKH7Dr4WCeSxiu6CTa16MonK_lv88Sn7xGBQOtN7TmoRV5Su",
+    "by": ""
+   }
+  ],
+  "fetched": "2026-09-19",
+  "attributes": [
+   {
+    "head": "Accessibility",
+    "items": [
+     "Wheelchair accessible entrance",
+     "Wheelchair accessible parking lot",
+     "Wheelchair accessible restroom"
+    ]
+   }
+  ],
+  "scraped_from": "https://www.google.com/maps/place/City+Donuts+%26+Caf%C3%A9/@29.9417419,-90.0968098,17z/data=!3m1!4b1!4m6!3m5!1s0x8620a5b9a271cd11:0xf90ef530dc2cfb9c!8m2!3d29.9417419!4d-90.0968098!16s%2Fg%2F11f3xwtxx4?hl=en&entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+  "method": "maps page scrape (Places API New not enabled)"
+ }
+}
